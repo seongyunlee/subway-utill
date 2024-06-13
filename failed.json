@@ -1,0 +1,156 @@
+[
+    {
+        "start": "풍산",
+        "end": "석수",
+        "answer": {
+            "stationName": "능곡",
+            "duration": 70.0
+        },
+        "wrong": [
+            {
+                "stationName": "천마산",
+                "duration": 230.0
+            },
+            {
+                "stationName": "건대입구",
+                "duration": 122.0
+            },
+            {
+                "stationName": "수리산",
+                "duration": 112.0
+            }
+        ]
+    },
+    {
+        "start": "풍산",
+        "end": "석수",
+        "answer": {
+            "stationName": "능곡",
+            "duration": 70.0
+        },
+        "wrong": [
+            {
+                "stationName": "천마산",
+                "duration": 230.0
+            },
+            {
+                "stationName": "건대입구",
+                "duration": 122.0
+            },
+            {
+                "stationName": "수리산",
+                "duration": 112.0
+            }
+        ]
+    },
+    {
+        "start": "석촌",
+        "end": "노량진",
+        "answer": {
+            "stationName": "사평",
+            "duration": 34.333333333333336
+        },
+        "wrong": [
+            {
+                "stationName": "을지로3가",
+                "duration": 51.666666666666664
+            },
+            {
+                "stationName": "하남검단산",
+                "duration": 108.66666666666667
+            },
+            {
+                "stationName": "삼산체육관",
+                "duration": 121.0
+            }
+        ]
+    },
+    {
+        "start": "선바위",
+        "end": "남구로",
+        "answer": {
+            "stationName": "이수",
+            "duration": 28.333333333333332
+        },
+        "wrong": [
+            {
+                "stationName": "정왕",
+                "duration": 188.33333333333334
+            },
+            {
+                "stationName": "발곡",
+                "duration": 161.33333333333334
+            },
+            {
+                "stationName": "검암",
+                "duration": 122.0
+            }
+        ]
+    },
+    {
+        "start": "안산",
+        "end": "가락시장",
+        "answer": {
+            "stationName": "상록수",
+            "duration": 86.33333333333333
+        },
+        "wrong": [
+            {
+                "stationName": "태릉입구",
+                "duration": 137.66666666666666
+            },
+            {
+                "stationName": "신창",
+                "duration": 290.3333333333333
+            },
+            {
+                "stationName": "원종",
+                "duration": 123.66666666666667
+            }
+        ]
+    },
+    {
+        "start": "망포",
+        "end": "용산",
+        "answer": {
+            "stationName": "가산디지털단지",
+            "duration": 68.0
+        },
+        "wrong": [
+            {
+                "stationName": "장암",
+                "duration": 177.33333333333334
+            },
+            {
+                "stationName": "419민주묘지",
+                "duration": 147.66666666666666
+            },
+            {
+                "stationName": "홍제",
+                "duration": 157.0
+            }
+        ]
+    },
+    {
+        "start": "야탑",
+        "end": "대곡",
+        "answer": {
+            "stationName": "홍대입구",
+            "duration": 89.33333333333333
+        },
+        "wrong": [
+            {
+                "stationName": "경기광주",
+                "duration": 115.0
+            },
+            {
+                "stationName": "광명사거리",
+                "duration": 117.33333333333333
+            },
+            {
+                "stationName": "남구로",
+                "duration": 117.33333333333333
+            }
+        ]
+    }
+]

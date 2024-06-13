@@ -1,0 +1,222 @@
+[
+    {
+        "start": "오목교",
+        "end": "동대문역사문화공원",
+        "answer": {
+            "stationName": "종로3가",
+            "duration": 28.0
+        },
+        "wrong": [
+            {
+                "stationName": "어린이대공원",
+                "duration": 69.0
+            },
+            {
+                "stationName": "김포공항",
+                "duration": 60.666666666666664
+            },
+            {
+                "stationName": "문정",
+                "duration": 87.33333333333333
+            }
+        ]
+    },
+    {
+        "start": "죽전",
+        "end": "지석",
+        "answer": {
+            "stationName": "구성",
+            "duration": 18.0
+        },
+        "wrong": [
+            {
+                "stationName": "호구포",
+                "duration": 171.66666666666666
+            },
+            {
+                "stationName": "신대방삼거리",
+                "duration": 157.33333333333334
+            },
+            {
+                "stationName": "매봉",
+                "duration": 102.33333333333333
+            }
+        ]
+    },
+    {
+        "start": "당고개",
+        "end": "평내호평",
+        "answer": {
+            "stationName": "중계",
+            "duration": 62.333333333333336
+        },
+        "wrong": [
+            {
+                "stationName": "녹번",
+                "duration": 154.33333333333334
+            },
+            {
+                "stationName": "송파",
+                "duration": 151.0
+            },
+            {
+                "stationName": "남부터미널",
+                "duration": 195.33333333333334
+            }
+        ]
+    },
+    {
+        "start": "하계",
+        "end": "남부터미널",
+        "answer": {
+            "stationName": "반포",
+            "duration": 47.0
+        },
+        "wrong": [
+            {
+                "stationName": "초지",
+                "duration": 177.33333333333334
+            },
+            {
+                "stationName": "신설동",
+                "duration": 60.0
+            },
+            {
+                "stationName": "보라매공원",
+                "duration": 91.66666666666667
+            }
+        ]
+    },
+    {
+        "start": "까치산",
+        "end": "성남",
+        "answer": {
+            "stationName": "사당",
+            "duration": 71.66666666666667
+        },
+        "wrong": [
+            {
+                "stationName": "인천공항2터미널",
+                "duration": 191.33333333333334
+            },
+            {
+                "stationName": "가능",
+                "duration": 172.0
+            },
+            {
+                "stationName": "동백",
+                "duration": 153.33333333333334
+            }
+        ]
+    },
+    {
+        "start": "상동",
+        "end": "노원",
+        "answer": {
+            "stationName": "중계",
+            "duration": 88.66666666666667
+        },
+        "wrong": [
+            {
+                "stationName": "어룡",
+                "duration": 158.66666666666666
+            },
+            {
+                "stationName": "남부터미널",
+                "duration": 110.33333333333333
+            },
+            {
+                "stationName": "삼성",
+                "duration": 106.66666666666667
+            }
+        ]
+    },
+    {
+        "start": "압구정로데오",
+        "end": "탄현",
+        "answer": {
+            "stationName": "서울숲",
+            "duration": 75.33333333333333
+        },
+        "wrong": [
+            {
+                "stationName": "장한평",
+                "duration": 97.33333333333333
+            },
+            {
+                "stationName": "백양리",
+                "duration": 265.0
+            },
+            {
+                "stationName": "매봉",
+                "duration": 101.33333333333333
+            }
+        ]
+    },
+    {
+        "start": "남구로",
+        "end": "광나루",
+        "answer": {
+            "stationName": "장승배기",
+            "duration": 50.333333333333336
+        },
+        "wrong": [
+            {
+                "stationName": "마두",
+                "duration": 130.66666666666666
+            },
+            {
+                "stationName": "탑석",
+                "duration": 179.33333333333334
+            },
+            {
+                "stationName": "뚝섬",
+                "duration": 69.33333333333333
+            }
+        ]
+    },
+    {
+        "start": "남구로",
+        "end": "광나루",
+        "answer": {
+            "stationName": "장승배기",
+            "duration": 50.333333333333336
+        },
+        "wrong": [
+            {
+                "stationName": "마두",
+                "duration": 130.66666666666666
+            },
+            {
+                "stationName": "탑석",
+                "duration": 179.33333333333334
+            },
+            {
+                "stationName": "뚝섬",
+                "duration": 69.33333333333333
+            }
+        ]
+    },
+    {
+        "start": "사당",
+        "end": "노량진",
+        "answer": {
+            "stationName": "총신대입구",
+            "duration": 17.666666666666668
+        },
+        "wrong": [
+            {
+                "stationName": "한성백제",
+                "duration": 83.0
+            },
+            {
+                "stationName": "마포",
+                "duration": 36.666666666666664
+            },
+            {
+                "stationName": "남구로",
+                "duration": 47.666666666666664
+            }
+        ]
+    }
+]

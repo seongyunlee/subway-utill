@@ -4,9 +4,18 @@ const zoomOut = document.getElementById("zoomOut");
 const svg = document.getElementsByTagName("svg")[0];
 const saveButton = document.getElementById("save");
 const map = document.getElementById("map");
+const maskButton = document.getElementById("maskButton");
+const maskText = document.getElementById("maskText");
+const upButton = document.getElementById("maskUp");
+const downButton = document.getElementById("maskDown");
+const leftButton = document.getElementById("maskLeft");
+const rightButton = document.getElementById("maskRight");
 dragElement(svg);
 
 saveButton.addEventListener("click", captureGuideToPNG);
+maskButton.addEventListener("click", () => {
+  maskMap(maskText.value.trim());
+});
 
 zoomOut.addEventListener("click", () => {
   let width = svg.viewBox.baseVal.width;
@@ -49,12 +58,45 @@ function diffSvgMapSize() {
 }
 
 function setGuidePosition() {
-  guide.style.left = `${
-    map.getClientRects()[0].left + map.clientWidth / 2 - guide.clientWidth / 2
-  }px`;
-  guide.style.top = `${
-    map.getClientRects()[0].top + map.clientHeight / 2 - guide.clientHeight / 2
-  }px`;
+  guide.style.left = `${map.clientWidth / 2 - guide.clientWidth / 2}px`;
+  guide.style.top = `${map.clientHeight / 2 - guide.clientHeight / 2}px`;
+}
+
+var prevMask = [];
+
+function enrollProblem() {
+  
+}
+
+function maskMap(text) {
+  //unmask previous mask
+  var maskWord = [];
+  if (text.includes(",")) {
+    maskWord = text.split(",");
+  } else {
+    maskWord.push(text);
+  }
+
+  prevMask.forEach((element) => {
+    element.style.fill = "black";
+    element.innerHTML = element.org;
+    element.transform.baseVal.initialize(element.orgMatrix);
+  });
+  //find element which has content of text
+  const elements = document.querySelectorAll("text");
+  console.log(elements);
+  const finds = Array.from(elements).filter((element) => {
+    return maskWord.includes(element.innerHTML.trim());
+  });
+  finds.forEach((element) => {
+    element.org = element.innerHTML;
+    element.orgMatrix = element.transform.baseVal.createSVGTransformFromMatrix(
+      element.transform.baseVal.consolidate().matrix
+    );
+    element.style.fill = "red";
+    element.innerHTML = "???";
+  });
+  prevMask = finds;
 }
 
 function dragElement(elmnt) {
@@ -98,6 +140,30 @@ function dragElement(elmnt) {
     document.onmousemove = null;
   }
 }
+leftButton.addEventListener("click", () => {
+  moveMask({ x: -10, y: 0 });
+});
+rightButton.addEventListener("click", () => {
+  moveMask({ x: 10, y: 0 });
+});
+upButton.addEventListener("click", () => {
+  moveMask({ x: 0, y: -10 });
+});
+downButton.addEventListener("click", () => {
+  moveMask({ x: 0, y: 10 });
+});
+
+function moveMask(direction) {
+  for (let i = 0; i < prevMask.length; i++) {
+    let element = prevMask[i];
+    let newMatrix = element.transform.baseVal.consolidate().matrix;
+    newMatrix.e += direction.x;
+    newMatrix.f += direction.y;
+    element.transform.baseVal.initialize(
+      element.transform.baseVal.createSVGTransformFromMatrix(newMatrix)
+    );
+  }
+}
 
 function captureGuideToPNG() {
   guide.style.visibility = "hidden";
@@ -127,14 +193,9 @@ function captureGuideToPNG() {
           guide.clientHeight * scaleY
         );
 
-      const org = document.createElement("a");
-      org.href = canvas.toDataURL();
-      org.download = "original.png";
-      org.click();
-
       const a = document.createElement("a");
       a.href = cropCanvas.toDataURL();
-      a.download = "guide.png";
+      a.download = `${maskText.value.trim()}.png`;
       a.click();
 
       guide.style.visibility = "visible";

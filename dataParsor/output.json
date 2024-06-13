@@ -1,0 +1,7138 @@
+{
+    "서울역": {
+        "id": 1,
+        "stations": [
+            "LINE_AIR",
+            "LINE_GYEONGUI",
+            "LINE_1",
+            "LINE_4"
+        ],
+        "aliasName": [
+            "서울역",
+            "서울",
+            "서울역",
+            "서울",
+            "서울역",
+            "서울",
+            "서울역",
+            "서울"
+        ]
+    },
+    "공덕": {
+        "id": 2,
+        "stations": [
+            "LINE_AIR",
+            "LINE_GYEONGUI",
+            "LINE_5",
+            "LINE_6"
+        ],
+        "aliasName": [
+            "공덕",
+            "공덕역",
+            "공덕",
+            "공덕역",
+            "공덕",
+            "공덕역",
+            "공덕",
+            "공덕역"
+        ]
+    },
+    "홍대입구": {
+        "id": 3,
+        "stations": [
+            "LINE_AIR",
+            "LINE_GYEONGUI",
+            "LINE_2"
+        ],
+        "aliasName": [
+            "홍대입구",
+            "홍대입구역",
+            "홍대입구",
+            "홍대입구역",
+            "홍대입구",
+            "홍대입구역"
+        ]
+    },
+    "디지털미디어시티": {
+        "id": 4,
+        "stations": [
+            "LINE_AIR",
+            "LINE_GYEONGUI",
+            "LINE_6"
+        ],
+        "aliasName": [
+            "디지털미디어시티",
+            "디지털미디어시티역",
+            "디지털미디어시티",
+            "디지털미디어시티역",
+            "디지털미디어시티",
+            "디지털미디어시티역"
+        ]
+    },
+    "마곡나루": {
+        "id": 5,
+        "stations": [
+            "LINE_AIR",
+            "LINE_9"
+        ],
+        "aliasName": [
+            "마곡나루",
+            "마곡나루역",
+            "마곡나루",
+            "마곡나루역"
+        ]
+    },
+    "김포공항": {
+        "id": 6,
+        "stations": [
+            "LINE_AIR",
+            "LINE_GIMPO",
+            "LINE_5",
+            "LINE_9"
+        ],
+        "aliasName": [
+            "김포공항",
+            "김포공항역",
+            "김포공항",
+            "김포공항역",
+            "김포공항",
+            "김포공항역",
+            "김포공항",
+            "김포공항역"
+        ]
+    },
+    "계양": {
+        "id": 7,
+        "stations": [
+            "LINE_AIR",
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "계양",
+            "계양역",
+            "계양",
+            "계양역"
+        ]
+    },
+    "검암": {
+        "id": 8,
+        "stations": [
+            "LINE_AIR",
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "검암",
+            "검암역",
+            "검암",
+            "검암역"
+        ]
+    },
+    "청라국제도시": {
+        "id": 9,
+        "stations": [
+            "LINE_AIR"
+        ],
+        "aliasName": [
+            "청라국제도시",
+            "청라국제도시역"
+        ]
+    },
+    "영종": {
+        "id": 10,
+        "stations": [
+            "LINE_AIR"
+        ],
+        "aliasName": [
+            "영종",
+            "영종역"
+        ]
+    },
+    "운서": {
+        "id": 11,
+        "stations": [
+            "LINE_AIR"
+        ],
+        "aliasName": [
+            "운서",
+            "운서역"
+        ]
+    },
+    "공항화물청사": {
+        "id": 12,
+        "stations": [
+            "LINE_AIR"
+        ],
+        "aliasName": [
+            "공항화물청사",
+            "공항화물청사역"
+        ]
+    },
+    "인천공항1터미널": {
+        "id": 13,
+        "stations": [
+            "LINE_AIR"
+        ],
+        "aliasName": [
+            "인천공항1터미널",
+            "인천공항1터미널역"
+        ]
+    },
+    "인천공항2터미널": {
+        "id": 14,
+        "stations": [
+            "LINE_AIR"
+        ],
+        "aliasName": [
+            "인천공항2터미널",
+            "인천공항2터미널역"
+        ]
+    },
+    "논현": {
+        "id": 15,
+        "stations": [
+            "LINE_SINBUNDANG",
+            "LINE_7"
+        ],
+        "aliasName": [
+            "논현",
+            "논현역",
+            "논현",
+            "논현역"
+        ]
+    },
+    "신논현": {
+        "id": 16,
+        "stations": [
+            "LINE_SINBUNDANG",
+            "LINE_9"
+        ],
+        "aliasName": [
+            "신논현",
+            "신논현역",
+            "신논현",
+            "신논현역"
+        ]
+    },
+    "강남": {
+        "id": 17,
+        "stations": [
+            "LINE_SINBUNDANG",
+            "LINE_2"
+        ],
+        "aliasName": [
+            "강남",
+            "강남역",
+            "강남",
+            "강남역"
+        ]
+    },
+    "양재": {
+        "id": 434,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "양재(서초구청)",
+            "서초구청",
+            "양재",
+            "양재(서초구청)역",
+            "서초구청역",
+            "양재역"
+        ]
+    },
+    "양재시민의숲": {
+        "id": 19,
+        "stations": [
+            "LINE_SINBUNDANG"
+        ],
+        "aliasName": [
+            "양재시민의숲(매헌)",
+            "매헌",
+            "양재시민의숲",
+            "양재시민의숲(매헌)역",
+            "매헌역",
+            "양재시민의숲역"
+        ]
+    },
+    "청계산입구": {
+        "id": 20,
+        "stations": [
+            "LINE_SINBUNDANG"
+        ],
+        "aliasName": [
+            "청계산입구",
+            "청계산입구역"
+        ]
+    },
+    "판교": {
+        "id": 356,
+        "stations": [
+            "LINE_GYEONGANG"
+        ],
+        "aliasName": [
+            "판교(판교테크노밸리)",
+            "판교테크노밸리",
+            "판교",
+            "판교(판교테크노밸리)역",
+            "판교테크노밸리역",
+            "판교역"
+        ]
+    },
+    "정자": {
+        "id": 22,
+        "stations": [
+            "LINE_SINBUNDANG",
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "정자",
+            "정자역",
+            "정자",
+            "정자역"
+        ]
+    },
+    "성복": {
+        "id": 23,
+        "stations": [
+            "LINE_SINBUNDANG"
+        ],
+        "aliasName": [
+            "성복",
+            "성복역"
+        ]
+    },
+    "상현": {
+        "id": 24,
+        "stations": [
+            "LINE_SINBUNDANG"
+        ],
+        "aliasName": [
+            "상현",
+            "상현역"
+        ]
+    },
+    "광교중앙": {
+        "id": 25,
+        "stations": [
+            "LINE_SINBUNDANG"
+        ],
+        "aliasName": [
+            "광교중앙(아주대)",
+            "아주대",
+            "광교중앙",
+            "광교중앙(아주대)역",
+            "아주대역",
+            "광교중앙역"
+        ]
+    },
+    "광교": {
+        "id": 26,
+        "stations": [
+            "LINE_SINBUNDANG"
+        ],
+        "aliasName": [
+            "광교(경기대)",
+            "경기대",
+            "광교",
+            "광교(경기대)역",
+            "경기대역",
+            "광교역"
+        ]
+    },
+    "신사": {
+        "id": 27,
+        "stations": [
+            "LINE_SINBUNDANG",
+            "LINE_3"
+        ],
+        "aliasName": [
+            "신사",
+            "신사역",
+            "신사",
+            "신사역"
+        ]
+    },
+    "미금": {
+        "id": 252,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "미금(분당서울대병원)",
+            "분당서울대병원",
+            "미금",
+            "미금(분당서울대병원)역",
+            "분당서울대병원역",
+            "미금역"
+        ]
+    },
+    "동천": {
+        "id": 29,
+        "stations": [
+            "LINE_SINBUNDANG"
+        ],
+        "aliasName": [
+            "동천",
+            "동천역"
+        ]
+    },
+    "수지구청": {
+        "id": 30,
+        "stations": [
+            "LINE_SINBUNDANG"
+        ],
+        "aliasName": [
+            "수지구청",
+            "수지구청역"
+        ]
+    },
+    "기흥": {
+        "id": 280,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "기흥(백남준아트센터)",
+            "백남준아트센터",
+            "기흥",
+            "기흥(백남준아트센터)역",
+            "백남준아트센터역",
+            "기흥역"
+        ]
+    },
+    "강남대": {
+        "id": 32,
+        "stations": [
+            "LINE_EVER"
+        ],
+        "aliasName": [
+            "강남대",
+            "강남대역"
+        ]
+    },
+    "지석": {
+        "id": 33,
+        "stations": [
+            "LINE_EVER"
+        ],
+        "aliasName": [
+            "지석",
+            "지석역"
+        ]
+    },
+    "어정": {
+        "id": 34,
+        "stations": [
+            "LINE_EVER"
+        ],
+        "aliasName": [
+            "어정",
+            "어정역"
+        ]
+    },
+    "동백": {
+        "id": 35,
+        "stations": [
+            "LINE_EVER"
+        ],
+        "aliasName": [
+            "동백",
+            "동백역"
+        ]
+    },
+    "초당": {
+        "id": 36,
+        "stations": [
+            "LINE_EVER"
+        ],
+        "aliasName": [
+            "초당",
+            "초당역"
+        ]
+    },
+    "삼가": {
+        "id": 37,
+        "stations": [
+            "LINE_EVER"
+        ],
+        "aliasName": [
+            "삼가",
+            "삼가역"
+        ]
+    },
+    "시청·용인대": {
+        "id": 38,
+        "stations": [
+            "LINE_EVER"
+        ],
+        "aliasName": [
+            "시청·용인대",
+            "시청·용인대역"
+        ]
+    },
+    "명지대": {
+        "id": 39,
+        "stations": [
+            "LINE_EVER"
+        ],
+        "aliasName": [
+            "명지대",
+            "명지대역"
+        ]
+    },
+    "김량장": {
+        "id": 40,
+        "stations": [
+            "LINE_EVER"
+        ],
+        "aliasName": [
+            "김량장",
+            "김량장역"
+        ]
+    },
+    "운동장·송담대": {
+        "id": 41,
+        "stations": [
+            "LINE_EVER"
+        ],
+        "aliasName": [
+            "운동장·송담대",
+            "운동장·송담대역"
+        ]
+    },
+    "고진": {
+        "id": 42,
+        "stations": [
+            "LINE_EVER"
+        ],
+        "aliasName": [
+            "고진",
+            "고진역"
+        ]
+    },
+    "보평": {
+        "id": 43,
+        "stations": [
+            "LINE_EVER"
+        ],
+        "aliasName": [
+            "보평",
+            "보평역"
+        ]
+    },
+    "둔전": {
+        "id": 44,
+        "stations": [
+            "LINE_EVER"
+        ],
+        "aliasName": [
+            "둔전",
+            "둔전역"
+        ]
+    },
+    "전대·에버랜드": {
+        "id": 45,
+        "stations": [
+            "LINE_EVER"
+        ],
+        "aliasName": [
+            "전대·에버랜드",
+            "전대·에버랜드역"
+        ]
+    },
+    "양촌": {
+        "id": 46,
+        "stations": [
+            "LINE_GIMPO"
+        ],
+        "aliasName": [
+            "양촌",
+            "양촌역"
+        ]
+    },
+    "구래": {
+        "id": 47,
+        "stations": [
+            "LINE_GIMPO"
+        ],
+        "aliasName": [
+            "구래",
+            "구래역"
+        ]
+    },
+    "마산": {
+        "id": 48,
+        "stations": [
+            "LINE_GIMPO"
+        ],
+        "aliasName": [
+            "마산",
+            "마산역"
+        ]
+    },
+    "장기": {
+        "id": 49,
+        "stations": [
+            "LINE_GIMPO"
+        ],
+        "aliasName": [
+            "장기",
+            "장기역"
+        ]
+    },
+    "운양": {
+        "id": 50,
+        "stations": [
+            "LINE_GIMPO"
+        ],
+        "aliasName": [
+            "운양",
+            "운양역"
+        ]
+    },
+    "걸포북변": {
+        "id": 51,
+        "stations": [
+            "LINE_GIMPO"
+        ],
+        "aliasName": [
+            "걸포북변",
+            "걸포북변역"
+        ]
+    },
+    "사우": {
+        "id": 52,
+        "stations": [
+            "LINE_GIMPO"
+        ],
+        "aliasName": [
+            "사우(김포시청)",
+            "김포시청",
+            "사우",
+            "사우(김포시청)역",
+            "김포시청역",
+            "사우역"
+        ]
+    },
+    "풍무": {
+        "id": 53,
+        "stations": [
+            "LINE_GIMPO"
+        ],
+        "aliasName": [
+            "풍무",
+            "풍무역"
+        ]
+    },
+    "고촌": {
+        "id": 54,
+        "stations": [
+            "LINE_GIMPO"
+        ],
+        "aliasName": [
+            "고촌",
+            "고촌역"
+        ]
+    },
+    "까치울": {
+        "id": 55,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "까치울",
+            "까치울역"
+        ]
+    },
+    "부천종합운동장": {
+        "id": 56,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "부천종합운동장",
+            "부천종합운동장역"
+        ]
+    },
+    "춘의": {
+        "id": 57,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "춘의",
+            "춘의역"
+        ]
+    },
+    "신중동": {
+        "id": 58,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "신중동",
+            "신중동역"
+        ]
+    },
+    "부천시청": {
+        "id": 59,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "부천시청",
+            "부천시청역"
+        ]
+    },
+    "상동": {
+        "id": 60,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "상동",
+            "상동역"
+        ]
+    },
+    "삼산체육관": {
+        "id": 61,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "삼산체육관",
+            "삼산체육관역"
+        ]
+    },
+    "굴포천": {
+        "id": 62,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "굴포천",
+            "굴포천역"
+        ]
+    },
+    "부평구청": {
+        "id": 63,
+        "stations": [
+            "LINE_7",
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "부평구청",
+            "부평구청역",
+            "부평구청",
+            "부평구청역"
+        ]
+    },
+    "산곡": {
+        "id": 64,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "산곡",
+            "산곡역"
+        ]
+    },
+    "석남": {
+        "id": 65,
+        "stations": [
+            "LINE_7",
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "석남(거북시장)",
+            "거북시장",
+            "석남",
+            "석남(거북시장)역",
+            "거북시장역",
+            "석남역",
+            "석남",
+            "석남역"
+        ]
+    },
+    "귤현": {
+        "id": 66,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "귤현",
+            "귤현역"
+        ]
+    },
+    "박촌": {
+        "id": 67,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "박촌",
+            "박촌역"
+        ]
+    },
+    "임학": {
+        "id": 68,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "임학",
+            "임학역"
+        ]
+    },
+    "계산": {
+        "id": 69,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "계산",
+            "계산역"
+        ]
+    },
+    "경인교대입구": {
+        "id": 70,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "경인교대입구",
+            "경인교대입구역"
+        ]
+    },
+    "작전": {
+        "id": 71,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "작전",
+            "작전역"
+        ]
+    },
+    "갈산": {
+        "id": 72,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "갈산",
+            "갈산역"
+        ]
+    },
+    "부평시장": {
+        "id": 73,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "부평시장",
+            "부평시장역"
+        ]
+    },
+    "부평": {
+        "id": 74,
+        "stations": [
+            "LINE_INCHEON1",
+            "LINE_1"
+        ],
+        "aliasName": [
+            "부평",
+            "부평역",
+            "부평",
+            "부평역"
+        ]
+    },
+    "동수": {
+        "id": 75,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "동수",
+            "동수역"
+        ]
+    },
+    "부평삼거리": {
+        "id": 76,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "부평삼거리",
+            "부평삼거리역"
+        ]
+    },
+    "간석오거리": {
+        "id": 77,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "간석오거리",
+            "간석오거리역"
+        ]
+    },
+    "인천시청": {
+        "id": 78,
+        "stations": [
+            "LINE_INCHEON1",
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "인천시청",
+            "인천시청역",
+            "인천시청",
+            "인천시청역"
+        ]
+    },
+    "예술회관": {
+        "id": 79,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "예술회관",
+            "예술회관역"
+        ]
+    },
+    "인천터미널": {
+        "id": 80,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "인천터미널",
+            "인천터미널역"
+        ]
+    },
+    "문학경기장": {
+        "id": 81,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "문학경기장",
+            "문학경기장역"
+        ]
+    },
+    "선학": {
+        "id": 82,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "선학",
+            "선학역"
+        ]
+    },
+    "신연수": {
+        "id": 83,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "신연수",
+            "신연수역"
+        ]
+    },
+    "원인재": {
+        "id": 84,
+        "stations": [
+            "LINE_INCHEON1",
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "원인재",
+            "원인재역",
+            "원인재",
+            "원인재역"
+        ]
+    },
+    "동춘": {
+        "id": 85,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "동춘",
+            "동춘역"
+        ]
+    },
+    "동막": {
+        "id": 86,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "동막",
+            "동막역"
+        ]
+    },
+    "캠퍼스타운": {
+        "id": 87,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "캠퍼스타운",
+            "캠퍼스타운역"
+        ]
+    },
+    "테크노파크": {
+        "id": 88,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "테크노파크",
+            "테크노파크역"
+        ]
+    },
+    "지식정보단지": {
+        "id": 89,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "지식정보단지",
+            "지식정보단지역"
+        ]
+    },
+    "인천대입구": {
+        "id": 90,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "인천대입구",
+            "인천대입구역"
+        ]
+    },
+    "센트럴파크": {
+        "id": 91,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "센트럴파크",
+            "센트럴파크역"
+        ]
+    },
+    "국제업무지구": {
+        "id": 92,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "국제업무지구",
+            "국제업무지구역"
+        ]
+    },
+    "송도달빛축제공원": {
+        "id": 93,
+        "stations": [
+            "LINE_INCHEON1"
+        ],
+        "aliasName": [
+            "송도달빛축제공원",
+            "송도달빛축제공원역"
+        ]
+    },
+    "검단오류": {
+        "id": 94,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "검단오류",
+            "검단오류역"
+        ]
+    },
+    "왕길": {
+        "id": 95,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "왕길",
+            "왕길역"
+        ]
+    },
+    "검단사거리": {
+        "id": 96,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "검단사거리",
+            "검단사거리역"
+        ]
+    },
+    "마전": {
+        "id": 97,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "마전",
+            "마전역"
+        ]
+    },
+    "완정": {
+        "id": 98,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "완정",
+            "완정역"
+        ]
+    },
+    "독정": {
+        "id": 99,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "독정",
+            "독정역"
+        ]
+    },
+    "검바위": {
+        "id": 100,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "검바위",
+            "검바위역"
+        ]
+    },
+    "아시아드경기장": {
+        "id": 101,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "아시아드경기장",
+            "아시아드경기장역"
+        ]
+    },
+    "서구청": {
+        "id": 102,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "서구청",
+            "서구청역"
+        ]
+    },
+    "가정": {
+        "id": 103,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "가정",
+            "가정역"
+        ]
+    },
+    "가정중앙시장": {
+        "id": 104,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "가정중앙시장",
+            "가정중앙시장역"
+        ]
+    },
+    "서부여성회관": {
+        "id": 105,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "서부여성회관",
+            "서부여성회관역"
+        ]
+    },
+    "인천가좌": {
+        "id": 106,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "인천가좌",
+            "인천가좌역"
+        ]
+    },
+    "가재울": {
+        "id": 107,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "가재울",
+            "가재울역"
+        ]
+    },
+    "주안국가산단": {
+        "id": 108,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "주안국가산단",
+            "주안국가산단역"
+        ]
+    },
+    "주안": {
+        "id": 109,
+        "stations": [
+            "LINE_INCHEON2",
+            "LINE_1"
+        ],
+        "aliasName": [
+            "주안",
+            "주안역",
+            "주안",
+            "주안역"
+        ]
+    },
+    "시민공원": {
+        "id": 110,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "시민공원",
+            "시민공원역"
+        ]
+    },
+    "석바위시장": {
+        "id": 111,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "석바위시장",
+            "석바위시장역"
+        ]
+    },
+    "석천사거리": {
+        "id": 112,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "석천사거리",
+            "석천사거리역"
+        ]
+    },
+    "모래내시장": {
+        "id": 113,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "모래내시장",
+            "모래내시장역"
+        ]
+    },
+    "만수": {
+        "id": 114,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "만수",
+            "만수역"
+        ]
+    },
+    "남동구청": {
+        "id": 115,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "남동구청",
+            "남동구청역"
+        ]
+    },
+    "인천대공원": {
+        "id": 116,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "인천대공원",
+            "인천대공원역"
+        ]
+    },
+    "운연": {
+        "id": 117,
+        "stations": [
+            "LINE_INCHEON2"
+        ],
+        "aliasName": [
+            "운연",
+            "운연역"
+        ]
+    },
+    "지행": {
+        "id": 118,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "지행",
+            "지행역"
+        ]
+    },
+    "도봉": {
+        "id": 119,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "도봉",
+            "도봉역"
+        ]
+    },
+    "창동": {
+        "id": 120,
+        "stations": [
+            "LINE_1",
+            "LINE_4"
+        ],
+        "aliasName": [
+            "창동",
+            "창동역",
+            "창동",
+            "창동역"
+        ]
+    },
+    "월계": {
+        "id": 121,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "월계",
+            "월계역"
+        ]
+    },
+    "외대앞": {
+        "id": 122,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "외대앞",
+            "외대앞역"
+        ]
+    },
+    "대방": {
+        "id": 123,
+        "stations": [
+            "LINE_1",
+            "LINE_SINRIM"
+        ],
+        "aliasName": [
+            "대방",
+            "대방역",
+            "대방",
+            "대방역"
+        ]
+    },
+    "신길": {
+        "id": 124,
+        "stations": [
+            "LINE_1",
+            "LINE_5"
+        ],
+        "aliasName": [
+            "신길",
+            "신길역",
+            "신길",
+            "신길역"
+        ]
+    },
+    "덕정": {
+        "id": 125,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "덕정",
+            "덕정역"
+        ]
+    },
+    "구일": {
+        "id": 126,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "구일",
+            "구일역"
+        ]
+    },
+    "온수": {
+        "id": 563,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "온수(성공회대입구)",
+            "성공회대입구",
+            "온수",
+            "온수(성공회대입구)역",
+            "성공회대입구역",
+            "온수역"
+        ]
+    },
+    "역곡": {
+        "id": 128,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "역곡",
+            "역곡역"
+        ]
+    },
+    "송내": {
+        "id": 129,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "송내",
+            "송내역"
+        ]
+    },
+    "성균관대": {
+        "id": 130,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "성균관대",
+            "성균관대역"
+        ]
+    },
+    "연천": {
+        "id": 131,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "연천",
+            "연천역"
+        ]
+    },
+    "전곡": {
+        "id": 132,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "전곡",
+            "전곡역"
+        ]
+    },
+    "청산": {
+        "id": 133,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "청산",
+            "청산역"
+        ]
+    },
+    "소요산": {
+        "id": 134,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "소요산",
+            "소요산역"
+        ]
+    },
+    "동두천": {
+        "id": 135,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "동두천",
+            "동두천역"
+        ]
+    },
+    "보산": {
+        "id": 136,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "보산",
+            "보산역"
+        ]
+    },
+    "동두천중앙": {
+        "id": 137,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "동두천중앙",
+            "동두천중앙역"
+        ]
+    },
+    "덕계": {
+        "id": 138,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "덕계",
+            "덕계역"
+        ]
+    },
+    "녹양": {
+        "id": 139,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "녹양",
+            "녹양역"
+        ]
+    },
+    "가능": {
+        "id": 140,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "가능",
+            "가능역"
+        ]
+    },
+    "의정부": {
+        "id": 141,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "의정부",
+            "의정부역"
+        ]
+    },
+    "회룡": {
+        "id": 142,
+        "stations": [
+            "LINE_1",
+            "LINE_UIJEONGBU"
+        ],
+        "aliasName": [
+            "회룡",
+            "회룡역",
+            "회룡",
+            "회룡역"
+        ]
+    },
+    "망월사": {
+        "id": 143,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "망월사",
+            "망월사역"
+        ]
+    },
+    "도봉산": {
+        "id": 144,
+        "stations": [
+            "LINE_1",
+            "LINE_7"
+        ],
+        "aliasName": [
+            "도봉산",
+            "도봉산역",
+            "도봉산",
+            "도봉산역"
+        ]
+    },
+    "방학": {
+        "id": 145,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "방학",
+            "방학역"
+        ]
+    },
+    "녹천": {
+        "id": 146,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "녹천",
+            "녹천역"
+        ]
+    },
+    "석계": {
+        "id": 147,
+        "stations": [
+            "LINE_1",
+            "LINE_6"
+        ],
+        "aliasName": [
+            "석계",
+            "석계역",
+            "석계",
+            "석계역"
+        ]
+    },
+    "신이문": {
+        "id": 148,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "신이문",
+            "신이문역"
+        ]
+    },
+    "회기": {
+        "id": 149,
+        "stations": [
+            "LINE_1",
+            "LINE_GYEONCHUN",
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "회기",
+            "회기역",
+            "회기",
+            "회기역",
+            "회기",
+            "회기역"
+        ]
+    },
+    "남영": {
+        "id": 150,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "남영",
+            "남영역"
+        ]
+    },
+    "용산": {
+        "id": 151,
+        "stations": [
+            "LINE_1",
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "용산",
+            "용산역",
+            "용산",
+            "용산역"
+        ]
+    },
+    "노량진": {
+        "id": 152,
+        "stations": [
+            "LINE_1",
+            "LINE_9"
+        ],
+        "aliasName": [
+            "노량진",
+            "노량진역",
+            "노량진",
+            "노량진역"
+        ]
+    },
+    "영등포": {
+        "id": 153,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "영등포",
+            "영등포역"
+        ]
+    },
+    "신도림": {
+        "id": 154,
+        "stations": [
+            "LINE_1",
+            "LINE_2"
+        ],
+        "aliasName": [
+            "신도림",
+            "신도림역",
+            "신도림",
+            "신도림역"
+        ]
+    },
+    "개봉": {
+        "id": 155,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "개봉",
+            "개봉역"
+        ]
+    },
+    "오류동": {
+        "id": 156,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "오류동",
+            "오류동역"
+        ]
+    },
+    "소사": {
+        "id": 157,
+        "stations": [
+            "LINE_1",
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "소사",
+            "소사역",
+            "소사",
+            "소사역"
+        ]
+    },
+    "부천": {
+        "id": 158,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "부천",
+            "부천역"
+        ]
+    },
+    "명학": {
+        "id": 159,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "명학",
+            "명학역"
+        ]
+    },
+    "부개": {
+        "id": 160,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "부개",
+            "부개역"
+        ]
+    },
+    "백운": {
+        "id": 161,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "백운",
+            "백운역"
+        ]
+    },
+    "동암": {
+        "id": 162,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "동암",
+            "동암역"
+        ]
+    },
+    "도화": {
+        "id": 163,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "도화",
+            "도화역"
+        ]
+    },
+    "제물포": {
+        "id": 164,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "제물포",
+            "제물포역"
+        ]
+    },
+    "도원": {
+        "id": 165,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "도원",
+            "도원역"
+        ]
+    },
+    "동인천": {
+        "id": 166,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "동인천",
+            "동인천역"
+        ]
+    },
+    "인천": {
+        "id": 167,
+        "stations": [
+            "LINE_1",
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "인천",
+            "인천역",
+            "인천",
+            "인천역"
+        ]
+    },
+    "세류": {
+        "id": 168,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "세류",
+            "세류역"
+        ]
+    },
+    "간석": {
+        "id": 169,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "간석",
+            "간석역"
+        ]
+    },
+    "중동": {
+        "id": 170,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "중동",
+            "중동역"
+        ]
+    },
+    "광운대": {
+        "id": 171,
+        "stations": [
+            "LINE_1",
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "광운대",
+            "광운대역",
+            "광운대",
+            "광운대역"
+        ]
+    },
+    "양주": {
+        "id": 172,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "양주",
+            "양주역"
+        ]
+    },
+    "광명": {
+        "id": 173,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "광명",
+            "광명역"
+        ]
+    },
+    "구로": {
+        "id": 174,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "구로",
+            "구로역"
+        ]
+    },
+    "가산디지털단지": {
+        "id": 175,
+        "stations": [
+            "LINE_1",
+            "LINE_7"
+        ],
+        "aliasName": [
+            "가산디지털단지",
+            "가산디지털단지역",
+            "가산디지털단지",
+            "가산디지털단지역"
+        ]
+    },
+    "독산": {
+        "id": 176,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "독산",
+            "독산역"
+        ]
+    },
+    "금천구청": {
+        "id": 177,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "금천구청",
+            "금천구청역"
+        ]
+    },
+    "석수": {
+        "id": 178,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "석수",
+            "석수역"
+        ]
+    },
+    "관악": {
+        "id": 179,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "관악",
+            "관악역"
+        ]
+    },
+    "안양": {
+        "id": 180,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "안양",
+            "안양역"
+        ]
+    },
+    "금정": {
+        "id": 181,
+        "stations": [
+            "LINE_1",
+            "LINE_4"
+        ],
+        "aliasName": [
+            "금정",
+            "금정역",
+            "금정",
+            "금정역"
+        ]
+    },
+    "군포": {
+        "id": 182,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "군포",
+            "군포역"
+        ]
+    },
+    "당정": {
+        "id": 183,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "당정",
+            "당정역"
+        ]
+    },
+    "의왕": {
+        "id": 184,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "의왕",
+            "의왕역"
+        ]
+    },
+    "화서": {
+        "id": 185,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "화서",
+            "화서역"
+        ]
+    },
+    "수원": {
+        "id": 186,
+        "stations": [
+            "LINE_1",
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "수원",
+            "수원역",
+            "수원",
+            "수원역"
+        ]
+    },
+    "병점": {
+        "id": 187,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "병점",
+            "병점역"
+        ]
+    },
+    "서동탄": {
+        "id": 188,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "서동탄",
+            "서동탄역"
+        ]
+    },
+    "세마": {
+        "id": 189,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "세마",
+            "세마역"
+        ]
+    },
+    "오산대": {
+        "id": 190,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "오산대",
+            "오산대역"
+        ]
+    },
+    "오산": {
+        "id": 191,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "오산",
+            "오산역"
+        ]
+    },
+    "진위": {
+        "id": 192,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "진위",
+            "진위역"
+        ]
+    },
+    "송탄": {
+        "id": 193,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "송탄",
+            "송탄역"
+        ]
+    },
+    "서정리": {
+        "id": 194,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "서정리",
+            "서정리역"
+        ]
+    },
+    "평택지제": {
+        "id": 195,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "평택지제",
+            "평택지제역"
+        ]
+    },
+    "평택": {
+        "id": 196,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "평택",
+            "평택역"
+        ]
+    },
+    "성환": {
+        "id": 197,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "성환",
+            "성환역"
+        ]
+    },
+    "직산": {
+        "id": 198,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "직산",
+            "직산역"
+        ]
+    },
+    "두정": {
+        "id": 199,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "두정",
+            "두정역"
+        ]
+    },
+    "천안": {
+        "id": 200,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "천안",
+            "천안역"
+        ]
+    },
+    "봉명": {
+        "id": 201,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "봉명",
+            "봉명역"
+        ]
+    },
+    "쌍용": {
+        "id": 202,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "쌍용(나사렛대)",
+            "나사렛대",
+            "쌍용",
+            "쌍용(나사렛대)역",
+            "나사렛대역",
+            "쌍용역"
+        ]
+    },
+    "아산": {
+        "id": 203,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "아산",
+            "아산역"
+        ]
+    },
+    "배방": {
+        "id": 204,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "배방",
+            "배방역"
+        ]
+    },
+    "온양온천": {
+        "id": 205,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "온양온천",
+            "온양온천역"
+        ]
+    },
+    "신창": {
+        "id": 206,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "신창(순천향대)",
+            "순천향대",
+            "신창",
+            "신창(순천향대)역",
+            "순천향대역",
+            "신창역"
+        ]
+    },
+    "탕정": {
+        "id": 207,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "탕정",
+            "탕정역"
+        ]
+    },
+    "대화": {
+        "id": 208,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "대화",
+            "대화역"
+        ]
+    },
+    "대곡": {
+        "id": 209,
+        "stations": [
+            "LINE_3",
+            "LINE_GYEONGUI",
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "대곡",
+            "대곡역",
+            "대곡",
+            "대곡역",
+            "대곡",
+            "대곡역"
+        ]
+    },
+    "화정": {
+        "id": 210,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "화정",
+            "화정역"
+        ]
+    },
+    "원흥": {
+        "id": 211,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "원흥",
+            "원흥역"
+        ]
+    },
+    "주엽": {
+        "id": 212,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "주엽",
+            "주엽역"
+        ]
+    },
+    "정발산": {
+        "id": 213,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "정발산",
+            "정발산역"
+        ]
+    },
+    "마두": {
+        "id": 214,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "마두",
+            "마두역"
+        ]
+    },
+    "백석": {
+        "id": 215,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "백석",
+            "백석역"
+        ]
+    },
+    "원당": {
+        "id": 216,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "원당",
+            "원당역"
+        ]
+    },
+    "삼송": {
+        "id": 217,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "삼송",
+            "삼송역"
+        ]
+    },
+    "대공원": {
+        "id": 218,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "대공원",
+            "대공원역"
+        ]
+    },
+    "과천": {
+        "id": 219,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "과천",
+            "과천역"
+        ]
+    },
+    "인덕원": {
+        "id": 220,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "인덕원",
+            "인덕원역"
+        ]
+    },
+    "범계": {
+        "id": 221,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "범계",
+            "범계역"
+        ]
+    },
+    "대야미": {
+        "id": 222,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "대야미",
+            "대야미역"
+        ]
+    },
+    "반월": {
+        "id": 223,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "반월",
+            "반월역"
+        ]
+    },
+    "정부과천청사": {
+        "id": 224,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "정부과천청사",
+            "정부과천청사역"
+        ]
+    },
+    "한대앞": {
+        "id": 225,
+        "stations": [
+            "LINE_4",
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "한대앞",
+            "한대앞역",
+            "한대앞",
+            "한대앞역"
+        ]
+    },
+    "선바위": {
+        "id": 226,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "선바위",
+            "선바위역"
+        ]
+    },
+    "경마공원": {
+        "id": 227,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "경마공원",
+            "경마공원역"
+        ]
+    },
+    "평촌": {
+        "id": 228,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "평촌",
+            "평촌역"
+        ]
+    },
+    "산본": {
+        "id": 229,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "산본",
+            "산본역"
+        ]
+    },
+    "수리산": {
+        "id": 230,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "수리산",
+            "수리산역"
+        ]
+    },
+    "상록수": {
+        "id": 231,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "상록수",
+            "상록수역"
+        ]
+    },
+    "중앙": {
+        "id": 232,
+        "stations": [
+            "LINE_4",
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "중앙",
+            "중앙역",
+            "중앙",
+            "중앙역"
+        ]
+    },
+    "초지": {
+        "id": 233,
+        "stations": [
+            "LINE_4",
+            "LINE_SUINBUNDANG",
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "초지",
+            "초지역",
+            "초지",
+            "초지역",
+            "초지",
+            "초지역"
+        ]
+    },
+    "안산": {
+        "id": 234,
+        "stations": [
+            "LINE_4",
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "안산",
+            "안산역",
+            "안산",
+            "안산역"
+        ]
+    },
+    "신길온천": {
+        "id": 235,
+        "stations": [
+            "LINE_4",
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "신길온천",
+            "신길온천역",
+            "신길온천",
+            "신길온천역"
+        ]
+    },
+    "정왕": {
+        "id": 236,
+        "stations": [
+            "LINE_4",
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "정왕",
+            "정왕역",
+            "정왕",
+            "정왕역"
+        ]
+    },
+    "오이도": {
+        "id": 237,
+        "stations": [
+            "LINE_4",
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "오이도",
+            "오이도역",
+            "오이도",
+            "오이도역"
+        ]
+    },
+    "고잔": {
+        "id": 238,
+        "stations": [
+            "LINE_4",
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "고잔",
+            "고잔역",
+            "고잔",
+            "고잔역"
+        ]
+    },
+    "수내": {
+        "id": 239,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "수내(한국잡월드)",
+            "한국잡월드",
+            "수내",
+            "수내(한국잡월드)역",
+            "한국잡월드역",
+            "수내역"
+        ]
+    },
+    "오목천": {
+        "id": 240,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "오목천",
+            "오목천역"
+        ]
+    },
+    "송도": {
+        "id": 241,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "송도",
+            "송도역"
+        ]
+    },
+    "청량리": {
+        "id": 372,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "청량리(서울시립대입구)",
+            "서울시립대입구",
+            "청량리",
+            "청량리(서울시립대입구)역",
+            "서울시립대입구역",
+            "청량리역"
+        ]
+    },
+    "압구정로데오": {
+        "id": 243,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "압구정로데오",
+            "압구정로데오역"
+        ]
+    },
+    "선정릉": {
+        "id": 244,
+        "stations": [
+            "LINE_SUINBUNDANG",
+            "LINE_9"
+        ],
+        "aliasName": [
+            "선정릉(한국과학창의재단)",
+            "한국과학창의재단",
+            "선정릉",
+            "선정릉(한국과학창의재단)역",
+            "한국과학창의재단역",
+            "선정릉역",
+            "선정릉",
+            "선정릉역"
+        ]
+    },
+    "선릉": {
+        "id": 245,
+        "stations": [
+            "LINE_SUINBUNDANG",
+            "LINE_2"
+        ],
+        "aliasName": [
+            "선릉",
+            "선릉역",
+            "선릉",
+            "선릉역"
+        ]
+    },
+    "개포동": {
+        "id": 246,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "개포동",
+            "개포동역"
+        ]
+    },
+    "복정": {
+        "id": 247,
+        "stations": [
+            "LINE_SUINBUNDANG",
+            "LINE_8"
+        ],
+        "aliasName": [
+            "복정(동서울대학)",
+            "동서울대학",
+            "복정",
+            "복정(동서울대학)역",
+            "동서울대학역",
+            "복정역",
+            "복정",
+            "복정역"
+        ]
+    },
+    "가천대": {
+        "id": 248,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "가천대",
+            "가천대역"
+        ]
+    },
+    "태평": {
+        "id": 249,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "태평",
+            "태평역"
+        ]
+    },
+    "모란": {
+        "id": 250,
+        "stations": [
+            "LINE_SUINBUNDANG",
+            "LINE_8"
+        ],
+        "aliasName": [
+            "모란",
+            "모란역",
+            "모란",
+            "모란역"
+        ]
+    },
+    "서현": {
+        "id": 251,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "서현",
+            "서현역"
+        ]
+    },
+    "오리": {
+        "id": 252,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "오리",
+            "오리역"
+        ]
+    },
+    "죽전": {
+        "id": 253,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "죽전(단국대)",
+            "단국대",
+            "죽전",
+            "죽전(단국대)역",
+            "단국대역",
+            "죽전역"
+        ]
+    },
+    "보정": {
+        "id": 254,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "보정",
+            "보정역"
+        ]
+    },
+    "신갈": {
+        "id": 255,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "신갈",
+            "신갈역"
+        ]
+    },
+    "상갈": {
+        "id": 256,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "상갈(루터대학교)",
+            "루터대학교",
+            "상갈",
+            "상갈(루터대학교)역",
+            "루터대학교역",
+            "상갈역"
+        ]
+    },
+    "청명": {
+        "id": 257,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "청명",
+            "청명역"
+        ]
+    },
+    "영통": {
+        "id": 258,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "영통(경희대)",
+            "경희대",
+            "영통",
+            "영통(경희대)역",
+            "경희대역",
+            "영통역"
+        ]
+    },
+    "망포": {
+        "id": 259,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "망포",
+            "망포역"
+        ]
+    },
+    "수원시청": {
+        "id": 260,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "수원시청(경기도문화의전당)",
+            "경기도문화의전당",
+            "수원시청",
+            "수원시청(경기도문화의전당)역",
+            "경기도문화의전당역",
+            "수원시청역"
+        ]
+    },
+    "매교": {
+        "id": 261,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "매교",
+            "매교역"
+        ]
+    },
+    "어천": {
+        "id": 262,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "어천",
+            "어천역"
+        ]
+    },
+    "야목": {
+        "id": 263,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "야목",
+            "야목역"
+        ]
+    },
+    "사리": {
+        "id": 264,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "사리",
+            "사리역"
+        ]
+    },
+    "월곶": {
+        "id": 265,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "월곶",
+            "월곶역"
+        ]
+    },
+    "소래포구": {
+        "id": 266,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "소래포구",
+            "소래포구역"
+        ]
+    },
+    "남동인더스파크": {
+        "id": 267,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "남동인더스파크",
+            "남동인더스파크역"
+        ]
+    },
+    "신포": {
+        "id": 268,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "신포",
+            "신포역"
+        ]
+    },
+    "왕십리": {
+        "id": 269,
+        "stations": [
+            "LINE_SUINBUNDANG",
+            "LINE_GYEONGUI",
+            "LINE_2",
+            "LINE_5"
+        ],
+        "aliasName": [
+            "왕십리",
+            "왕십리역",
+            "왕십리",
+            "왕십리역",
+            "왕십리",
+            "왕십리역",
+            "왕십리",
+            "왕십리역"
+        ]
+    },
+    "서울숲": {
+        "id": 270,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "서울숲",
+            "서울숲역"
+        ]
+    },
+    "강남구청": {
+        "id": 271,
+        "stations": [
+            "LINE_SUINBUNDANG",
+            "LINE_7"
+        ],
+        "aliasName": [
+            "강남구청",
+            "강남구청역",
+            "강남구청",
+            "강남구청역"
+        ]
+    },
+    "한티": {
+        "id": 272,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "한티",
+            "한티역"
+        ]
+    },
+    "도곡": {
+        "id": 273,
+        "stations": [
+            "LINE_SUINBUNDANG",
+            "LINE_3"
+        ],
+        "aliasName": [
+            "도곡",
+            "도곡역",
+            "도곡",
+            "도곡역"
+        ]
+    },
+    "구룡": {
+        "id": 274,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "구룡",
+            "구룡역"
+        ]
+    },
+    "대모산입구": {
+        "id": 275,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "대모산입구",
+            "대모산입구역"
+        ]
+    },
+    "수서": {
+        "id": 276,
+        "stations": [
+            "LINE_SUINBUNDANG",
+            "LINE_3"
+        ],
+        "aliasName": [
+            "수서",
+            "수서역",
+            "수서",
+            "수서역"
+        ]
+    },
+    "야탑": {
+        "id": 277,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "야탑",
+            "야탑역"
+        ]
+    },
+    "이매": {
+        "id": 278,
+        "stations": [
+            "LINE_SUINBUNDANG",
+            "LINE_GYEONGANG"
+        ],
+        "aliasName": [
+            "이매(성남아트센터)",
+            "성남아트센터",
+            "이매",
+            "이매(성남아트센터)역",
+            "성남아트센터역",
+            "이매역",
+            "이매",
+            "이매역"
+        ]
+    },
+    "구성": {
+        "id": 279,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "구성",
+            "구성역"
+        ]
+    },
+    "매탄권선": {
+        "id": 280,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "매탄권선",
+            "매탄권선역"
+        ]
+    },
+    "고색": {
+        "id": 281,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "고색",
+            "고색역"
+        ]
+    },
+    "달월": {
+        "id": 282,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "달월",
+            "달월역"
+        ]
+    },
+    "인천논현": {
+        "id": 283,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "인천논현",
+            "인천논현역"
+        ]
+    },
+    "호구포": {
+        "id": 284,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "호구포",
+            "호구포역"
+        ]
+    },
+    "연수": {
+        "id": 285,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "연수",
+            "연수역"
+        ]
+    },
+    "인하대": {
+        "id": 286,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "인하대",
+            "인하대역"
+        ]
+    },
+    "숭의": {
+        "id": 287,
+        "stations": [
+            "LINE_SUINBUNDANG"
+        ],
+        "aliasName": [
+            "숭의(인하대병원)",
+            "인하대병원",
+            "숭의",
+            "숭의(인하대병원)역",
+            "인하대병원역",
+            "숭의역"
+        ]
+    },
+    "대성리": {
+        "id": 288,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "대성리",
+            "대성리역"
+        ]
+    },
+    "중랑": {
+        "id": 289,
+        "stations": [
+            "LINE_GYEONCHUN",
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "중랑",
+            "중랑역",
+            "중랑",
+            "중랑역"
+        ]
+    },
+    "상봉": {
+        "id": 542,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "상봉(시외버스터미널)",
+            "시외버스터미널",
+            "상봉",
+            "상봉(시외버스터미널)역",
+            "시외버스터미널역",
+            "상봉역"
+        ]
+    },
+    "망우": {
+        "id": 291,
+        "stations": [
+            "LINE_GYEONCHUN",
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "망우",
+            "망우역",
+            "망우",
+            "망우역"
+        ]
+    },
+    "신내": {
+        "id": 292,
+        "stations": [
+            "LINE_GYEONCHUN",
+            "LINE_6"
+        ],
+        "aliasName": [
+            "신내",
+            "신내역",
+            "신내",
+            "신내역"
+        ]
+    },
+    "갈매": {
+        "id": 293,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "갈매",
+            "갈매역"
+        ]
+    },
+    "별내": {
+        "id": 294,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "별내(삼육대학교)",
+            "삼육대학교",
+            "별내",
+            "별내(삼육대학교)역",
+            "삼육대학교역",
+            "별내역"
+        ]
+    },
+    "퇴계원": {
+        "id": 295,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "퇴계원",
+            "퇴계원역"
+        ]
+    },
+    "사릉": {
+        "id": 296,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "사릉",
+            "사릉역"
+        ]
+    },
+    "금곡": {
+        "id": 297,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "금곡",
+            "금곡역"
+        ]
+    },
+    "평내호평": {
+        "id": 298,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "평내호평",
+            "평내호평역"
+        ]
+    },
+    "천마산": {
+        "id": 299,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "천마산",
+            "천마산역"
+        ]
+    },
+    "마석": {
+        "id": 300,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "마석",
+            "마석역"
+        ]
+    },
+    "청평": {
+        "id": 301,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "청평",
+            "청평역"
+        ]
+    },
+    "상천": {
+        "id": 302,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "상천(호명호수)",
+            "호명호수",
+            "상천",
+            "상천(호명호수)역",
+            "호명호수역",
+            "상천역"
+        ]
+    },
+    "가평": {
+        "id": 303,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "가평(자라섬·남이섬)",
+            "자라섬·남이섬",
+            "가평",
+            "가평(자라섬·남이섬)역",
+            "자라섬·남이섬역",
+            "가평역"
+        ]
+    },
+    "굴봉산": {
+        "id": 304,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "굴봉산(제이드가든)",
+            "제이드가든",
+            "굴봉산",
+            "굴봉산(제이드가든)역",
+            "제이드가든역",
+            "굴봉산역"
+        ]
+    },
+    "백양리": {
+        "id": 305,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "백양리(엘리시안강촌)",
+            "엘리시안강촌",
+            "백양리",
+            "백양리(엘리시안강촌)역",
+            "엘리시안강촌역",
+            "백양리역"
+        ]
+    },
+    "강촌": {
+        "id": 306,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "강촌",
+            "강촌역"
+        ]
+    },
+    "김유정": {
+        "id": 307,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "김유정",
+            "김유정역"
+        ]
+    },
+    "춘천": {
+        "id": 308,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "춘천(한림대)",
+            "한림대",
+            "춘천",
+            "춘천(한림대)역",
+            "한림대역",
+            "춘천역"
+        ]
+    },
+    "남춘천": {
+        "id": 309,
+        "stations": [
+            "LINE_GYEONCHUN"
+        ],
+        "aliasName": [
+            "남춘천(강원대)",
+            "강원대",
+            "남춘천",
+            "남춘천(강원대)역",
+            "강원대역",
+            "남춘천역"
+        ]
+    },
+    "양원": {
+        "id": 310,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "양원(서울시북부병원)",
+            "서울시북부병원",
+            "양원",
+            "양원(서울시북부병원)역",
+            "서울시북부병원역",
+            "양원역"
+        ]
+    },
+    "야당": {
+        "id": 311,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "야당",
+            "야당역"
+        ]
+    },
+    "신원": {
+        "id": 312,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "신원",
+            "신원역"
+        ]
+    },
+    "국수": {
+        "id": 313,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "국수",
+            "국수역"
+        ]
+    },
+    "강매": {
+        "id": 314,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "강매",
+            "강매역"
+        ]
+    },
+    "곡산": {
+        "id": 315,
+        "stations": [
+            "LINE_GYEONGUI",
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "곡산",
+            "곡산역",
+            "곡산",
+            "곡산역"
+        ]
+    },
+    "이촌": {
+        "id": 461,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "이촌(국립중앙박물관)",
+            "국립중앙박물관",
+            "이촌",
+            "이촌(국립중앙박물관)역",
+            "국립중앙박물관역",
+            "이촌역"
+        ]
+    },
+    "서빙고": {
+        "id": 317,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "서빙고",
+            "서빙고역"
+        ]
+    },
+    "한남": {
+        "id": 318,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "한남",
+            "한남역"
+        ]
+    },
+    "옥수": {
+        "id": 319,
+        "stations": [
+            "LINE_GYEONGUI",
+            "LINE_3"
+        ],
+        "aliasName": [
+            "옥수",
+            "옥수역",
+            "옥수",
+            "옥수역"
+        ]
+    },
+    "구리": {
+        "id": 320,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "구리",
+            "구리역"
+        ]
+    },
+    "도농": {
+        "id": 321,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "도농",
+            "도농역"
+        ]
+    },
+    "양정": {
+        "id": 322,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "양정",
+            "양정역"
+        ]
+    },
+    "덕소": {
+        "id": 323,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "덕소",
+            "덕소역"
+        ]
+    },
+    "팔당": {
+        "id": 324,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "팔당",
+            "팔당역"
+        ]
+    },
+    "운길산": {
+        "id": 325,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "운길산",
+            "운길산역"
+        ]
+    },
+    "양수": {
+        "id": 326,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "양수",
+            "양수역"
+        ]
+    },
+    "아신": {
+        "id": 327,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "아신(아세아연합신학대)",
+            "아세아연합신학대",
+            "아신",
+            "아신(아세아연합신학대)역",
+            "아세아연합신학대역",
+            "아신역"
+        ]
+    },
+    "오빈": {
+        "id": 328,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "오빈",
+            "오빈역"
+        ]
+    },
+    "원덕": {
+        "id": 329,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "원덕(추읍산)",
+            "추읍산",
+            "원덕",
+            "원덕(추읍산)역",
+            "추읍산역",
+            "원덕역"
+        ]
+    },
+    "용문": {
+        "id": 330,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "용문",
+            "용문역"
+        ]
+    },
+    "지평": {
+        "id": 331,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "지평",
+            "지평역"
+        ]
+    },
+    "효창공원앞": {
+        "id": 332,
+        "stations": [
+            "LINE_GYEONGUI",
+            "LINE_6"
+        ],
+        "aliasName": [
+            "효창공원앞",
+            "효창공원앞역",
+            "효창공원앞",
+            "효창공원앞역"
+        ]
+    },
+    "서강대": {
+        "id": 333,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "서강대",
+            "서강대역"
+        ]
+    },
+    "가좌": {
+        "id": 334,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "가좌",
+            "가좌역"
+        ]
+    },
+    "수색": {
+        "id": 335,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "수색",
+            "수색역"
+        ]
+    },
+    "행신": {
+        "id": 336,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "행신",
+            "행신역"
+        ]
+    },
+    "능곡": {
+        "id": 337,
+        "stations": [
+            "LINE_GYEONGUI",
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "능곡",
+            "능곡역",
+            "능곡",
+            "능곡역"
+        ]
+    },
+    "풍산": {
+        "id": 338,
+        "stations": [
+            "LINE_GYEONGUI",
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "풍산",
+            "풍산역",
+            "풍산",
+            "풍산역"
+        ]
+    },
+    "일산": {
+        "id": 339,
+        "stations": [
+            "LINE_GYEONGUI",
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "일산",
+            "일산역",
+            "일산",
+            "일산역"
+        ]
+    },
+    "탄현": {
+        "id": 340,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "탄현",
+            "탄현역"
+        ]
+    },
+    "운정": {
+        "id": 341,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "운정",
+            "운정역"
+        ]
+    },
+    "금촌": {
+        "id": 342,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "금촌",
+            "금촌역"
+        ]
+    },
+    "월롱": {
+        "id": 343,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "월롱(서영대학교)",
+            "서영대학교",
+            "월롱",
+            "월롱(서영대학교)역",
+            "서영대학교역",
+            "월롱역"
+        ]
+    },
+    "파주": {
+        "id": 344,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "파주(두원대학)",
+            "두원대학",
+            "파주",
+            "파주(두원대학)역",
+            "두원대학역",
+            "파주역"
+        ]
+    },
+    "문산": {
+        "id": 345,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "문산",
+            "문산역"
+        ]
+    },
+    "운천": {
+        "id": 346,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "운천",
+            "운천역"
+        ]
+    },
+    "도라산": {
+        "id": 347,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "도라산",
+            "도라산역"
+        ]
+    },
+    "신촌": {
+        "id": 348,
+        "stations": [
+            "LINE_GYEONGUI",
+            "LINE_2"
+        ],
+        "aliasName": [
+            "신촌",
+            "신촌역",
+            "신촌",
+            "신촌역"
+        ]
+    },
+    "응봉": {
+        "id": 349,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "응봉",
+            "응봉역"
+        ]
+    },
+    "도심": {
+        "id": 350,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "도심",
+            "도심역"
+        ]
+    },
+    "양평": {
+        "id": 351,
+        "stations": [
+            "LINE_GYEONGUI",
+            "LINE_5"
+        ],
+        "aliasName": [
+            "양평",
+            "양평역",
+            "양평",
+            "양평역"
+        ]
+    },
+    "한국항공대": {
+        "id": 352,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "한국항공대",
+            "한국항공대역"
+        ]
+    },
+    "백마": {
+        "id": 353,
+        "stations": [
+            "LINE_GYEONGUI",
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "백마",
+            "백마역",
+            "백마",
+            "백마역"
+        ]
+    },
+    "금릉": {
+        "id": 354,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "금릉",
+            "금릉역"
+        ]
+    },
+    "임진강": {
+        "id": 355,
+        "stations": [
+            "LINE_GYEONGUI"
+        ],
+        "aliasName": [
+            "임진강",
+            "임진강역"
+        ]
+    },
+    "삼동": {
+        "id": 356,
+        "stations": [
+            "LINE_GYEONGANG"
+        ],
+        "aliasName": [
+            "삼동",
+            "삼동역"
+        ]
+    },
+    "경기광주": {
+        "id": 357,
+        "stations": [
+            "LINE_GYEONGANG"
+        ],
+        "aliasName": [
+            "경기광주",
+            "경기광주역"
+        ]
+    },
+    "신둔도예촌": {
+        "id": 358,
+        "stations": [
+            "LINE_GYEONGANG"
+        ],
+        "aliasName": [
+            "신둔도예촌",
+            "신둔도예촌역"
+        ]
+    },
+    "이천": {
+        "id": 359,
+        "stations": [
+            "LINE_GYEONGANG"
+        ],
+        "aliasName": [
+            "이천",
+            "이천역"
+        ]
+    },
+    "부발": {
+        "id": 360,
+        "stations": [
+            "LINE_GYEONGANG"
+        ],
+        "aliasName": [
+            "부발",
+            "부발역"
+        ]
+    },
+    "여주": {
+        "id": 361,
+        "stations": [
+            "LINE_GYEONGANG"
+        ],
+        "aliasName": [
+            "여주",
+            "여주역"
+        ]
+    },
+    "초월": {
+        "id": 362,
+        "stations": [
+            "LINE_GYEONGANG"
+        ],
+        "aliasName": [
+            "초월",
+            "초월역"
+        ]
+    },
+    "곤지암": {
+        "id": 363,
+        "stations": [
+            "LINE_GYEONGANG"
+        ],
+        "aliasName": [
+            "곤지암",
+            "곤지암역"
+        ]
+    },
+    "세종대왕릉": {
+        "id": 364,
+        "stations": [
+            "LINE_GYEONGANG"
+        ],
+        "aliasName": [
+            "세종대왕릉",
+            "세종대왕릉역"
+        ]
+    },
+    "시청": {
+        "id": 365,
+        "stations": [
+            "LINE_1",
+            "LINE_2"
+        ],
+        "aliasName": [
+            "시청",
+            "시청역",
+            "시청",
+            "시청역"
+        ]
+    },
+    "종각": {
+        "id": 366,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "종각",
+            "종각역"
+        ]
+    },
+    "종로3가": {
+        "id": 481,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "종로3가(탑골공원)",
+            "탑골공원",
+            "종로3가",
+            "종로3가(탑골공원)역",
+            "탑골공원역",
+            "종로3가역"
+        ]
+    },
+    "종로5가": {
+        "id": 368,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "종로5가",
+            "종로5가역"
+        ]
+    },
+    "동대문": {
+        "id": 369,
+        "stations": [
+            "LINE_1",
+            "LINE_4"
+        ],
+        "aliasName": [
+            "동대문",
+            "동대문역",
+            "동대문",
+            "동대문역"
+        ]
+    },
+    "신설동": {
+        "id": 370,
+        "stations": [
+            "LINE_1",
+            "LINE_2",
+            "LINE_UISINSUL"
+        ],
+        "aliasName": [
+            "신설동",
+            "신설동역",
+            "신설동",
+            "신설동역",
+            "신설동",
+            "신설동역"
+        ]
+    },
+    "제기동": {
+        "id": 371,
+        "stations": [
+            "LINE_1"
+        ],
+        "aliasName": [
+            "제기동",
+            "제기동역"
+        ]
+    },
+    "동묘앞": {
+        "id": 372,
+        "stations": [
+            "LINE_1",
+            "LINE_6"
+        ],
+        "aliasName": [
+            "동묘앞",
+            "동묘앞역",
+            "동묘앞",
+            "동묘앞역"
+        ]
+    },
+    "을지로입구": {
+        "id": 373,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "을지로입구",
+            "을지로입구역"
+        ]
+    },
+    "을지로3가": {
+        "id": 374,
+        "stations": [
+            "LINE_2",
+            "LINE_3"
+        ],
+        "aliasName": [
+            "을지로3가",
+            "을지로3가역",
+            "을지로3가",
+            "을지로3가역"
+        ]
+    },
+    "을지로4가": {
+        "id": 375,
+        "stations": [
+            "LINE_2",
+            "LINE_5"
+        ],
+        "aliasName": [
+            "을지로4가",
+            "을지로4가역",
+            "을지로4가",
+            "을지로4가역"
+        ]
+    },
+    "동대문역사문화공원": {
+        "id": 376,
+        "stations": [
+            "LINE_2",
+            "LINE_4",
+            "LINE_5"
+        ],
+        "aliasName": [
+            "동대문역사문화공원",
+            "동대문역사문화공원역",
+            "동대문역사문화공원",
+            "동대문역사문화공원역",
+            "동대문역사문화공원",
+            "동대문역사문화공원역"
+        ]
+    },
+    "신당": {
+        "id": 377,
+        "stations": [
+            "LINE_2",
+            "LINE_6"
+        ],
+        "aliasName": [
+            "신당",
+            "신당역",
+            "신당",
+            "신당역"
+        ]
+    },
+    "상왕십리": {
+        "id": 378,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "상왕십리",
+            "상왕십리역"
+        ]
+    },
+    "한양대": {
+        "id": 379,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "한양대",
+            "한양대역"
+        ]
+    },
+    "뚝섬": {
+        "id": 380,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "뚝섬",
+            "뚝섬역"
+        ]
+    },
+    "성수": {
+        "id": 381,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "성수",
+            "성수역"
+        ]
+    },
+    "건대입구": {
+        "id": 382,
+        "stations": [
+            "LINE_2",
+            "LINE_7"
+        ],
+        "aliasName": [
+            "건대입구",
+            "건대입구역",
+            "건대입구",
+            "건대입구역"
+        ]
+    },
+    "구의": {
+        "id": 383,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "구의(광진구청)",
+            "광진구청",
+            "구의",
+            "구의(광진구청)역",
+            "광진구청역",
+            "구의역"
+        ]
+    },
+    "강변": {
+        "id": 384,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "강변(동서울터미널)",
+            "동서울터미널",
+            "강변",
+            "강변(동서울터미널)역",
+            "동서울터미널역",
+            "강변역"
+        ]
+    },
+    "잠실나루": {
+        "id": 385,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "잠실나루",
+            "잠실나루역"
+        ]
+    },
+    "잠실": {
+        "id": 566,
+        "stations": [
+            "LINE_8"
+        ],
+        "aliasName": [
+            "잠실(송파구청)",
+            "송파구청",
+            "잠실",
+            "잠실(송파구청)역",
+            "송파구청역",
+            "잠실역"
+        ]
+    },
+    "잠실새내": {
+        "id": 387,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "잠실새내",
+            "잠실새내역"
+        ]
+    },
+    "종합운동장": {
+        "id": 388,
+        "stations": [
+            "LINE_2",
+            "LINE_9"
+        ],
+        "aliasName": [
+            "종합운동장",
+            "종합운동장역",
+            "종합운동장",
+            "종합운동장역"
+        ]
+    },
+    "삼성": {
+        "id": 389,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "삼성(무역센터)",
+            "무역센터",
+            "삼성",
+            "삼성(무역센터)역",
+            "무역센터역",
+            "삼성역"
+        ]
+    },
+    "역삼": {
+        "id": 390,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "역삼",
+            "역삼역"
+        ]
+    },
+    "교대": {
+        "id": 433,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "교대(법원·검찰청)",
+            "법원·검찰청",
+            "교대",
+            "교대(법원·검찰청)역",
+            "법원·검찰청역",
+            "교대역"
+        ]
+    },
+    "서초": {
+        "id": 392,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "서초",
+            "서초역"
+        ]
+    },
+    "방배": {
+        "id": 393,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "방배",
+            "방배역"
+        ]
+    },
+    "사당": {
+        "id": 394,
+        "stations": [
+            "LINE_2",
+            "LINE_4"
+        ],
+        "aliasName": [
+            "사당",
+            "사당역",
+            "사당",
+            "사당역"
+        ]
+    },
+    "낙성대": {
+        "id": 395,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "낙성대",
+            "낙성대역"
+        ]
+    },
+    "서울대입구": {
+        "id": 396,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "서울대입구(관악구청)",
+            "관악구청",
+            "서울대입구",
+            "서울대입구(관악구청)역",
+            "관악구청역",
+            "서울대입구역"
+        ]
+    },
+    "봉천": {
+        "id": 397,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "봉천",
+            "봉천역"
+        ]
+    },
+    "신림": {
+        "id": 398,
+        "stations": [
+            "LINE_2",
+            "LINE_SINRIM"
+        ],
+        "aliasName": [
+            "신림",
+            "신림역",
+            "신림",
+            "신림역"
+        ]
+    },
+    "신대방": {
+        "id": 399,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "신대방",
+            "신대방역"
+        ]
+    },
+    "구로디지털단지": {
+        "id": 400,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "구로디지털단지",
+            "구로디지털단지역"
+        ]
+    },
+    "대림": {
+        "id": 559,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "대림(구로구청)",
+            "구로구청",
+            "대림",
+            "대림(구로구청)역",
+            "구로구청역",
+            "대림역"
+        ]
+    },
+    "까치산": {
+        "id": 402,
+        "stations": [
+            "LINE_2",
+            "LINE_5"
+        ],
+        "aliasName": [
+            "까치산",
+            "까치산역",
+            "까치산",
+            "까치산역"
+        ]
+    },
+    "문래": {
+        "id": 403,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "문래",
+            "문래역"
+        ]
+    },
+    "영등포구청": {
+        "id": 404,
+        "stations": [
+            "LINE_2",
+            "LINE_5"
+        ],
+        "aliasName": [
+            "영등포구청",
+            "영등포구청역",
+            "영등포구청",
+            "영등포구청역"
+        ]
+    },
+    "당산": {
+        "id": 405,
+        "stations": [
+            "LINE_2",
+            "LINE_9"
+        ],
+        "aliasName": [
+            "당산",
+            "당산역",
+            "당산",
+            "당산역"
+        ]
+    },
+    "합정": {
+        "id": 406,
+        "stations": [
+            "LINE_2",
+            "LINE_6"
+        ],
+        "aliasName": [
+            "합정",
+            "합정역",
+            "합정",
+            "합정역"
+        ]
+    },
+    "이대": {
+        "id": 407,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "이대",
+            "이대역"
+        ]
+    },
+    "아현": {
+        "id": 408,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "아현",
+            "아현역"
+        ]
+    },
+    "충정로": {
+        "id": 479,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "충정로(경기대입구)",
+            "경기대입구",
+            "충정로",
+            "충정로(경기대입구)역",
+            "경기대입구역",
+            "충정로역"
+        ]
+    },
+    "용답": {
+        "id": 410,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "용답",
+            "용답역"
+        ]
+    },
+    "신답": {
+        "id": 411,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "신답",
+            "신답역"
+        ]
+    },
+    "도림천": {
+        "id": 412,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "도림천",
+            "도림천역"
+        ]
+    },
+    "양천구청": {
+        "id": 413,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "양천구청",
+            "양천구청역"
+        ]
+    },
+    "신정네거리": {
+        "id": 414,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "신정네거리",
+            "신정네거리역"
+        ]
+    },
+    "용두": {
+        "id": 415,
+        "stations": [
+            "LINE_2"
+        ],
+        "aliasName": [
+            "용두(동대문구청)",
+            "동대문구청",
+            "용두",
+            "용두(동대문구청)역",
+            "동대문구청역",
+            "용두역"
+        ]
+    },
+    "지축": {
+        "id": 416,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "지축",
+            "지축역"
+        ]
+    },
+    "구파발": {
+        "id": 417,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "구파발",
+            "구파발역"
+        ]
+    },
+    "연신내": {
+        "id": 418,
+        "stations": [
+            "LINE_3",
+            "LINE_6"
+        ],
+        "aliasName": [
+            "연신내",
+            "연신내역",
+            "연신내",
+            "연신내역"
+        ]
+    },
+    "불광": {
+        "id": 419,
+        "stations": [
+            "LINE_3",
+            "LINE_6"
+        ],
+        "aliasName": [
+            "불광",
+            "불광역",
+            "불광",
+            "불광역"
+        ]
+    },
+    "녹번": {
+        "id": 420,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "녹번",
+            "녹번역"
+        ]
+    },
+    "홍제": {
+        "id": 421,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "홍제",
+            "홍제역"
+        ]
+    },
+    "무악재": {
+        "id": 422,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "무악재",
+            "무악재역"
+        ]
+    },
+    "독립문": {
+        "id": 423,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "독립문",
+            "독립문역"
+        ]
+    },
+    "경복궁": {
+        "id": 424,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "경복궁(정부서울청사)",
+            "정부서울청사",
+            "경복궁",
+            "경복궁(정부서울청사)역",
+            "정부서울청사역",
+            "경복궁역"
+        ]
+    },
+    "안국": {
+        "id": 425,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "안국",
+            "안국역"
+        ]
+    },
+    "충무로": {
+        "id": 426,
+        "stations": [
+            "LINE_3",
+            "LINE_4"
+        ],
+        "aliasName": [
+            "충무로",
+            "충무로역",
+            "충무로",
+            "충무로역"
+        ]
+    },
+    "동대입구": {
+        "id": 427,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "동대입구",
+            "동대입구역"
+        ]
+    },
+    "약수": {
+        "id": 428,
+        "stations": [
+            "LINE_3",
+            "LINE_6"
+        ],
+        "aliasName": [
+            "약수",
+            "약수역",
+            "약수",
+            "약수역"
+        ]
+    },
+    "금호": {
+        "id": 429,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "금호",
+            "금호역"
+        ]
+    },
+    "압구정": {
+        "id": 430,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "압구정",
+            "압구정역"
+        ]
+    },
+    "잠원": {
+        "id": 431,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "잠원",
+            "잠원역"
+        ]
+    },
+    "고속터미널": {
+        "id": 432,
+        "stations": [
+            "LINE_3",
+            "LINE_7",
+            "LINE_9"
+        ],
+        "aliasName": [
+            "고속터미널",
+            "고속터미널역",
+            "고속터미널",
+            "고속터미널역",
+            "고속터미널",
+            "고속터미널역"
+        ]
+    },
+    "남부터미널": {
+        "id": 433,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "남부터미널(예술의전당)",
+            "예술의전당",
+            "남부터미널",
+            "남부터미널(예술의전당)역",
+            "예술의전당역",
+            "남부터미널역"
+        ]
+    },
+    "매봉": {
+        "id": 434,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "매봉",
+            "매봉역"
+        ]
+    },
+    "대치": {
+        "id": 435,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "대치",
+            "대치역"
+        ]
+    },
+    "학여울": {
+        "id": 436,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "학여울",
+            "학여울역"
+        ]
+    },
+    "대청": {
+        "id": 437,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "대청",
+            "대청역"
+        ]
+    },
+    "일원": {
+        "id": 438,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "일원",
+            "일원역"
+        ]
+    },
+    "가락시장": {
+        "id": 439,
+        "stations": [
+            "LINE_3",
+            "LINE_8"
+        ],
+        "aliasName": [
+            "가락시장",
+            "가락시장역",
+            "가락시장",
+            "가락시장역"
+        ]
+    },
+    "경찰병원": {
+        "id": 440,
+        "stations": [
+            "LINE_3"
+        ],
+        "aliasName": [
+            "경찰병원",
+            "경찰병원역"
+        ]
+    },
+    "오금": {
+        "id": 441,
+        "stations": [
+            "LINE_3",
+            "LINE_5"
+        ],
+        "aliasName": [
+            "오금",
+            "오금역",
+            "오금",
+            "오금역"
+        ]
+    },
+    "진접": {
+        "id": 442,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "진접",
+            "진접역"
+        ]
+    },
+    "오남": {
+        "id": 443,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "오남",
+            "오남역"
+        ]
+    },
+    "별내별가람": {
+        "id": 444,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "별내별가람",
+            "별내별가람역"
+        ]
+    },
+    "당고개": {
+        "id": 445,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "당고개",
+            "당고개역"
+        ]
+    },
+    "상계": {
+        "id": 446,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "상계",
+            "상계역"
+        ]
+    },
+    "노원": {
+        "id": 447,
+        "stations": [
+            "LINE_4",
+            "LINE_7"
+        ],
+        "aliasName": [
+            "노원",
+            "노원역",
+            "노원",
+            "노원역"
+        ]
+    },
+    "쌍문": {
+        "id": 448,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "쌍문",
+            "쌍문역"
+        ]
+    },
+    "수유": {
+        "id": 449,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "수유(강북구청)",
+            "강북구청",
+            "수유",
+            "수유(강북구청)역",
+            "강북구청역",
+            "수유역"
+        ]
+    },
+    "미아": {
+        "id": 450,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "미아",
+            "미아역"
+        ]
+    },
+    "미아사거리": {
+        "id": 451,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "미아사거리",
+            "미아사거리역"
+        ]
+    },
+    "길음": {
+        "id": 452,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "길음",
+            "길음역"
+        ]
+    },
+    "성신여대입구": {
+        "id": 453,
+        "stations": [
+            "LINE_4",
+            "LINE_UISINSUL"
+        ],
+        "aliasName": [
+            "성신여대입구(돈암)",
+            "돈암",
+            "성신여대입구",
+            "성신여대입구(돈암)역",
+            "돈암역",
+            "성신여대입구역",
+            "성신여대입구",
+            "성신여대입구역"
+        ]
+    },
+    "한성대입구": {
+        "id": 454,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "한성대입구(삼선교)",
+            "삼선교",
+            "한성대입구",
+            "한성대입구(삼선교)역",
+            "삼선교역",
+            "한성대입구역"
+        ]
+    },
+    "혜화": {
+        "id": 455,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "혜화",
+            "혜화역"
+        ]
+    },
+    "명동": {
+        "id": 456,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "명동",
+            "명동역"
+        ]
+    },
+    "회현": {
+        "id": 457,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "회현(남대문시장)",
+            "남대문시장",
+            "회현",
+            "회현(남대문시장)역",
+            "남대문시장역",
+            "회현역"
+        ]
+    },
+    "숙대입구": {
+        "id": 458,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "숙대입구(갈월)",
+            "갈월",
+            "숙대입구",
+            "숙대입구(갈월)역",
+            "갈월역",
+            "숙대입구역"
+        ]
+    },
+    "삼각지": {
+        "id": 459,
+        "stations": [
+            "LINE_4",
+            "LINE_6"
+        ],
+        "aliasName": [
+            "삼각지",
+            "삼각지역",
+            "삼각지",
+            "삼각지역"
+        ]
+    },
+    "신용산": {
+        "id": 460,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "신용산",
+            "신용산역"
+        ]
+    },
+    "동작": {
+        "id": 590,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "동작(현충원)",
+            "현충원",
+            "동작",
+            "동작(현충원)역",
+            "현충원역",
+            "동작역"
+        ]
+    },
+    "총신대입구": {
+        "id": 552,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "총신대입구(이수)",
+            "이수",
+            "총신대입구",
+            "총신대입구(이수)역",
+            "이수역",
+            "총신대입구역"
+        ]
+    },
+    "남태령": {
+        "id": 463,
+        "stations": [
+            "LINE_4"
+        ],
+        "aliasName": [
+            "남태령",
+            "남태령역"
+        ]
+    },
+    "방화": {
+        "id": 464,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "방화",
+            "방화역"
+        ]
+    },
+    "개화산": {
+        "id": 465,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "개화산",
+            "개화산역"
+        ]
+    },
+    "송정": {
+        "id": 466,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "송정",
+            "송정역"
+        ]
+    },
+    "마곡": {
+        "id": 467,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "마곡",
+            "마곡역"
+        ]
+    },
+    "발산": {
+        "id": 468,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "발산",
+            "발산역"
+        ]
+    },
+    "우장산": {
+        "id": 469,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "우장산",
+            "우장산역"
+        ]
+    },
+    "화곡": {
+        "id": 470,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "화곡",
+            "화곡역"
+        ]
+    },
+    "신정": {
+        "id": 471,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "신정(은행정)",
+            "은행정",
+            "신정",
+            "신정(은행정)역",
+            "은행정역",
+            "신정역"
+        ]
+    },
+    "목동": {
+        "id": 472,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "목동",
+            "목동역"
+        ]
+    },
+    "오목교": {
+        "id": 473,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "오목교(목동운동장앞)",
+            "목동운동장앞",
+            "오목교",
+            "오목교(목동운동장앞)역",
+            "목동운동장앞역",
+            "오목교역"
+        ]
+    },
+    "영등포시장": {
+        "id": 474,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "영등포시장",
+            "영등포시장역"
+        ]
+    },
+    "여의도": {
+        "id": 475,
+        "stations": [
+            "LINE_5",
+            "LINE_9"
+        ],
+        "aliasName": [
+            "여의도",
+            "여의도역",
+            "여의도",
+            "여의도역"
+        ]
+    },
+    "여의나루": {
+        "id": 476,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "여의나루",
+            "여의나루역"
+        ]
+    },
+    "마포": {
+        "id": 477,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "마포",
+            "마포역"
+        ]
+    },
+    "애오개": {
+        "id": 478,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "애오개",
+            "애오개역"
+        ]
+    },
+    "서대문": {
+        "id": 479,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "서대문",
+            "서대문역"
+        ]
+    },
+    "광화문": {
+        "id": 480,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "광화문(세종문화회관)",
+            "세종문화회관",
+            "광화문",
+            "광화문(세종문화회관)역",
+            "세종문화회관역",
+            "광화문역"
+        ]
+    },
+    "청구": {
+        "id": 481,
+        "stations": [
+            "LINE_5",
+            "LINE_6"
+        ],
+        "aliasName": [
+            "청구",
+            "청구역",
+            "청구",
+            "청구역"
+        ]
+    },
+    "신금호": {
+        "id": 482,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "신금호",
+            "신금호역"
+        ]
+    },
+    "행당": {
+        "id": 483,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "행당",
+            "행당역"
+        ]
+    },
+    "마장": {
+        "id": 484,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "마장",
+            "마장역"
+        ]
+    },
+    "답십리": {
+        "id": 485,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "답십리",
+            "답십리역"
+        ]
+    },
+    "장한평": {
+        "id": 486,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "장한평",
+            "장한평역"
+        ]
+    },
+    "군자": {
+        "id": 546,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "군자(능동)",
+            "능동",
+            "군자",
+            "군자(능동)역",
+            "능동역",
+            "군자역"
+        ]
+    },
+    "아차산": {
+        "id": 488,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "아차산(어린이대공원후문)",
+            "어린이대공원후문",
+            "아차산",
+            "아차산(어린이대공원후문)역",
+            "어린이대공원후문역",
+            "아차산역"
+        ]
+    },
+    "광나루": {
+        "id": 489,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "광나루(장신대)",
+            "장신대",
+            "광나루",
+            "광나루(장신대)역",
+            "장신대역",
+            "광나루역"
+        ]
+    },
+    "천호": {
+        "id": 564,
+        "stations": [
+            "LINE_8"
+        ],
+        "aliasName": [
+            "천호(풍납토성)",
+            "풍납토성",
+            "천호",
+            "천호(풍납토성)역",
+            "풍납토성역",
+            "천호역"
+        ]
+    },
+    "강동": {
+        "id": 491,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "강동",
+            "강동역"
+        ]
+    },
+    "길동": {
+        "id": 492,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "길동",
+            "길동역"
+        ]
+    },
+    "굽은다리": {
+        "id": 493,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "굽은다리(강동구민회관앞)",
+            "강동구민회관앞",
+            "굽은다리",
+            "굽은다리(강동구민회관앞)역",
+            "강동구민회관앞역",
+            "굽은다리역"
+        ]
+    },
+    "명일": {
+        "id": 494,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "명일",
+            "명일역"
+        ]
+    },
+    "고덕": {
+        "id": 495,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "고덕",
+            "고덕역"
+        ]
+    },
+    "상일동": {
+        "id": 496,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "상일동",
+            "상일동역"
+        ]
+    },
+    "둔촌동": {
+        "id": 497,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "둔촌동",
+            "둔촌동역"
+        ]
+    },
+    "올림픽공원": {
+        "id": 600,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "올림픽공원(한국체대)",
+            "한국체대",
+            "올림픽공원",
+            "올림픽공원(한국체대)역",
+            "한국체대역",
+            "올림픽공원역"
+        ]
+    },
+    "방이": {
+        "id": 499,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "방이",
+            "방이역"
+        ]
+    },
+    "개롱": {
+        "id": 500,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "개롱",
+            "개롱역"
+        ]
+    },
+    "거여": {
+        "id": 501,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "거여",
+            "거여역"
+        ]
+    },
+    "마천": {
+        "id": 502,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "마천",
+            "마천역"
+        ]
+    },
+    "강일": {
+        "id": 503,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "강일",
+            "강일역"
+        ]
+    },
+    "미사": {
+        "id": 504,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "미사",
+            "미사역"
+        ]
+    },
+    "하남풍산": {
+        "id": 505,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "하남풍산",
+            "하남풍산역"
+        ]
+    },
+    "하남시청": {
+        "id": 506,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "하남시청(덕풍?신장)",
+            "덕풍?신장",
+            "하남시청",
+            "하남시청(덕풍?신장)역",
+            "덕풍?신장역",
+            "하남시청역"
+        ]
+    },
+    "하남검단산역": {
+        "id": 507,
+        "stations": [
+            "LINE_5"
+        ],
+        "aliasName": [
+            "하남검단산역",
+            "하남검단산"
+        ]
+    },
+    "응암": {
+        "id": 508,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "응암",
+            "응암역"
+        ]
+    },
+    "역촌": {
+        "id": 509,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "역촌",
+            "역촌역"
+        ]
+    },
+    "독바위": {
+        "id": 510,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "독바위",
+            "독바위역"
+        ]
+    },
+    "구산": {
+        "id": 511,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "구산",
+            "구산역"
+        ]
+    },
+    "새절": {
+        "id": 512,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "새절(신사)",
+            "신사",
+            "새절",
+            "새절(신사)역",
+            "신사역",
+            "새절역"
+        ]
+    },
+    "증산": {
+        "id": 513,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "증산(명지대앞)",
+            "명지대앞",
+            "증산",
+            "증산(명지대앞)역",
+            "명지대앞역",
+            "증산역"
+        ]
+    },
+    "월드컵경기장": {
+        "id": 514,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "월드컵경기장(성산)",
+            "성산",
+            "월드컵경기장",
+            "월드컵경기장(성산)역",
+            "성산역",
+            "월드컵경기장역"
+        ]
+    },
+    "마포구청": {
+        "id": 515,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "마포구청",
+            "마포구청역"
+        ]
+    },
+    "망원": {
+        "id": 516,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "망원",
+            "망원역"
+        ]
+    },
+    "상수": {
+        "id": 517,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "상수",
+            "상수역"
+        ]
+    },
+    "광흥창": {
+        "id": 518,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "광흥창(서강)",
+            "서강",
+            "광흥창",
+            "광흥창(서강)역",
+            "서강역",
+            "광흥창역"
+        ]
+    },
+    "대흥": {
+        "id": 519,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "대흥(서강대앞)",
+            "서강대앞",
+            "대흥",
+            "대흥(서강대앞)역",
+            "서강대앞역",
+            "대흥역"
+        ]
+    },
+    "녹사평": {
+        "id": 520,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "녹사평(용산구청)",
+            "용산구청",
+            "녹사평",
+            "녹사평(용산구청)역",
+            "용산구청역",
+            "녹사평역"
+        ]
+    },
+    "이태원": {
+        "id": 521,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "이태원",
+            "이태원역"
+        ]
+    },
+    "한강진": {
+        "id": 522,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "한강진",
+            "한강진역"
+        ]
+    },
+    "버티고개": {
+        "id": 523,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "버티고개",
+            "버티고개역"
+        ]
+    },
+    "창신": {
+        "id": 524,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "창신",
+            "창신역"
+        ]
+    },
+    "보문": {
+        "id": 525,
+        "stations": [
+            "LINE_6",
+            "LINE_UISINSUL"
+        ],
+        "aliasName": [
+            "보문",
+            "보문역",
+            "보문",
+            "보문역"
+        ]
+    },
+    "안암": {
+        "id": 526,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "안암(고대병원앞)",
+            "고대병원앞",
+            "안암",
+            "안암(고대병원앞)역",
+            "고대병원앞역",
+            "안암역"
+        ]
+    },
+    "고려대": {
+        "id": 527,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "고려대(종암)",
+            "종암",
+            "고려대",
+            "고려대(종암)역",
+            "종암역",
+            "고려대역"
+        ]
+    },
+    "월곡": {
+        "id": 528,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "월곡(동덕여대)",
+            "동덕여대",
+            "월곡",
+            "월곡(동덕여대)역",
+            "동덕여대역",
+            "월곡역"
+        ]
+    },
+    "상월곡": {
+        "id": 529,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "상월곡(한국과학기술연구원)",
+            "한국과학기술연구원",
+            "상월곡",
+            "상월곡(한국과학기술연구원)역",
+            "한국과학기술연구원역",
+            "상월곡역"
+        ]
+    },
+    "돌곶이": {
+        "id": 530,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "돌곶이",
+            "돌곶이역"
+        ]
+    },
+    "태릉입구": {
+        "id": 531,
+        "stations": [
+            "LINE_6",
+            "LINE_7"
+        ],
+        "aliasName": [
+            "태릉입구",
+            "태릉입구역",
+            "태릉입구",
+            "태릉입구역"
+        ]
+    },
+    "화랑대": {
+        "id": 532,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "화랑대(서울여대입구)",
+            "서울여대입구",
+            "화랑대",
+            "화랑대(서울여대입구)역",
+            "서울여대입구역",
+            "화랑대역"
+        ]
+    },
+    "봉화산": {
+        "id": 533,
+        "stations": [
+            "LINE_6"
+        ],
+        "aliasName": [
+            "봉화산(서울의료원)",
+            "서울의료원",
+            "봉화산",
+            "봉화산(서울의료원)역",
+            "서울의료원역",
+            "봉화산역"
+        ]
+    },
+    "장암": {
+        "id": 534,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "장암",
+            "장암역"
+        ]
+    },
+    "수락산": {
+        "id": 535,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "수락산",
+            "수락산역"
+        ]
+    },
+    "마들": {
+        "id": 536,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "마들",
+            "마들역"
+        ]
+    },
+    "중계": {
+        "id": 537,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "중계",
+            "중계역"
+        ]
+    },
+    "하계": {
+        "id": 538,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "하계",
+            "하계역"
+        ]
+    },
+    "공릉": {
+        "id": 539,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "공릉(서울과학기술대)",
+            "서울과학기술대",
+            "공릉",
+            "공릉(서울과학기술대)역",
+            "서울과학기술대역",
+            "공릉역"
+        ]
+    },
+    "먹골": {
+        "id": 540,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "먹골",
+            "먹골역"
+        ]
+    },
+    "중화": {
+        "id": 541,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "중화",
+            "중화역"
+        ]
+    },
+    "면목": {
+        "id": 542,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "면목",
+            "면목역"
+        ]
+    },
+    "사가정": {
+        "id": 543,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "사가정",
+            "사가정역"
+        ]
+    },
+    "용마산": {
+        "id": 544,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "용마산",
+            "용마산역"
+        ]
+    },
+    "중곡": {
+        "id": 545,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "중곡",
+            "중곡역"
+        ]
+    },
+    "어린이대공원": {
+        "id": 546,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "어린이대공원(세종대)",
+            "세종대",
+            "어린이대공원",
+            "어린이대공원(세종대)역",
+            "세종대역",
+            "어린이대공원역"
+        ]
+    },
+    "자양": {
+        "id": 547,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "자양(뚝섬한강공원)",
+            "뚝섬한강공원",
+            "자양",
+            "자양(뚝섬한강공원)역",
+            "뚝섬한강공원역",
+            "자양역"
+        ]
+    },
+    "청담": {
+        "id": 548,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "청담",
+            "청담역"
+        ]
+    },
+    "학동": {
+        "id": 549,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "학동",
+            "학동역"
+        ]
+    },
+    "반포": {
+        "id": 550,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "반포",
+            "반포역"
+        ]
+    },
+    "내방": {
+        "id": 551,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "내방",
+            "내방역"
+        ]
+    },
+    "남성": {
+        "id": 552,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "남성",
+            "남성역"
+        ]
+    },
+    "숭실대입구": {
+        "id": 553,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "숭실대입구(살피재)",
+            "살피재",
+            "숭실대입구",
+            "숭실대입구(살피재)역",
+            "살피재역",
+            "숭실대입구역"
+        ]
+    },
+    "상도": {
+        "id": 554,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "상도",
+            "상도역"
+        ]
+    },
+    "장승배기": {
+        "id": 555,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "장승배기",
+            "장승배기역"
+        ]
+    },
+    "신대방삼거리": {
+        "id": 556,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "신대방삼거리",
+            "신대방삼거리역"
+        ]
+    },
+    "보라매": {
+        "id": 557,
+        "stations": [
+            "LINE_7",
+            "LINE_SINRIM"
+        ],
+        "aliasName": [
+            "보라매",
+            "보라매역",
+            "보라매",
+            "보라매역"
+        ]
+    },
+    "신풍": {
+        "id": 558,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "신풍",
+            "신풍역"
+        ]
+    },
+    "남구로": {
+        "id": 559,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "남구로",
+            "남구로역"
+        ]
+    },
+    "철산": {
+        "id": 560,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "철산",
+            "철산역"
+        ]
+    },
+    "광명사거리": {
+        "id": 561,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "광명사거리",
+            "광명사거리역"
+        ]
+    },
+    "천왕": {
+        "id": 562,
+        "stations": [
+            "LINE_7"
+        ],
+        "aliasName": [
+            "천왕",
+            "천왕역"
+        ]
+    },
+    "암사": {
+        "id": 563,
+        "stations": [
+            "LINE_8"
+        ],
+        "aliasName": [
+            "암사",
+            "암사역"
+        ]
+    },
+    "강동구청": {
+        "id": 564,
+        "stations": [
+            "LINE_8"
+        ],
+        "aliasName": [
+            "강동구청",
+            "강동구청역"
+        ]
+    },
+    "몽촌토성": {
+        "id": 565,
+        "stations": [
+            "LINE_8"
+        ],
+        "aliasName": [
+            "몽촌토성(평화의문)",
+            "평화의문",
+            "몽촌토성",
+            "몽촌토성(평화의문)역",
+            "평화의문역",
+            "몽촌토성역"
+        ]
+    },
+    "석촌": {
+        "id": 566,
+        "stations": [
+            "LINE_8",
+            "LINE_9"
+        ],
+        "aliasName": [
+            "석촌",
+            "석촌역",
+            "석촌",
+            "석촌역"
+        ]
+    },
+    "송파": {
+        "id": 567,
+        "stations": [
+            "LINE_8"
+        ],
+        "aliasName": [
+            "송파",
+            "송파역"
+        ]
+    },
+    "문정": {
+        "id": 568,
+        "stations": [
+            "LINE_8"
+        ],
+        "aliasName": [
+            "문정",
+            "문정역"
+        ]
+    },
+    "장지": {
+        "id": 569,
+        "stations": [
+            "LINE_8"
+        ],
+        "aliasName": [
+            "장지",
+            "장지역"
+        ]
+    },
+    "산성": {
+        "id": 570,
+        "stations": [
+            "LINE_8"
+        ],
+        "aliasName": [
+            "산성",
+            "산성역"
+        ]
+    },
+    "남한산성입구": {
+        "id": 571,
+        "stations": [
+            "LINE_8"
+        ],
+        "aliasName": [
+            "남한산성입구(성남법원·검찰청)",
+            "성남법원·검찰청",
+            "남한산성입구",
+            "남한산성입구(성남법원·검찰청)역",
+            "성남법원·검찰청역",
+            "남한산성입구역"
+        ]
+    },
+    "단대오거리": {
+        "id": 572,
+        "stations": [
+            "LINE_8"
+        ],
+        "aliasName": [
+            "단대오거리",
+            "단대오거리역"
+        ]
+    },
+    "신흥": {
+        "id": 573,
+        "stations": [
+            "LINE_8"
+        ],
+        "aliasName": [
+            "신흥",
+            "신흥역"
+        ]
+    },
+    "수진": {
+        "id": 574,
+        "stations": [
+            "LINE_8"
+        ],
+        "aliasName": [
+            "수진",
+            "수진역"
+        ]
+    },
+    "남위례": {
+        "id": 575,
+        "stations": [
+            "LINE_8"
+        ],
+        "aliasName": [
+            "남위례",
+            "남위례역"
+        ]
+    },
+    "개화": {
+        "id": 576,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "개화",
+            "개화역"
+        ]
+    },
+    "공항시장": {
+        "id": 577,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "공항시장",
+            "공항시장역"
+        ]
+    },
+    "신방화": {
+        "id": 578,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "신방화",
+            "신방화역"
+        ]
+    },
+    "양천향교": {
+        "id": 579,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "양천향교",
+            "양천향교역"
+        ]
+    },
+    "가양": {
+        "id": 580,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "가양",
+            "가양역"
+        ]
+    },
+    "증미": {
+        "id": 581,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "증미",
+            "증미역"
+        ]
+    },
+    "등촌": {
+        "id": 582,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "등촌",
+            "등촌역"
+        ]
+    },
+    "염창": {
+        "id": 583,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "염창",
+            "염창역"
+        ]
+    },
+    "신목동": {
+        "id": 584,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "신목동",
+            "신목동역"
+        ]
+    },
+    "선유도": {
+        "id": 585,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "선유도",
+            "선유도역"
+        ]
+    },
+    "국회의사당": {
+        "id": 586,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "국회의사당",
+            "국회의사당역"
+        ]
+    },
+    "샛강": {
+        "id": 587,
+        "stations": [
+            "LINE_9",
+            "LINE_SINRIM"
+        ],
+        "aliasName": [
+            "샛강",
+            "샛강역",
+            "샛강",
+            "샛강역"
+        ]
+    },
+    "노들": {
+        "id": 588,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "노들",
+            "노들역"
+        ]
+    },
+    "흑석": {
+        "id": 589,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "흑석(중앙대입구)",
+            "중앙대입구",
+            "흑석",
+            "흑석(중앙대입구)역",
+            "중앙대입구역",
+            "흑석역"
+        ]
+    },
+    "구반포": {
+        "id": 590,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "구반포",
+            "구반포역"
+        ]
+    },
+    "신반포": {
+        "id": 591,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "신반포",
+            "신반포역"
+        ]
+    },
+    "사평": {
+        "id": 592,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "사평",
+            "사평역"
+        ]
+    },
+    "언주": {
+        "id": 593,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "언주",
+            "언주역"
+        ]
+    },
+    "삼성중앙": {
+        "id": 594,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "삼성중앙",
+            "삼성중앙역"
+        ]
+    },
+    "봉은사": {
+        "id": 595,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "봉은사",
+            "봉은사역"
+        ]
+    },
+    "삼전": {
+        "id": 596,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "삼전",
+            "삼전역"
+        ]
+    },
+    "석촌고분": {
+        "id": 597,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "석촌고분",
+            "석촌고분역"
+        ]
+    },
+    "송파나루": {
+        "id": 598,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "송파나루",
+            "송파나루역"
+        ]
+    },
+    "한성백제": {
+        "id": 599,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "한성백제",
+            "한성백제역"
+        ]
+    },
+    "둔촌오륜": {
+        "id": 600,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "둔촌오륜",
+            "둔촌오륜역"
+        ]
+    },
+    "중앙보훈병원": {
+        "id": 601,
+        "stations": [
+            "LINE_9"
+        ],
+        "aliasName": [
+            "중앙보훈병원",
+            "중앙보훈병원역"
+        ]
+    },
+    "서울지방병무청": {
+        "id": 602,
+        "stations": [
+            "LINE_SINRIM"
+        ],
+        "aliasName": [
+            "서울지방병무청",
+            "서울지방병무청역"
+        ]
+    },
+    "보라매공원": {
+        "id": 603,
+        "stations": [
+            "LINE_SINRIM"
+        ],
+        "aliasName": [
+            "보라매공원",
+            "보라매공원역"
+        ]
+    },
+    "보라매병원": {
+        "id": 604,
+        "stations": [
+            "LINE_SINRIM"
+        ],
+        "aliasName": [
+            "보라매병원",
+            "보라매병원역"
+        ]
+    },
+    "당곡": {
+        "id": 605,
+        "stations": [
+            "LINE_SINRIM"
+        ],
+        "aliasName": [
+            "당곡",
+            "당곡역"
+        ]
+    },
+    "서원": {
+        "id": 606,
+        "stations": [
+            "LINE_SINRIM"
+        ],
+        "aliasName": [
+            "서원",
+            "서원역"
+        ]
+    },
+    "서울대벤처타운": {
+        "id": 607,
+        "stations": [
+            "LINE_SINRIM"
+        ],
+        "aliasName": [
+            "서울대벤처타운",
+            "서울대벤처타운역"
+        ]
+    },
+    "관악산": {
+        "id": 608,
+        "stations": [
+            "LINE_SINRIM"
+        ],
+        "aliasName": [
+            "관악산(서울대)",
+            "서울대",
+            "관악산",
+            "관악산(서울대)역",
+            "서울대역",
+            "관악산역"
+        ]
+    },
+    "김포공항역": {
+        "id": 609,
+        "stations": [
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "김포공항역",
+            "김포공항"
+        ]
+    },
+    "원종": {
+        "id": 610,
+        "stations": [
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "원종",
+            "원종역"
+        ]
+    },
+    "부천종합운동장역": {
+        "id": 611,
+        "stations": [
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "부천종합운동장역",
+            "부천종합운동장"
+        ]
+    },
+    "소새울": {
+        "id": 612,
+        "stations": [
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "소새울",
+            "소새울역"
+        ]
+    },
+    "시흥대야": {
+        "id": 613,
+        "stations": [
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "시흥대야",
+            "시흥대야역"
+        ]
+    },
+    "신천": {
+        "id": 614,
+        "stations": [
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "신천",
+            "신천역"
+        ]
+    },
+    "신현": {
+        "id": 615,
+        "stations": [
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "신현",
+            "신현역"
+        ]
+    },
+    "시흥시청": {
+        "id": 616,
+        "stations": [
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "시흥시청",
+            "시흥시청역"
+        ]
+    },
+    "시흥능곡": {
+        "id": 617,
+        "stations": [
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "시흥능곡",
+            "시흥능곡역"
+        ]
+    },
+    "달미": {
+        "id": 618,
+        "stations": [
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "달미",
+            "달미역"
+        ]
+    },
+    "선부": {
+        "id": 619,
+        "stations": [
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "선부",
+            "선부역"
+        ]
+    },
+    "시우": {
+        "id": 620,
+        "stations": [
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "시우",
+            "시우역"
+        ]
+    },
+    "원시": {
+        "id": 621,
+        "stations": [
+            "LINE_SEOHEA"
+        ],
+        "aliasName": [
+            "원시",
+            "원시역"
+        ]
+    },
+    "북한산우이": {
+        "id": 622,
+        "stations": [
+            "LINE_UISINSUL"
+        ],
+        "aliasName": [
+            "북한산우이",
+            "북한산우이역"
+        ]
+    },
+    "솔밭공원": {
+        "id": 623,
+        "stations": [
+            "LINE_UISINSUL"
+        ],
+        "aliasName": [
+            "솔밭공원",
+            "솔밭공원역"
+        ]
+    },
+    "4.19민주묘지": {
+        "id": 624,
+        "stations": [
+            "LINE_UISINSUL"
+        ],
+        "aliasName": [
+            "4.19민주묘지",
+            "4.19민주묘지역"
+        ]
+    },
+    "가오리": {
+        "id": 625,
+        "stations": [
+            "LINE_UISINSUL"
+        ],
+        "aliasName": [
+            "가오리",
+            "가오리역"
+        ]
+    },
+    "화계": {
+        "id": 626,
+        "stations": [
+            "LINE_UISINSUL"
+        ],
+        "aliasName": [
+            "화계",
+            "화계역"
+        ]
+    },
+    "삼양": {
+        "id": 627,
+        "stations": [
+            "LINE_UISINSUL"
+        ],
+        "aliasName": [
+            "삼양",
+            "삼양역"
+        ]
+    },
+    "삼양사거리": {
+        "id": 628,
+        "stations": [
+            "LINE_UISINSUL"
+        ],
+        "aliasName": [
+            "삼양사거리",
+            "삼양사거리역"
+        ]
+    },
+    "솔샘": {
+        "id": 629,
+        "stations": [
+            "LINE_UISINSUL"
+        ],
+        "aliasName": [
+            "솔샘",
+            "솔샘역"
+        ]
+    },
+    "북한산보국문": {
+        "id": 630,
+        "stations": [
+            "LINE_UISINSUL"
+        ],
+        "aliasName": [
+            "북한산보국문",
+            "북한산보국문역"
+        ]
+    },
+    "정릉": {
+        "id": 631,
+        "stations": [
+            "LINE_UISINSUL"
+        ],
+        "aliasName": [
+            "정릉",
+            "정릉역"
+        ]
+    },
+    "발곡": {
+        "id": 632,
+        "stations": [
+            "LINE_UIJEONGBU"
+        ],
+        "aliasName": [
+            "발곡",
+            "발곡역"
+        ]
+    },
+    "범골": {
+        "id": 633,
+        "stations": [
+            "LINE_UIJEONGBU"
+        ],
+        "aliasName": [
+            "범골",
+            "범골역"
+        ]
+    },
+    "경전철의정부": {
+        "id": 634,
+        "stations": [
+            "LINE_UIJEONGBU"
+        ],
+        "aliasName": [
+            "경전철의정부",
+            "경전철의정부역"
+        ]
+    },
+    "의정부시청": {
+        "id": 635,
+        "stations": [
+            "LINE_UIJEONGBU"
+        ],
+        "aliasName": [
+            "의정부시청",
+            "의정부시청역"
+        ]
+    },
+    "흥선": {
+        "id": 636,
+        "stations": [
+            "LINE_UIJEONGBU"
+        ],
+        "aliasName": [
+            "흥선",
+            "흥선역"
+        ]
+    },
+    "의정부중앙": {
+        "id": 637,
+        "stations": [
+            "LINE_UIJEONGBU"
+        ],
+        "aliasName": [
+            "의정부중앙",
+            "의정부중앙역"
+        ]
+    },
+    "동오": {
+        "id": 638,
+        "stations": [
+            "LINE_UIJEONGBU"
+        ],
+        "aliasName": [
+            "동오",
+            "동오역"
+        ]
+    },
+    "새말": {
+        "id": 639,
+        "stations": [
+            "LINE_UIJEONGBU"
+        ],
+        "aliasName": [
+            "새말",
+            "새말역"
+        ]
+    },
+    "경기도청북부청사": {
+        "id": 640,
+        "stations": [
+            "LINE_UIJEONGBU"
+        ],
+        "aliasName": [
+            "경기도청북부청사",
+            "경기도청북부청사역"
+        ]
+    },
+    "효자": {
+        "id": 641,
+        "stations": [
+            "LINE_UIJEONGBU"
+        ],
+        "aliasName": [
+            "효자",
+            "효자역"
+        ]
+    },
+    "곤제": {
+        "id": 642,
+        "stations": [
+            "LINE_UIJEONGBU"
+        ],
+        "aliasName": [
+            "곤제",
+            "곤제역"
+        ]
+    },
+    "어룡": {
+        "id": 643,
+        "stations": [
+            "LINE_UIJEONGBU"
+        ],
+        "aliasName": [
+            "어룡(용현산업단지)",
+            "용현산업단지",
+            "어룡",
+            "어룡(용현산업단지)역",
+            "용현산업단지역",
+            "어룡역"
+        ]
+    },
+    "송산": {
+        "id": 644,
+        "stations": [
+            "LINE_UIJEONGBU"
+        ],
+        "aliasName": [
+            "송산",
+            "송산역"
+        ]
+    },
+    "탑석": {
+        "id": 645,
+        "stations": [
+            "LINE_UIJEONGBU"
+        ],
+        "aliasName": [
+            "탑석",
+            "탑석역"
+        ]
+    }
+}

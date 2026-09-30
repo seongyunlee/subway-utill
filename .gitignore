@@ -1,3 +1,20 @@
 ./node_modules
 ./chromedriver
 .chromedriver
+
+# 생성 산출물 — S3 에 올라가 있고 스크립트로 다시 만들 수 있다
+out/
+final/
+preview/
+samples/
+samples2/
+scalecmp/
+test_sinchon/
+
+# 실행 로그 / 상태 파일
+*.log
+LOAD_STATUS
+
+# 중간 단계 크롭 설정 (crops_final.json 만 쓴다)
+crops.json
+crops15.json

@@ -1,0 +1,8619 @@
+{
+ "549": {
+  "name": "보라매병원역",
+  "scale": 1.0,
+  "viewBox": [
+   2603.1,
+   3050.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "신대방역",
+   "신림역",
+   "당곡역",
+   "보라매공원역",
+   "신풍역"
+  ]
+ },
+ "443": {
+  "name": "응봉역",
+  "scale": 1.0,
+  "viewBox": [
+   3471.7,
+   2428.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "한양대역",
+   "신금호역",
+   "행당역",
+   "옥수역",
+   "뚝섬역"
+  ]
+ },
+ "148": {
+  "name": "한양대역",
+  "scale": 1.0,
+  "viewBox": [
+   3505.6,
+   2440.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "응봉역",
+   "행당역",
+   "옥수역",
+   "뚝섬역"
+  ]
+ },
+ "270": {
+  "name": "영등포시장역",
+  "scale": 1.0,
+  "viewBox": [
+   2499.1,
+   2603.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "국회의사당역",
+   "당산역"
+  ]
+ },
+ "139": {
+  "name": "을지로3가역",
+  "scale": 1.0,
+  "viewBox": [
+   3118.2,
+   2243.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "을지로4가역",
+   "종각역",
+   "을지로입구역",
+   "종로3가역"
+  ]
+ },
+ "140": {
+  "name": "을지로4가역",
+  "scale": 1.0,
+  "viewBox": [
+   3193.2,
+   2300.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "을지로3가역",
+   "동대문역사문화공원역",
+   "충무로역",
+   "명동역"
+  ]
+ },
+ "114": {
+  "name": "동대문역사문화공원역",
+  "scale": 1.0,
+  "viewBox": [
+   3267.5,
+   2239.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 7,
+  "neighbor_names": [
+   "을지로4가역",
+   "청구역",
+   "신당역",
+   "종로3가역",
+   "종로5가역",
+   "동대문역",
+   "동묘앞역"
+  ]
+ },
+ "61": {
+  "name": "신설동역",
+  "scale": 1.0,
+  "viewBox": [
+   3453.9,
+   2153.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 7,
+  "neighbor_names": [
+   "신당역",
+   "동묘앞역",
+   "용두역",
+   "상왕십리역",
+   "창신역",
+   "제기동역",
+   "청량리역"
+  ]
+ },
+ "476": {
+  "name": "성남역",
+  "scale": 1.0,
+  "viewBox": [
+   4155.6,
+   3932.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "이매역"
+  ]
+ },
+ "243": {
+  "name": "광화문역",
+  "scale": 1.0,
+  "viewBox": [
+   3012.2,
+   2116.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "안국역",
+   "독립문역",
+   "경복궁역"
+  ]
+ },
+ "261": {
+  "name": "서대문역",
+  "scale": 1.0,
+  "viewBox": [
+   2948.4,
+   2240.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "시청역",
+   "아현역",
+   "종각역"
+  ]
+ },
+ "170": {
+  "name": "불광역",
+  "scale": 1.0,
+  "viewBox": [
+   2721.8,
+   1829.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "녹번역",
+   "역촌역"
+  ]
+ },
+ "58": {
+  "name": "시청역",
+  "scale": 1.0,
+  "viewBox": [
+   2975.2,
+   2276.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "서대문역",
+   "충정로역",
+   "회현역",
+   "아현역",
+   "종각역",
+   "을지로입구역"
+  ]
+ },
+ "470": {
+  "name": "퇴계원역",
+  "scale": 1.0,
+  "viewBox": [
+   4343.2,
+   1492.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "별내역"
+  ]
+ },
+ "364": {
+  "name": "별내역",
+  "scale": 1.0,
+  "viewBox": [
+   4241.7,
+   1475.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "퇴계원역"
+  ]
+ },
+ "52": {
+  "name": "세마역",
+  "scale": 1.0,
+  "viewBox": [
+   3587.1,
+   6128.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "오산대역",
+   "오산역"
+  ]
+ },
+ "71": {
+  "name": "오산대역",
+  "scale": 1.0,
+  "viewBox": [
+   3630.1,
+   6134.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "세마역",
+   "오산역",
+   "진위역"
+  ]
+ },
+ "72": {
+  "name": "오산역",
+  "scale": 1.0,
+  "viewBox": [
+   3683.2,
+   6128.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "세마역",
+   "오산대역",
+   "진위역",
+   "송탄역"
+  ]
+ },
+ "91": {
+  "name": "진위역",
+  "scale": 1.0,
+  "viewBox": [
+   3733.0,
+   6128.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "오산대역",
+   "오산역",
+   "송탄역",
+   "서정리역"
+  ]
+ },
+ "56": {
+  "name": "송탄역",
+  "scale": 1.0,
+  "viewBox": [
+   3782.0,
+   6128.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "오산역",
+   "진위역",
+   "서정리역",
+   "평택지제역"
+  ]
+ },
+ "46": {
+  "name": "서정리역",
+  "scale": 1.0,
+  "viewBox": [
+   3825.4,
+   6134.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "진위역",
+   "송탄역",
+   "평택지제역",
+   "평택역"
+  ]
+ },
+ "99": {
+  "name": "평택지제역",
+  "scale": 1.0,
+  "viewBox": [
+   3866.9,
+   6140.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "송탄역",
+   "서정리역",
+   "평택역",
+   "성환역"
+  ]
+ },
+ "98": {
+  "name": "평택역",
+  "scale": 1.0,
+  "viewBox": [
+   3927.4,
+   6128.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "서정리역",
+   "평택지제역",
+   "성환역",
+   "직산역"
+  ]
+ },
+ "50": {
+  "name": "성환역",
+  "scale": 1.0,
+  "viewBox": [
+   3976.9,
+   6128.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "평택지제역",
+   "평택역",
+   "직산역",
+   "두정역"
+  ]
+ },
+ "90": {
+  "name": "직산역",
+  "scale": 1.0,
+  "viewBox": [
+   4025.4,
+   6128.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "평택역",
+   "성환역",
+   "두정역",
+   "천안역"
+  ]
+ },
+ "32": {
+  "name": "두정역",
+  "scale": 1.0,
+  "viewBox": [
+   4074.1,
+   6128.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "성환역",
+   "직산역",
+   "천안역",
+   "봉명역"
+  ]
+ },
+ "94": {
+  "name": "천안역",
+  "scale": 1.0,
+  "viewBox": [
+   4121.7,
+   6128.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "직산역",
+   "두정역",
+   "봉명역",
+   "쌍용역"
+  ]
+ },
+ "40": {
+  "name": "봉명역",
+  "scale": 1.0,
+  "viewBox": [
+   4171.7,
+   6128.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "두정역",
+   "천안역",
+   "쌍용역",
+   "아산역"
+  ]
+ },
+ "64": {
+  "name": "쌍용역",
+  "scale": 1.0,
+  "viewBox": [
+   4217.4,
+   6128.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "천안역",
+   "봉명역",
+   "아산역",
+   "탕정역"
+  ]
+ },
+ "93": {
+  "name": "아산역",
+  "scale": 1.0,
+  "viewBox": [
+   4267.7,
+   6128.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "봉명역",
+   "쌍용역",
+   "배방역",
+   "탕정역"
+  ]
+ },
+ "36": {
+  "name": "배방역",
+  "scale": 1.0,
+  "viewBox": [
+   4364.7,
+   6128.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "아산역",
+   "탕정역",
+   "온양온천역"
+  ]
+ },
+ "97": {
+  "name": "탕정역",
+  "scale": 1.0,
+  "viewBox": [
+   4315.5,
+   6128.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "쌍용역",
+   "아산역",
+   "배방역"
+  ]
+ },
+ "63": {
+  "name": "신창역",
+  "scale": 1.0,
+  "viewBox": [
+   4512.8,
+   6128.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "온양온천역"
+  ]
+ },
+ "74": {
+  "name": "온양온천역",
+  "scale": 1.0,
+  "viewBox": [
+   4451.1,
+   6140.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "배방역",
+   "신창역"
+  ]
+ },
+ "505": {
+  "name": "수원시청역",
+  "scale": 1.0,
+  "viewBox": [
+   3468.4,
+   5234.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "매탄권선역"
+  ]
+ },
+ "495": {
+  "name": "매탄권선역",
+  "scale": 1.0,
+  "viewBox": [
+   3556.1,
+   5322.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "수원시청역",
+   "망포역"
+  ]
+ },
+ "493": {
+  "name": "망포역",
+  "scale": 1.0,
+  "viewBox": [
+   3657.1,
+   5361.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "매탄권선역"
+  ]
+ },
+ "499": {
+  "name": "상갈역",
+  "scale": 1.0,
+  "viewBox": [
+   4055.2,
+   5216.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "강남대역"
+  ]
+ },
+ "573": {
+  "name": "강남대역",
+  "scale": 1.0,
+  "viewBox": [
+   4161.8,
+   5185.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "상갈역",
+   "지석역",
+   "기흥역"
+  ]
+ },
+ "585": {
+  "name": "지석역",
+  "scale": 1.0,
+  "viewBox": [
+   4249.1,
+   5230.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "강남대역"
+  ]
+ },
+ "582": {
+  "name": "어정역",
+  "scale": 1.0,
+  "viewBox": [
+   4326.3,
+   5109.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "동백역"
+  ]
+ },
+ "489": {
+  "name": "기흥역",
+  "scale": 1.0,
+  "viewBox": [
+   4155.2,
+   5087.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "강남대역",
+   "신갈역"
+  ]
+ },
+ "576": {
+  "name": "동백역",
+  "scale": 1.0,
+  "viewBox": [
+   4405.0,
+   5159.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "어정역",
+   "초당역"
+  ]
+ },
+ "586": {
+  "name": "초당역",
+  "scale": 1.0,
+  "viewBox": [
+   4478.3,
+   5229.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "동백역"
+  ]
+ },
+ "580": {
+  "name": "삼가역",
+  "scale": 1.0,
+  "viewBox": [
+   4551.3,
+   5408.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "시청·용인대역"
+  ]
+ },
+ "581": {
+  "name": "시청·용인대역",
+  "scale": 1.0,
+  "viewBox": [
+   4624.6,
+   5410.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "삼가역",
+   "명지대역"
+  ]
+ },
+ "578": {
+  "name": "명지대역",
+  "scale": 1.0,
+  "viewBox": [
+   4717.4,
+   5427.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "시청·용인대역",
+   "김량장역"
+  ]
+ },
+ "575": {
+  "name": "김량장역",
+  "scale": 1.0,
+  "viewBox": [
+   4788.8,
+   5427.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "명지대역",
+   "용인중앙시장역"
+  ]
+ },
+ "579": {
+  "name": "보평역",
+  "scale": 1.0,
+  "viewBox": [
+   4921.5,
+   5289.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "둔전역"
+  ]
+ },
+ "574": {
+  "name": "고진역",
+  "scale": 1.0,
+  "viewBox": [
+   4921.5,
+   5417.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "용인중앙시장역"
+  ]
+ },
+ "583": {
+  "name": "용인중앙시장역",
+  "scale": 1.0,
+  "viewBox": [
+   4881.4,
+   5487.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "김량장역",
+   "고진역"
+  ]
+ },
+ "577": {
+  "name": "둔전역",
+  "scale": 1.0,
+  "viewBox": [
+   4864.3,
+   5191.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "보평역"
+  ]
+ },
+ "507": {
+  "name": "신갈역",
+  "scale": 1.0,
+  "viewBox": [
+   4093.4,
+   4993.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "기흥역"
+  ]
+ },
+ "532": {
+  "name": "수지구청역",
+  "scale": 1.0,
+  "viewBox": [
+   3923.2,
+   4622.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "성복역",
+   "동천역"
+  ]
+ },
+ "529": {
+  "name": "동천역",
+  "scale": 1.0,
+  "viewBox": [
+   3939.4,
+   4539.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "수지구청역"
+  ]
+ },
+ "11": {
+  "name": "금정역",
+  "scale": 1.0,
+  "viewBox": [
+   2788.9,
+   4118.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "명학역"
+  ]
+ },
+ "12": {
+  "name": "금천구청역",
+  "scale": 1.0,
+  "viewBox": [
+   2334.1,
+   3315.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "독산역"
+  ]
+ },
+ "8": {
+  "name": "구로역",
+  "scale": 1.0,
+  "viewBox": [
+   2295.9,
+   2882.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "구일역",
+   "도림천역"
+  ]
+ },
+ "60": {
+  "name": "신도림역",
+  "scale": 1.0,
+  "viewBox": [
+   2438.9,
+   2797.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "영등포구청역",
+   "문래역",
+   "영등포역",
+   "신길역"
+  ]
+ },
+ "2": {
+  "name": "가산디지털단지역",
+  "scale": 1.0,
+  "viewBox": [
+   2225.4,
+   3162.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "철산역",
+   "독산역"
+  ]
+ },
+ "45": {
+  "name": "서울역",
+  "scale": 1.0,
+  "viewBox": [
+   2966.4,
+   2392.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "충정로역",
+   "회현역",
+   "아현역",
+   "애오개역"
+  ]
+ },
+ "177": {
+  "name": "연신내역",
+  "scale": 1.0,
+  "viewBox": [
+   2566.6,
+   1775.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "구산역"
+  ]
+ },
+ "147": {
+  "name": "충정로역",
+  "scale": 1.0,
+  "viewBox": [
+   2866.1,
+   2376.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "시청역",
+   "서울역",
+   "아현역",
+   "이대역",
+   "애오개역",
+   "대흥역"
+  ]
+ },
+ "10": {
+  "name": "군포역",
+  "scale": 1.0,
+  "viewBox": [
+   2835.0,
+   4356.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "당정역"
+  ]
+ },
+ "34": {
+  "name": "명학역",
+  "scale": 1.0,
+  "viewBox": [
+   2695.0,
+   4020.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "금정역",
+   "범계역"
+  ]
+ },
+ "9": {
+  "name": "구일역",
+  "scale": 1.0,
+  "viewBox": [
+   2207.2,
+   2960.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "구로역",
+   "개봉역"
+  ]
+ },
+ "349": {
+  "name": "철산역",
+  "scale": 1.0,
+  "viewBox": [
+   2152.8,
+   3140.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "가산디지털단지역",
+   "광명사거리역"
+  ]
+ },
+ "313": {
+  "name": "광명사거리역",
+  "scale": 1.0,
+  "viewBox": [
+   2047.4,
+   3159.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "철산역"
+  ]
+ },
+ "4": {
+  "name": "개봉역",
+  "scale": 1.0,
+  "viewBox": [
+   2091.2,
+   2960.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "구일역",
+   "오류동역"
+  ]
+ },
+ "70": {
+  "name": "오류동역",
+  "scale": 1.0,
+  "viewBox": [
+   1981.2,
+   2966.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "개봉역",
+   "천왕역"
+  ]
+ },
+ "315": {
+  "name": "까치울역",
+  "scale": 1.0,
+  "viewBox": [
+   1748.4,
+   2811.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "온수역",
+   "부천종합운동장역"
+  ]
+ },
+ "326": {
+  "name": "부천종합운동장역",
+  "scale": 1.0,
+  "viewBox": [
+   1671.3,
+   2746.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "까치울역",
+   "춘의역"
+  ]
+ },
+ "351": {
+  "name": "춘의역",
+  "scale": 1.0,
+  "viewBox": [
+   1544.2,
+   2771.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "신중동역"
+  ]
+ },
+ "338": {
+  "name": "신중동역",
+  "scale": 1.0,
+  "viewBox": [
+   1472.2,
+   2764.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "춘의역",
+   "부천시청역"
+  ]
+ },
+ "325": {
+  "name": "부천시청역",
+  "scale": 1.0,
+  "viewBox": [
+   1375.3,
+   2757.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "신중동역",
+   "상동역"
+  ]
+ },
+ "332": {
+  "name": "상동역",
+  "scale": 1.0,
+  "viewBox": [
+   1278.2,
+   2771.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "부천시청역",
+   "삼산체육관역"
+  ]
+ },
+ "330": {
+  "name": "삼산체육관역",
+  "scale": 1.0,
+  "viewBox": [
+   1215.4,
+   2750.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "상동역",
+   "굴포천역"
+  ]
+ },
+ "314": {
+  "name": "굴포천역",
+  "scale": 1.0,
+  "viewBox": [
+   1119.2,
+   2764.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "삼산체육관역",
+   "갈산역"
+  ]
+ },
+ "329": {
+  "name": "산곡역",
+  "scale": 1.0,
+  "viewBox": [
+   892.7,
+   2769.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "부평구청역"
+  ]
+ },
+ "53": {
+  "name": "소사역",
+  "scale": 1.0,
+  "viewBox": [
+   1577.2,
+   3055.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "부천역"
+  ]
+ },
+ "42": {
+  "name": "부천역",
+  "scale": 1.0,
+  "viewBox": [
+   1497.0,
+   3068.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "소사역"
+  ]
+ },
+ "88": {
+  "name": "중동역",
+  "scale": 1.0,
+  "viewBox": [
+   1345.0,
+   3068.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "송내역"
+  ]
+ },
+ "55": {
+  "name": "송내역",
+  "scale": 1.0,
+  "viewBox": [
+   1261.0,
+   3068.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "중동역",
+   "부개역"
+  ]
+ },
+ "41": {
+  "name": "부개역",
+  "scale": 1.0,
+  "viewBox": [
+   1169.0,
+   3068.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "송내역",
+   "부평역"
+  ]
+ },
+ "636": {
+  "name": "남동구청역",
+  "scale": 1.0,
+  "viewBox": [
+   1129.0,
+   3441.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "인천대공원역"
+  ]
+ },
+ "651": {
+  "name": "인천대공원역",
+  "scale": 1.0,
+  "viewBox": [
+   1210.5,
+   3447.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "남동구청역",
+   "운연역"
+  ]
+ },
+ "609": {
+  "name": "동수역",
+  "scale": 1.0,
+  "viewBox": [
+   1012.7,
+   3091.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "부평삼거리역",
+   "백운역",
+   "부평역"
+  ]
+ },
+ "601": {
+  "name": "간석오거리역",
+  "scale": 1.0,
+  "viewBox": [
+   946.0,
+   3227.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "부평삼거리역",
+   "석천사거리역",
+   "모래내시장역"
+  ]
+ },
+ "613": {
+  "name": "부평삼거리역",
+  "scale": 1.0,
+  "viewBox": [
+   1003.5,
+   3142.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "동수역",
+   "간석오거리역",
+   "백운역"
+  ]
+ },
+ "37": {
+  "name": "백운역",
+  "scale": 1.0,
+  "viewBox": [
+   889.1,
+   3046.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "동수역"
+  ]
+ },
+ "30": {
+  "name": "동암역",
+  "scale": 1.0,
+  "viewBox": [
+   808.9,
+   3185.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "간석역"
+  ]
+ },
+ "623": {
+  "name": "인천시청역",
+  "scale": 1.0,
+  "viewBox": [
+   809.2,
+   3358.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "예술회관역",
+   "인천터미널역",
+   "간석역",
+   "석바위시장역"
+  ]
+ },
+ "614": {
+  "name": "부평시장역",
+  "scale": 1.0,
+  "viewBox": [
+   1085.1,
+   2890.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "부평역",
+   "부평구청역"
+  ]
+ },
+ "602": {
+  "name": "갈산역",
+  "scale": 1.0,
+  "viewBox": [
+   1071.0,
+   2728.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "굴포천역"
+  ]
+ },
+ "625": {
+  "name": "임학역",
+  "scale": 1.0,
+  "viewBox": [
+   1171.0,
+   2468.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "계산역"
+  ]
+ },
+ "605": {
+  "name": "계산역",
+  "scale": 1.0,
+  "viewBox": [
+   1088.1,
+   2408.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "임학역"
+  ]
+ },
+ "612": {
+  "name": "박촌역",
+  "scale": 1.0,
+  "viewBox": [
+   1251.0,
+   2352.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "귤현역"
+  ]
+ },
+ "607": {
+  "name": "귤현역",
+  "scale": 1.0,
+  "viewBox": [
+   1251.0,
+   2264.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "박촌역",
+   "계양역"
+  ]
+ },
+ "604": {
+  "name": "경인교대입구역",
+  "scale": 1.0,
+  "viewBox": [
+   963.3,
+   2554.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "작전역"
+  ]
+ },
+ "621": {
+  "name": "예술회관역",
+  "scale": 1.0,
+  "viewBox": [
+   905.1,
+   3363.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "인천시청역",
+   "인천터미널역",
+   "간석역"
+  ]
+ },
+ "644": {
+  "name": "석천사거리역",
+  "scale": 1.0,
+  "viewBox": [
+   958.4,
+   3253.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "간석오거리역",
+   "부평삼거리역",
+   "모래내시장역"
+  ]
+ },
+ "640": {
+  "name": "모래내시장역",
+  "scale": 1.0,
+  "viewBox": [
+   1033.4,
+   3253.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "간석오거리역",
+   "부평삼거리역",
+   "석천사거리역",
+   "만수역"
+  ]
+ },
+ "639": {
+  "name": "만수역",
+  "scale": 1.0,
+  "viewBox": [
+   1103.2,
+   3272.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "모래내시장역"
+  ]
+ },
+ "624": {
+  "name": "인천터미널역",
+  "scale": 1.0,
+  "viewBox": [
+   912.2,
+   3427.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "인천시청역",
+   "예술회관역",
+   "문학경기장역"
+  ]
+ },
+ "611": {
+  "name": "문학경기장역",
+  "scale": 1.0,
+  "viewBox": [
+   912.2,
+   3506.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "인천터미널역",
+   "선학역"
+  ]
+ },
+ "619": {
+  "name": "신연수역",
+  "scale": 1.0,
+  "viewBox": [
+   832.5,
+   3736.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "원인재역",
+   "호구포역",
+   "남동인더스파크역"
+  ]
+ },
+ "610": {
+  "name": "동춘역",
+  "scale": 1.0,
+  "viewBox": [
+   718.0,
+   3859.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "동막역"
+  ]
+ },
+ "608": {
+  "name": "동막역",
+  "scale": 1.0,
+  "viewBox": [
+   648.9,
+   3924.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "동춘역"
+  ]
+ },
+ "628": {
+  "name": "캠퍼스타운역",
+  "scale": 1.0,
+  "viewBox": [
+   522.5,
+   3953.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "동막역"
+  ]
+ },
+ "627": {
+  "name": "지식정보단지역",
+  "scale": 1.0,
+  "viewBox": [
+   340.8,
+   4102.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "인천대입구역"
+  ]
+ },
+ "622": {
+  "name": "인천대입구역",
+  "scale": 1.0,
+  "viewBox": [
+   294.7,
+   4044.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "지식정보단지역",
+   "센트럴파크역"
+  ]
+ },
+ "616": {
+  "name": "센트럴파크역",
+  "scale": 1.0,
+  "viewBox": [
+   249.2,
+   3999.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "인천대입구역",
+   "국제업무지구역"
+  ]
+ },
+ "606": {
+  "name": "국제업무지구역",
+  "scale": 1.0,
+  "viewBox": [
+   186.8,
+   3948.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "센트럴파크역"
+  ]
+ },
+ "3": {
+  "name": "간석역",
+  "scale": 1.0,
+  "viewBox": [
+   792.0,
+   3284.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "동암역",
+   "인천시청역",
+   "예술회관역",
+   "주안역"
+  ]
+ },
+ "23": {
+  "name": "도원역",
+  "scale": 1.0,
+  "viewBox": [
+   439.0,
+   3168.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "동인천역"
+  ]
+ },
+ "31": {
+  "name": "동인천역",
+  "scale": 1.0,
+  "viewBox": [
+   366.0,
+   3081.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "도원역"
+  ]
+ },
+ "87": {
+  "name": "주안역",
+  "scale": 1.0,
+  "viewBox": [
+   675.3,
+   3274.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "간석역",
+   "도화역",
+   "시민공원역"
+  ]
+ },
+ "24": {
+  "name": "도화역",
+  "scale": 1.0,
+  "viewBox": [
+   613.0,
+   3284.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "주안역",
+   "제물포역",
+   "시민공원역"
+  ]
+ },
+ "83": {
+  "name": "제물포역",
+  "scale": 1.0,
+  "viewBox": [
+   507.0,
+   3291.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "도화역",
+   "인하대역"
+  ]
+ },
+ "25": {
+  "name": "독산역",
+  "scale": 1.0,
+  "viewBox": [
+   2330.0,
+   3224.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "금천구청역"
+  ]
+ },
+ "517": {
+  "name": "원인재역",
+  "scale": 1.0,
+  "viewBox": [
+   755.2,
+   3738.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "신연수역",
+   "연수역"
+  ]
+ },
+ "43": {
+  "name": "부평역",
+  "scale": 1.0,
+  "viewBox": [
+   1060.0,
+   2995.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "부개역",
+   "동수역"
+  ]
+ },
+ "327": {
+  "name": "부평구청역",
+  "scale": 1.0,
+  "viewBox": [
+   987.8,
+   2854.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "산곡역",
+   "부평시장역"
+  ]
+ },
+ "405": {
+  "name": "계양역",
+  "scale": 1.0,
+  "viewBox": [
+   1157.0,
+   2164.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "귤현역"
+  ]
+ },
+ "618": {
+  "name": "신검단중앙역",
+  "scale": 1.0,
+  "viewBox": [
+   873.4,
+   1813.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "검단호수공원역"
+  ]
+ },
+ "603": {
+  "name": "검단호수공원역",
+  "scale": 1.0,
+  "viewBox": [
+   813.4,
+   1806.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "신검단중앙역"
+  ]
+ },
+ "404": {
+  "name": "검암역",
+  "scale": 1.0,
+  "viewBox": [
+   634.8,
+   2231.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "검바위역"
+  ]
+ },
+ "407": {
+  "name": "영종역",
+  "scale": 1.0,
+  "viewBox": [
+   118.8,
+   2452.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "운서역"
+  ]
+ },
+ "633": {
+  "name": "검단사거리역",
+  "scale": 1.0,
+  "viewBox": [
+   563.9,
+   1811.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "마전역"
+  ]
+ },
+ "638": {
+  "name": "마전역",
+  "scale": 1.0,
+  "viewBox": [
+   655.3,
+   1872.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "검단사거리역",
+   "완정역"
+  ]
+ },
+ "647": {
+  "name": "완정역",
+  "scale": 1.0,
+  "viewBox": [
+   625.3,
+   1970.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "마전역",
+   "독정역"
+  ]
+ },
+ "637": {
+  "name": "독정역",
+  "scale": 1.0,
+  "viewBox": [
+   625.3,
+   2058.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "완정역"
+  ]
+ },
+ "635": {
+  "name": "검바위역",
+  "scale": 1.0,
+  "viewBox": [
+   619.3,
+   2290.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "검암역"
+  ]
+ },
+ "646": {
+  "name": "아시아드경기장역",
+  "scale": 1.0,
+  "viewBox": [
+   595.6,
+   2402.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "서해구청역"
+  ]
+ },
+ "642": {
+  "name": "서해구청역",
+  "scale": 1.0,
+  "viewBox": [
+   619.3,
+   2446.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "아시아드경기장역"
+  ]
+ },
+ "632": {
+  "name": "가정중앙시장역",
+  "scale": 1.0,
+  "viewBox": [
+   601.6,
+   2744.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "가정역",
+   "석남역"
+  ]
+ },
+ "641": {
+  "name": "서부여성회관역",
+  "scale": 1.0,
+  "viewBox": [
+   601.6,
+   2918.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "인천가좌역"
+  ]
+ },
+ "645": {
+  "name": "시민공원역",
+  "scale": 1.0,
+  "viewBox": [
+   673.2,
+   3332.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "간석역",
+   "주안역",
+   "도화역",
+   "석바위시장역"
+  ]
+ },
+ "643": {
+  "name": "석바위시장역",
+  "scale": 1.0,
+  "viewBox": [
+   751.3,
+   3373.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "인천시청역",
+   "간석역",
+   "주안역",
+   "시민공원역"
+  ]
+ },
+ "630": {
+  "name": "가재울역",
+  "scale": 1.0,
+  "viewBox": [
+   761.5,
+   3008.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "백운역"
+  ]
+ },
+ "408": {
+  "name": "운서역",
+  "scale": 1.0,
+  "viewBox": [
+   118.8,
+   2495.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "영종역",
+   "공항화물청사역"
+  ]
+ },
+ "406": {
+  "name": "공항화물청사역",
+  "scale": 1.0,
+  "viewBox": [
+   95.9,
+   2575.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "운서역"
+  ]
+ },
+ "259": {
+  "name": "방화역",
+  "scale": 1.0,
+  "viewBox": [
+   1792.2,
+   2088.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "개화산역",
+   "신방화역"
+  ]
+ },
+ "238": {
+  "name": "개화산역",
+  "scale": 1.0,
+  "viewBox": [
+   1677.3,
+   2153.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "방화역",
+   "공항시장역",
+   "신방화역"
+  ]
+ },
+ "377": {
+  "name": "공항시장역",
+  "scale": 1.0,
+  "viewBox": [
+   1715.5,
+   2189.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "방화역",
+   "개화산역",
+   "신방화역"
+  ]
+ },
+ "396": {
+  "name": "신방화역",
+  "scale": 1.0,
+  "viewBox": [
+   1792.4,
+   2187.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "방화역",
+   "개화산역",
+   "공항시장역",
+   "마곡나루역"
+  ]
+ },
+ "397": {
+  "name": "양천향교역",
+  "scale": 1.0,
+  "viewBox": [
+   1990.4,
+   2180.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "가양역",
+   "마곡나루역"
+  ]
+ },
+ "375": {
+  "name": "가양역",
+  "scale": 1.0,
+  "viewBox": [
+   2108.5,
+   2282.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "증미역",
+   "등촌역",
+   "우장산역"
+  ]
+ },
+ "401": {
+  "name": "증미역",
+  "scale": 1.0,
+  "viewBox": [
+   2154.5,
+   2330.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "가양역",
+   "등촌역"
+  ]
+ },
+ "379": {
+  "name": "국회의사당역",
+  "scale": 1.0,
+  "viewBox": [
+   2601.2,
+   2588.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "영등포시장역",
+   "상수역",
+   "광흥창역",
+   "여의나루역",
+   "마포역"
+  ]
+ },
+ "388": {
+  "name": "샛강역",
+  "scale": 1.0,
+  "viewBox": [
+   2708.4,
+   2711.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "대방역",
+   "노량진역",
+   "여의도역"
+  ]
+ },
+ "383": {
+  "name": "마곡나루역",
+  "scale": 1.0,
+  "viewBox": [
+   1877.3,
+   2185.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "방화역",
+   "신방화역",
+   "양천향교역"
+  ]
+ },
+ "262": {
+  "name": "송정역",
+  "scale": 1.0,
+  "viewBox": [
+   1748.0,
+   2383.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "마곡역"
+  ]
+ },
+ "250": {
+  "name": "마곡역",
+  "scale": 1.0,
+  "viewBox": [
+   1840.0,
+   2383.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "송정역",
+   "발산역"
+  ]
+ },
+ "382": {
+  "name": "등촌역",
+  "scale": 1.0,
+  "viewBox": [
+   2194.7,
+   2370.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "가양역",
+   "증미역",
+   "염창역"
+  ]
+ },
+ "399": {
+  "name": "염창역",
+  "scale": 1.0,
+  "viewBox": [
+   2179.1,
+   2472.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "등촌역",
+   "신목동역",
+   "화곡역"
+  ]
+ },
+ "394": {
+  "name": "신목동역",
+  "scale": 1.0,
+  "viewBox": [
+   2285.6,
+   2497.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "염창역",
+   "선유도역"
+  ]
+ },
+ "390": {
+  "name": "선유도역",
+  "scale": 1.0,
+  "viewBox": [
+   2361.9,
+   2558.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "신목동역",
+   "오목교역",
+   "양평역",
+   "당산역"
+  ]
+ },
+ "380": {
+  "name": "노들역",
+  "scale": 1.0,
+  "viewBox": [
+   2849.1,
+   2771.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "상도역",
+   "노량진역"
+  ]
+ },
+ "378": {
+  "name": "구반포역",
+  "scale": 1.0,
+  "viewBox": [
+   3125.8,
+   2929.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "신반포역",
+   "동작역",
+   "내방역",
+   "고속터미널역"
+  ]
+ },
+ "395": {
+  "name": "신반포역",
+  "scale": 1.0,
+  "viewBox": [
+   3189.8,
+   2893.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "구반포역",
+   "내방역",
+   "서초역",
+   "고속터미널역"
+  ]
+ },
+ "385": {
+  "name": "사평역",
+  "scale": 1.0,
+  "viewBox": [
+   3364.2,
+   2886.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "신논현역",
+   "서초역",
+   "강남역",
+   "반포역"
+  ]
+ },
+ "393": {
+  "name": "신논현역",
+  "scale": 1.0,
+  "viewBox": [
+   3477.4,
+   2810.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 7,
+  "neighbor_names": [
+   "사평역",
+   "언주역",
+   "강남역",
+   "학동역",
+   "논현역",
+   "선정릉역",
+   "반포역"
+  ]
+ },
+ "398": {
+  "name": "언주역",
+  "scale": 1.0,
+  "viewBox": [
+   3533.8,
+   2805.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "신논현역",
+   "강남역",
+   "학동역",
+   "논현역",
+   "강남구청역",
+   "선정릉역"
+  ]
+ },
+ "257": {
+  "name": "발산역",
+  "scale": 1.0,
+  "viewBox": [
+   1943.0,
+   2332.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "마곡역",
+   "우장산역"
+  ]
+ },
+ "273": {
+  "name": "우장산역",
+  "scale": 1.0,
+  "viewBox": [
+   1998.1,
+   2373.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "가양역",
+   "발산역",
+   "화곡역"
+  ]
+ },
+ "281": {
+  "name": "화곡역",
+  "scale": 1.0,
+  "viewBox": [
+   2055.0,
+   2444.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "염창역",
+   "우장산역"
+  ]
+ },
+ "109": {
+  "name": "까치산역",
+  "scale": 1.0,
+  "viewBox": [
+   2077.9,
+   2580.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "염창역",
+   "신정역",
+   "목동역"
+  ]
+ },
+ "264": {
+  "name": "신정역",
+  "scale": 1.0,
+  "viewBox": [
+   2102.1,
+   2627.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "까치산역",
+   "목동역"
+  ]
+ },
+ "255": {
+  "name": "목동역",
+  "scale": 1.0,
+  "viewBox": [
+   2177.1,
+   2627.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "까치산역",
+   "신정역",
+   "오목교역"
+  ]
+ },
+ "271": {
+  "name": "오목교역",
+  "scale": 1.0,
+  "viewBox": [
+   2255.6,
+   2620.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "선유도역",
+   "목동역",
+   "양평역"
+  ]
+ },
+ "267": {
+  "name": "양평역",
+  "scale": 1.0,
+  "viewBox": [
+   2333.1,
+   2627.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "선유도역",
+   "오목교역",
+   "영등포구청역"
+  ]
+ },
+ "111": {
+  "name": "당산역",
+  "scale": 1.0,
+  "viewBox": [
+   2442.1,
+   2518.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "영등포시장역",
+   "선유도역",
+   "합정역"
+  ]
+ },
+ "149": {
+  "name": "합정역",
+  "scale": 1.0,
+  "viewBox": [
+   2546.1,
+   2413.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "당산역",
+   "망원역",
+   "상수역",
+   "광흥창역"
+  ]
+ },
+ "135": {
+  "name": "영등포구청역",
+  "scale": 1.0,
+  "viewBox": [
+   2347.3,
+   2714.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "신도림역",
+   "오목교역",
+   "양평역",
+   "문래역"
+  ]
+ },
+ "113": {
+  "name": "도림천역",
+  "scale": 1.0,
+  "viewBox": [
+   2289.1,
+   2822.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "구로역",
+   "문래역"
+  ]
+ },
+ "116": {
+  "name": "문래역",
+  "scale": 1.0,
+  "viewBox": [
+   2355.2,
+   2738.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "신도림역",
+   "영등포구청역",
+   "도림천역"
+  ]
+ },
+ "316": {
+  "name": "남구로역",
+  "scale": 1.0,
+  "viewBox": [
+   2371.9,
+   3061.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "구로디지털단지역",
+   "신풍역",
+   "대림역"
+  ]
+ },
+ "107": {
+  "name": "구로디지털단지역",
+  "scale": 1.0,
+  "viewBox": [
+   2399.4,
+   3109.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "남구로역"
+  ]
+ },
+ "128": {
+  "name": "신대방역",
+  "scale": 1.0,
+  "viewBox": [
+   2558.8,
+   3059.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "보라매병원역",
+   "신림역",
+   "보라매공원역",
+   "신풍역"
+  ]
+ },
+ "129": {
+  "name": "신림역",
+  "scale": 1.0,
+  "viewBox": [
+   2654.6,
+   3094.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "보라매병원역",
+   "신대방역",
+   "봉천역",
+   "서원역",
+   "당곡역"
+  ]
+ },
+ "118": {
+  "name": "봉천역",
+  "scale": 1.0,
+  "viewBox": [
+   2769.2,
+   3022.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "신림역",
+   "당곡역",
+   "장승배기역"
+  ]
+ },
+ "110": {
+  "name": "낙성대역",
+  "scale": 1.0,
+  "viewBox": [
+   2905.6,
+   3182.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "서울대입구역"
+  ]
+ },
+ "546": {
+  "name": "관악산역",
+  "scale": 1.0,
+  "viewBox": [
+   2774.7,
+   3256.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "서원역"
+  ]
+ },
+ "552": {
+  "name": "서원역",
+  "scale": 1.0,
+  "viewBox": [
+   2660.3,
+   3170.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "신림역",
+   "관악산역",
+   "서울대벤처타운역"
+  ]
+ },
+ "550": {
+  "name": "서울대벤처타운역",
+  "scale": 1.0,
+  "viewBox": [
+   2666.1,
+   3233.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "관악산역",
+   "서원역"
+  ]
+ },
+ "547": {
+  "name": "당곡역",
+  "scale": 1.0,
+  "viewBox": [
+   2709.2,
+   2990.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "보라매병원역",
+   "신림역",
+   "봉천역",
+   "장승배기역"
+  ]
+ },
+ "548": {
+  "name": "보라매공원역",
+  "scale": 1.0,
+  "viewBox": [
+   2532.8,
+   3004.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "보라매병원역",
+   "신대방역",
+   "신림역",
+   "신풍역"
+  ]
+ },
+ "551": {
+  "name": "서울지방병무청역",
+  "scale": 1.0,
+  "viewBox": [
+   2556.1,
+   2808.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "신도림역",
+   "보라매역",
+   "영등포역",
+   "대방역",
+   "신길역"
+  ]
+ },
+ "119": {
+  "name": "사당역",
+  "scale": 1.0,
+  "viewBox": [
+   3051.2,
+   3164.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "이수역",
+   "남태령역"
+  ]
+ },
+ "106": {
+  "name": "교대역",
+  "scale": 1.0,
+  "viewBox": [
+   3326.2,
+   2994.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "서초역",
+   "남부터미널역",
+   "양재역"
+  ]
+ },
+ "199": {
+  "name": "동작역",
+  "scale": 1.0,
+  "viewBox": [
+   3051.2,
+   2912.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "구반포역",
+   "내방역"
+  ]
+ },
+ "317": {
+  "name": "남성역",
+  "scale": 1.0,
+  "viewBox": [
+   2991.0,
+   3020.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "이수역"
+  ]
+ },
+ "318": {
+  "name": "내방역",
+  "scale": 1.0,
+  "viewBox": [
+   3138.6,
+   2993.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "구반포역",
+   "신반포역",
+   "동작역",
+   "서초역",
+   "이수역"
+  ]
+ },
+ "123": {
+  "name": "서초역",
+  "scale": 1.0,
+  "viewBox": [
+   3254.0,
+   2987.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "신반포역",
+   "사평역",
+   "교대역",
+   "내방역",
+   "남부터미널역"
+  ]
+ },
+ "157": {
+  "name": "남부터미널역",
+  "scale": 1.0,
+  "viewBox": [
+   3338.3,
+   3053.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "교대역",
+   "서초역",
+   "양재역"
+  ]
+ },
+ "117": {
+  "name": "방배역",
+  "scale": 1.0,
+  "viewBox": [
+   3182.9,
+   3175.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "남태령역"
+  ]
+ },
+ "331": {
+  "name": "상도역",
+  "scale": 1.0,
+  "viewBox": [
+   2835.3,
+   2864.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "노들역",
+   "숭실대입구역",
+   "장승배기역"
+  ]
+ },
+ "336": {
+  "name": "숭실대입구역",
+  "scale": 1.0,
+  "viewBox": [
+   2908.2,
+   2895.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "흑석역",
+   "상도역"
+  ]
+ },
+ "222": {
+  "name": "이수역",
+  "scale": 1.0,
+  "viewBox": [
+   3053.2,
+   3092.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "사당역",
+   "남성역",
+   "내방역"
+  ]
+ },
+ "154": {
+  "name": "고속터미널역",
+  "scale": 1.0,
+  "viewBox": [
+   3216.0,
+   2827.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "신반포역",
+   "서빙고역",
+   "잠원역"
+  ]
+ },
+ "122": {
+  "name": "서울대입구역",
+  "scale": 1.0,
+  "viewBox": [
+   2805.3,
+   3134.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "낙성대역"
+  ]
+ },
+ "343": {
+  "name": "장승배기역",
+  "scale": 1.0,
+  "viewBox": [
+   2724.6,
+   2938.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "봉천역",
+   "당곡역",
+   "상도역",
+   "보라매역"
+  ]
+ },
+ "337": {
+  "name": "신대방삼거리역",
+  "scale": 1.0,
+  "viewBox": [
+   2679.5,
+   2850.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "장승배기역",
+   "보라매역",
+   "대방역",
+   "신길역"
+  ]
+ },
+ "324": {
+  "name": "보라매역",
+  "scale": 1.0,
+  "viewBox": [
+   2614.1,
+   2879.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "서울지방병무청역",
+   "장승배기역",
+   "신대방삼거리역",
+   "신풍역",
+   "대방역"
+  ]
+ },
+ "339": {
+  "name": "신풍역",
+  "scale": 1.0,
+  "viewBox": [
+   2495.6,
+   2959.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "신대방역",
+   "보라매공원역",
+   "보라매역"
+  ]
+ },
+ "69": {
+  "name": "영등포역",
+  "scale": 1.0,
+  "viewBox": [
+   2484.4,
+   2784.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "신도림역",
+   "서울지방병무청역",
+   "신길역"
+  ]
+ },
+ "18": {
+  "name": "대방역",
+  "scale": 1.0,
+  "viewBox": [
+   2645.2,
+   2810.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "샛강역",
+   "서울지방병무청역",
+   "신대방삼거리역",
+   "보라매역",
+   "신길역"
+  ]
+ },
+ "112": {
+  "name": "대림역",
+  "scale": 1.0,
+  "viewBox": [
+   2362.2,
+   2996.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "남구로역"
+  ]
+ },
+ "59": {
+  "name": "신길역",
+  "scale": 1.0,
+  "viewBox": [
+   2552.2,
+   2768.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "신도림역",
+   "서울지방병무청역",
+   "영등포역",
+   "대방역",
+   "여의도역"
+  ]
+ },
+ "215": {
+  "name": "숙대입구역",
+  "scale": 1.0,
+  "viewBox": [
+   3096.9,
+   2448.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "충무로역",
+   "회현역",
+   "명동역",
+   "녹사평역",
+   "삼각지역",
+   "동대입구역"
+  ]
+ },
+ "187": {
+  "name": "충무로역",
+  "scale": 1.0,
+  "viewBox": [
+   3178.2,
+   2385.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 7,
+  "neighbor_names": [
+   "을지로4가역",
+   "숙대입구역",
+   "회현역",
+   "명동역",
+   "버티고개역",
+   "약수역",
+   "동대입구역"
+  ]
+ },
+ "276": {
+  "name": "청구역",
+  "scale": 1.0,
+  "viewBox": [
+   3361.2,
+   2313.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "동대문역사문화공원역",
+   "신당역",
+   "신금호역",
+   "행당역",
+   "상왕십리역"
+  ]
+ },
+ "127": {
+  "name": "신당역",
+  "scale": 1.0,
+  "viewBox": [
+   3361.2,
+   2240.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "동대문역사문화공원역",
+   "신설동역",
+   "청구역",
+   "동대문역",
+   "동묘앞역",
+   "상왕십리역"
+  ]
+ },
+ "234": {
+  "name": "회현역",
+  "scale": 1.0,
+  "viewBox": [
+   3057.9,
+   2383.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "시청역",
+   "서울역",
+   "숙대입구역",
+   "충무로역",
+   "명동역",
+   "을지로입구역"
+  ]
+ },
+ "200": {
+  "name": "명동역",
+  "scale": 1.0,
+  "viewBox": [
+   3109.4,
+   2383.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "을지로4가역",
+   "숙대입구역",
+   "충무로역",
+   "회현역",
+   "동대입구역",
+   "을지로입구역"
+  ]
+ },
+ "292": {
+  "name": "버티고개역",
+  "scale": 1.0,
+  "viewBox": [
+   3281.9,
+   2477.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 7,
+  "neighbor_names": [
+   "충무로역",
+   "한강진역",
+   "금호역",
+   "신금호역",
+   "약수역",
+   "옥수역",
+   "동대입구역"
+  ]
+ },
+ "308": {
+  "name": "한강진역",
+  "scale": 1.0,
+  "viewBox": [
+   3249.2,
+   2544.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "버티고개역",
+   "이태원역",
+   "녹사평역",
+   "한남역",
+   "금호역"
+  ]
+ },
+ "304": {
+  "name": "이태원역",
+  "scale": 1.0,
+  "viewBox": [
+   3156.9,
+   2605.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "한강진역",
+   "녹사평역",
+   "신용산역",
+   "이촌역",
+   "삼각지역"
+  ]
+ },
+ "285": {
+  "name": "녹사평역",
+  "scale": 1.0,
+  "viewBox": [
+   3131.8,
+   2509.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "숙대입구역",
+   "한강진역",
+   "이태원역",
+   "신용산역",
+   "약수역",
+   "삼각지역"
+  ]
+ },
+ "217": {
+  "name": "신용산역",
+  "scale": 1.0,
+  "viewBox": [
+   3056.8,
+   2609.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "이태원역",
+   "녹사평역",
+   "이촌역",
+   "삼각지역",
+   "남영역"
+  ]
+ },
+ "453": {
+  "name": "한남역",
+  "scale": 1.0,
+  "viewBox": [
+   3285.1,
+   2619.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "한강진역"
+  ]
+ },
+ "426": {
+  "name": "서빙고역",
+  "scale": 1.0,
+  "viewBox": [
+   3179.8,
+   2728.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "고속터미널역",
+   "이촌역"
+  ]
+ },
+ "156": {
+  "name": "금호역",
+  "scale": 1.0,
+  "viewBox": [
+   3311.3,
+   2487.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 7,
+  "neighbor_names": [
+   "버티고개역",
+   "한강진역",
+   "신금호역",
+   "행당역",
+   "약수역",
+   "옥수역",
+   "동대입구역"
+  ]
+ },
+ "263": {
+  "name": "신금호역",
+  "scale": 1.0,
+  "viewBox": [
+   3371.2,
+   2389.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 7,
+  "neighbor_names": [
+   "응봉역",
+   "청구역",
+   "버티고개역",
+   "금호역",
+   "행당역",
+   "약수역",
+   "옥수역"
+  ]
+ },
+ "280": {
+  "name": "행당역",
+  "scale": 1.0,
+  "viewBox": [
+   3423.2,
+   2383.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 7,
+  "neighbor_names": [
+   "응봉역",
+   "한양대역",
+   "청구역",
+   "금호역",
+   "신금호역",
+   "옥수역",
+   "왕십리역"
+  ]
+ },
+ "223": {
+  "name": "이촌역",
+  "scale": 1.0,
+  "viewBox": [
+   3102.2,
+   2671.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "이태원역",
+   "신용산역",
+   "서빙고역"
+  ]
+ },
+ "175": {
+  "name": "약수역",
+  "scale": 1.0,
+  "viewBox": [
+   3256.5,
+   2423.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "충무로역",
+   "버티고개역",
+   "금호역",
+   "신금호역",
+   "동대입구역"
+  ]
+ },
+ "76": {
+  "name": "용산역",
+  "scale": 1.0,
+  "viewBox": [
+   2899.2,
+   2637.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "노량진역",
+   "공덕역",
+   "효창공원앞역"
+  ]
+ },
+ "208": {
+  "name": "삼각지역",
+  "scale": 1.0,
+  "viewBox": [
+   3080.1,
+   2522.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "숙대입구역",
+   "이태원역",
+   "녹사평역",
+   "신용산역",
+   "남영역"
+  ]
+ },
+ "14": {
+  "name": "노량진역",
+  "scale": 1.0,
+  "viewBox": [
+   2805.6,
+   2732.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "샛강역",
+   "노들역",
+   "용산역"
+  ]
+ },
+ "269": {
+  "name": "여의도역",
+  "scale": 1.0,
+  "viewBox": [
+   2659.1,
+   2690.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "샛강역",
+   "신길역",
+   "여의나루역"
+  ]
+ },
+ "179": {
+  "name": "옥수역",
+  "scale": 1.0,
+  "viewBox": [
+   3407.2,
+   2478.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "응봉역",
+   "한양대역",
+   "금호역",
+   "신금호역",
+   "행당역",
+   "서울숲역"
+  ]
+ },
+ "136": {
+  "name": "왕십리역",
+  "scale": 1.0,
+  "viewBox": [
+   3519.6,
+   2304.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "행당역",
+   "용두역",
+   "상왕십리역",
+   "용답역",
+   "마장역",
+   "신답역"
+  ]
+ },
+ "241": {
+  "name": "공덕역",
+  "scale": 1.0,
+  "viewBox": [
+   2781.1,
+   2569.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "용산역",
+   "마포역",
+   "효창공원앞역"
+  ]
+ },
+ "174": {
+  "name": "압구정역",
+  "scale": 1.0,
+  "viewBox": [
+   3523.6,
+   2616.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "신사역",
+   "서울숲역"
+  ]
+ },
+ "183": {
+  "name": "잠원역",
+  "scale": 1.0,
+  "viewBox": [
+   3313.7,
+   2748.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "고속터미널역",
+   "반포역"
+  ]
+ },
+ "533": {
+  "name": "신사역",
+  "scale": 1.0,
+  "viewBox": [
+   3443.3,
+   2668.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "압구정역",
+   "학동역",
+   "논현역"
+  ]
+ },
+ "132": {
+  "name": "아현역",
+  "scale": 1.0,
+  "viewBox": [
+   2857.1,
+   2302.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "서대문역",
+   "시청역",
+   "서울역",
+   "충정로역",
+   "이대역",
+   "신촌역"
+  ]
+ },
+ "142": {
+  "name": "이대역",
+  "scale": 1.0,
+  "viewBox": [
+   2801.2,
+   2303.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "충정로역",
+   "아현역",
+   "신촌역",
+   "서강대역"
+  ]
+ },
+ "131": {
+  "name": "신촌역",
+  "scale": 1.0,
+  "viewBox": [
+   2752.4,
+   2284.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "충정로역",
+   "아현역",
+   "이대역",
+   "홍대입구역"
+  ]
+ },
+ "429": {
+  "name": "신촌역",
+  "scale": 1.0,
+  "viewBox": [
+   2816.2,
+   2167.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "독립문역",
+   "무악재역"
+  ]
+ },
+ "150": {
+  "name": "홍대입구역",
+  "scale": 1.0,
+  "viewBox": [
+   2651.8,
+   2310.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "합정역",
+   "신촌역",
+   "가좌역",
+   "서강대역"
+  ]
+ },
+ "173": {
+  "name": "안국역",
+  "scale": 1.0,
+  "viewBox": [
+   3129.0,
+   2118.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "광화문역",
+   "경복궁역",
+   "종로3가역",
+   "종로5가역"
+  ]
+ },
+ "164": {
+  "name": "독립문역",
+  "scale": 1.0,
+  "viewBox": [
+   2902.1,
+   2126.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "광화문역",
+   "신촌역",
+   "경복궁역",
+   "무악재역",
+   "홍제역"
+  ]
+ },
+ "152": {
+  "name": "경복궁역",
+  "scale": 1.0,
+  "viewBox": [
+   3023.1,
+   2044.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "광화문역",
+   "안국역",
+   "독립문역"
+  ]
+ },
+ "168": {
+  "name": "무악재역",
+  "scale": 1.0,
+  "viewBox": [
+   2849.6,
+   2074.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "독립문역",
+   "홍제역"
+  ]
+ },
+ "189": {
+  "name": "홍제역",
+  "scale": 1.0,
+  "viewBox": [
+   2808.2,
+   2020.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "무악재역",
+   "녹번역"
+  ]
+ },
+ "158": {
+  "name": "녹번역",
+  "scale": 1.0,
+  "viewBox": [
+   2715.2,
+   1927.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "불광역",
+   "홍제역",
+   "역촌역",
+   "새절역"
+  ]
+ },
+ "300": {
+  "name": "역촌역",
+  "scale": 1.0,
+  "viewBox": [
+   2659.5,
+   1904.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "불광역",
+   "녹번역",
+   "구산역",
+   "응암역"
+  ]
+ },
+ "284": {
+  "name": "구산역",
+  "scale": 1.0,
+  "viewBox": [
+   2534.7,
+   1834.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "연신내역",
+   "역촌역"
+  ]
+ },
+ "303": {
+  "name": "응암역",
+  "scale": 1.0,
+  "viewBox": [
+   2535.7,
+   1954.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "역촌역",
+   "새절역"
+  ]
+ },
+ "297": {
+  "name": "새절역",
+  "scale": 1.0,
+  "viewBox": [
+   2617.9,
+   2013.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "녹번역",
+   "응암역",
+   "증산역"
+  ]
+ },
+ "305": {
+  "name": "증산역",
+  "scale": 1.0,
+  "viewBox": [
+   2534.9,
+   2105.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "새절역",
+   "디지털미디어시티역",
+   "가좌역"
+  ]
+ },
+ "289": {
+  "name": "디지털미디어시티역",
+  "scale": 1.0,
+  "viewBox": [
+   2483.5,
+   2081.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "증산역",
+   "수색역"
+  ]
+ },
+ "427": {
+  "name": "수색역",
+  "scale": 1.0,
+  "viewBox": [
+   2401.7,
+   2071.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "디지털미디어시티역"
+  ]
+ },
+ "412": {
+  "name": "가좌역",
+  "scale": 1.0,
+  "viewBox": [
+   2525.9,
+   2203.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "증산역"
+  ]
+ },
+ "425": {
+  "name": "서강대역",
+  "scale": 1.0,
+  "viewBox": [
+   2734.9,
+   2391.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "아현역",
+   "이대역",
+   "홍대입구역",
+   "대흥역"
+  ]
+ },
+ "414": {
+  "name": "곡산역",
+  "scale": 1.0,
+  "viewBox": [
+   1723.6,
+   1440.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "백마역"
+  ]
+ },
+ "424": {
+  "name": "백마역",
+  "scale": 1.0,
+  "viewBox": [
+   1638.0,
+   1346.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "곡산역"
+  ]
+ },
+ "290": {
+  "name": "마포구청역",
+  "scale": 1.0,
+  "viewBox": [
+   2380.8,
+   2303.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "월드컵경기장역",
+   "망원역"
+  ]
+ },
+ "302": {
+  "name": "월드컵경기장역",
+  "scale": 1.0,
+  "viewBox": [
+   2368.9,
+   2255.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "마포구청역"
+  ]
+ },
+ "291": {
+  "name": "망원역",
+  "scale": 1.0,
+  "viewBox": [
+   2439.7,
+   2407.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "합정역"
+  ]
+ },
+ "155": {
+  "name": "구파발역",
+  "scale": 1.0,
+  "viewBox": [
+   2662.3,
+   1551.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "지축역"
+  ]
+ },
+ "162": {
+  "name": "대화역",
+  "scale": 1.0,
+  "viewBox": [
+   1257.2,
+   1148.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "탄현역"
+  ]
+ },
+ "185": {
+  "name": "주엽역",
+  "scale": 1.0,
+  "viewBox": [
+   1323.2,
+   1258.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "킨텍스역"
+  ]
+ },
+ "448": {
+  "name": "탄현역",
+  "scale": 1.0,
+  "viewBox": [
+   1334.2,
+   1053.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "대화역"
+  ]
+ },
+ "439": {
+  "name": "운정역",
+  "scale": 1.0,
+  "viewBox": [
+   1311.2,
+   896.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "야당역",
+   "금릉역",
+   "금촌역"
+  ]
+ },
+ "431": {
+  "name": "야당역",
+  "scale": 1.0,
+  "viewBox": [
+   1311.2,
+   934.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "운정역",
+   "금릉역",
+   "금촌역"
+  ]
+ },
+ "416": {
+  "name": "금릉역",
+  "scale": 1.0,
+  "viewBox": [
+   1311.2,
+   863.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "운정역",
+   "야당역",
+   "금촌역",
+   "월롱역"
+  ]
+ },
+ "417": {
+  "name": "금촌역",
+  "scale": 1.0,
+  "viewBox": [
+   1311.2,
+   831.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "운정역",
+   "야당역",
+   "금릉역",
+   "월롱역",
+   "파주역"
+  ]
+ },
+ "442": {
+  "name": "월롱역",
+  "scale": 1.0,
+  "viewBox": [
+   1311.2,
+   763.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "금릉역",
+   "금촌역",
+   "파주역",
+   "문산역",
+   "운천역"
+  ]
+ },
+ "449": {
+  "name": "파주역",
+  "scale": 1.0,
+  "viewBox": [
+   1311.2,
+   730.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "금촌역",
+   "월롱역",
+   "문산역",
+   "운천역"
+  ]
+ },
+ "423": {
+  "name": "문산역",
+  "scale": 1.0,
+  "viewBox": [
+   1311.2,
+   696.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "월롱역",
+   "파주역",
+   "운천역",
+   "임진강역"
+  ]
+ },
+ "440": {
+  "name": "운천역",
+  "scale": 1.0,
+  "viewBox": [
+   1311.2,
+   659.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "월롱역",
+   "파주역",
+   "문산역",
+   "임진강역"
+  ]
+ },
+ "445": {
+  "name": "임진강역",
+  "scale": 1.0,
+  "viewBox": [
+   1305.3,
+   628.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "파주역",
+   "문산역",
+   "운천역"
+  ]
+ },
+ "184": {
+  "name": "정발산역",
+  "scale": 1.0,
+  "viewBox": [
+   1413.3,
+   1359.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "주엽역",
+   "마두역"
+  ]
+ },
+ "166": {
+  "name": "마두역",
+  "scale": 1.0,
+  "viewBox": [
+   1499.0,
+   1385.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "정발산역",
+   "백석역"
+  ]
+ },
+ "169": {
+  "name": "백석역",
+  "scale": 1.0,
+  "viewBox": [
+   1580.0,
+   1466.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "마두역"
+  ]
+ },
+ "266": {
+  "name": "애오개역",
+  "scale": 1.0,
+  "viewBox": [
+   2904.9,
+   2457.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "서울역",
+   "충정로역",
+   "대흥역",
+   "남영역"
+  ]
+ },
+ "176": {
+  "name": "양재역",
+  "scale": 1.0,
+  "viewBox": [
+   3413.2,
+   3056.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "교대역",
+   "남부터미널역",
+   "역삼역",
+   "매봉역"
+  ]
+ },
+ "103": {
+  "name": "강남역",
+  "scale": 1.0,
+  "viewBox": [
+   3472.5,
+   2888.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 7,
+  "neighbor_names": [
+   "사평역",
+   "신논현역",
+   "언주역",
+   "역삼역",
+   "선릉역",
+   "선정릉역",
+   "반포역"
+  ]
+ },
+ "134": {
+  "name": "역삼역",
+  "scale": 1.0,
+  "viewBox": [
+   3528.0,
+   2959.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "양재역",
+   "강남역",
+   "선릉역",
+   "선정릉역",
+   "도곡역"
+  ]
+ },
+ "167": {
+  "name": "매봉역",
+  "scale": 1.0,
+  "viewBox": [
+   3533.1,
+   3068.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "양재역",
+   "구룡역",
+   "한티역",
+   "도곡역"
+  ]
+ },
+ "353": {
+  "name": "학동역",
+  "scale": 1.0,
+  "viewBox": [
+   3514.1,
+   2733.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "신논현역",
+   "언주역",
+   "신사역",
+   "논현역"
+  ]
+ },
+ "386": {
+  "name": "삼성중앙역",
+  "scale": 1.0,
+  "viewBox": [
+   3730.4,
+   2791.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "봉은사역",
+   "강남구청역",
+   "청담역",
+   "삼성역"
+  ]
+ },
+ "384": {
+  "name": "봉은사역",
+  "scale": 1.0,
+  "viewBox": [
+   3789.7,
+   2798.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "삼성중앙역",
+   "청담역",
+   "삼성역"
+  ]
+ },
+ "319": {
+  "name": "논현역",
+  "scale": 1.0,
+  "viewBox": [
+   3470.5,
+   2742.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "신논현역",
+   "언주역",
+   "신사역",
+   "학동역",
+   "반포역"
+  ]
+ },
+ "311": {
+  "name": "강남구청역",
+  "scale": 1.0,
+  "viewBox": [
+   3629.2,
+   2732.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "언주역",
+   "학동역",
+   "삼성중앙역",
+   "압구정로데오역",
+   "청담역"
+  ]
+ },
+ "509": {
+  "name": "압구정로데오역",
+  "scale": 1.0,
+  "viewBox": [
+   3653.0,
+   2663.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "강남구청역",
+   "청담역"
+  ]
+ },
+ "350": {
+  "name": "청담역",
+  "scale": 1.0,
+  "viewBox": [
+   3716.6,
+   2760.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "삼성중앙역",
+   "봉은사역",
+   "강남구청역",
+   "자양역"
+  ]
+ },
+ "146": {
+  "name": "종합운동장역",
+  "scale": 1.0,
+  "viewBox": [
+   3911.9,
+   2866.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "잠실새내역",
+   "석촌역",
+   "잠실역"
+  ]
+ },
+ "144": {
+  "name": "잠실새내역",
+  "scale": 1.0,
+  "viewBox": [
+   3990.1,
+   2882.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "종합운동장역",
+   "송파역",
+   "석촌고분역",
+   "석촌역",
+   "잠실역"
+  ]
+ },
+ "485": {
+  "name": "개포동역",
+  "scale": 1.0,
+  "viewBox": [
+   3691.6,
+   3110.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "구룡역",
+   "대모산입구역",
+   "도곡역"
+  ]
+ },
+ "487": {
+  "name": "구룡역",
+  "scale": 1.0,
+  "viewBox": [
+   3627.2,
+   3092.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "매봉역",
+   "개포동역",
+   "대치역",
+   "도곡역"
+  ]
+ },
+ "492": {
+  "name": "대모산입구역",
+  "scale": 1.0,
+  "viewBox": [
+   3753.7,
+   3122.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "개포동역",
+   "구룡역",
+   "대청역"
+  ]
+ },
+ "161": {
+  "name": "대치역",
+  "scale": 1.0,
+  "viewBox": [
+   3713.1,
+   2986.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "구룡역",
+   "한티역",
+   "선릉역",
+   "학여울역",
+   "도곡역"
+  ]
+ },
+ "525": {
+  "name": "한티역",
+  "scale": 1.0,
+  "viewBox": [
+   3661.1,
+   2965.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "매봉역",
+   "대치역",
+   "선릉역",
+   "선정릉역",
+   "삼성역",
+   "도곡역"
+  ]
+ },
+ "124": {
+  "name": "선릉역",
+  "scale": 1.0,
+  "viewBox": [
+   3589.1,
+   2951.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "강남역",
+   "역삼역",
+   "대치역",
+   "한티역",
+   "선정릉역",
+   "도곡역"
+  ]
+ },
+ "391": {
+  "name": "선정릉역",
+  "scale": 1.0,
+  "viewBox": [
+   3555.1,
+   2880.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "신논현역",
+   "언주역",
+   "강남역",
+   "역삼역",
+   "한티역",
+   "선릉역"
+  ]
+ },
+ "188": {
+  "name": "학여울역",
+  "scale": 1.0,
+  "viewBox": [
+   3792.6,
+   2979.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "대치역",
+   "삼성역"
+  ]
+ },
+ "182": {
+  "name": "일원역",
+  "scale": 1.0,
+  "viewBox": [
+   3899.2,
+   3148.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "대청역"
+  ]
+ },
+ "172": {
+  "name": "수서역",
+  "scale": 1.0,
+  "viewBox": [
+   4095.8,
+   3063.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "송파역"
+  ]
+ },
+ "151": {
+  "name": "가락시장역",
+  "scale": 1.0,
+  "viewBox": [
+   4200.9,
+   2957.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "수서역",
+   "송파역",
+   "문정역",
+   "경찰병원역"
+  ]
+ },
+ "143": {
+  "name": "잠실나루역",
+  "scale": 1.0,
+  "viewBox": [
+   4001.2,
+   2738.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "잠실역"
+  ]
+ },
+ "368": {
+  "name": "송파역",
+  "scale": 1.0,
+  "viewBox": [
+   4091.2,
+   2980.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "수서역",
+   "가락시장역",
+   "석촌고분역",
+   "석촌역"
+  ]
+ },
+ "387": {
+  "name": "삼전역",
+  "scale": 1.0,
+  "viewBox": [
+   3928.9,
+   2996.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "석촌고분역",
+   "석촌역",
+   "대청역"
+  ]
+ },
+ "402": {
+  "name": "한성백제역",
+  "scale": 1.0,
+  "viewBox": [
+   4199.1,
+   2827.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "송파나루역",
+   "몽촌토성역"
+  ]
+ },
+ "381": {
+  "name": "둔촌오륜역",
+  "scale": 1.0,
+  "viewBox": [
+   4399.1,
+   2681.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "둔촌동역",
+   "올림픽공원역"
+  ]
+ },
+ "389": {
+  "name": "석촌고분역",
+  "scale": 1.0,
+  "viewBox": [
+   4025.9,
+   2958.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "잠실새내역",
+   "수서역",
+   "송파역",
+   "삼전역",
+   "석촌역"
+  ]
+ },
+ "392": {
+  "name": "송파나루역",
+  "scale": 1.0,
+  "viewBox": [
+   4128.4,
+   2855.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "한성백제역",
+   "석촌역",
+   "잠실역"
+  ]
+ },
+ "367": {
+  "name": "석촌역",
+  "scale": 1.0,
+  "viewBox": [
+   4017.7,
+   2890.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "종합운동장역",
+   "잠실새내역",
+   "송파역",
+   "삼전역",
+   "석촌고분역",
+   "송파나루역"
+  ]
+ },
+ "323": {
+  "name": "반포역",
+  "scale": 1.0,
+  "viewBox": [
+   3379.5,
+   2809.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "사평역",
+   "신논현역",
+   "잠원역",
+   "강남역",
+   "논현역"
+  ]
+ },
+ "160": {
+  "name": "대청역",
+  "scale": 1.0,
+  "viewBox": [
+   3849.0,
+   3099.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "대모산입구역",
+   "일원역",
+   "삼전역"
+  ]
+ },
+ "120": {
+  "name": "삼성역",
+  "scale": 1.0,
+  "viewBox": [
+   3779.5,
+   2877.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "삼성중앙역",
+   "봉은사역",
+   "한티역"
+  ]
+ },
+ "295": {
+  "name": "상수역",
+  "scale": 1.0,
+  "viewBox": [
+   2605.8,
+   2489.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "합정역",
+   "광흥창역",
+   "마포역"
+  ]
+ },
+ "283": {
+  "name": "광흥창역",
+  "scale": 1.0,
+  "viewBox": [
+   2651.4,
+   2495.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "합정역",
+   "상수역",
+   "마포역"
+  ]
+ },
+ "286": {
+  "name": "대흥역",
+  "scale": 1.0,
+  "viewBox": [
+   2785.0,
+   2429.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "충정로역",
+   "서강대역",
+   "애오개역"
+  ]
+ },
+ "268": {
+  "name": "여의나루역",
+  "scale": 1.0,
+  "viewBox": [
+   2653.1,
+   2616.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "국회의사당역",
+   "샛강역",
+   "여의도역",
+   "공덕역",
+   "마포역"
+  ]
+ },
+ "253": {
+  "name": "마포역",
+  "scale": 1.0,
+  "viewBox": [
+   2724.0,
+   2546.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "공덕역",
+   "상수역",
+   "광흥창역",
+   "여의나루역"
+  ]
+ },
+ "310": {
+  "name": "효창공원앞역",
+  "scale": 1.0,
+  "viewBox": [
+   2848.0,
+   2621.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "용산역",
+   "공덕역",
+   "마포역",
+   "남영역"
+  ]
+ },
+ "84": {
+  "name": "종각역",
+  "scale": 1.0,
+  "viewBox": [
+   3047.4,
+   2238.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "을지로3가역",
+   "서대문역",
+   "시청역",
+   "을지로입구역",
+   "종로3가역"
+  ]
+ },
+ "165": {
+  "name": "동대입구역",
+  "scale": 1.0,
+  "viewBox": [
+   3207.9,
+   2407.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 7,
+  "neighbor_names": [
+   "을지로4가역",
+   "숙대입구역",
+   "충무로역",
+   "명동역",
+   "버티고개역",
+   "금호역",
+   "약수역"
+  ]
+ },
+ "141": {
+  "name": "을지로입구역",
+  "scale": 1.0,
+  "viewBox": [
+   3067.0,
+   2305.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 8,
+  "neighbor_names": [
+   "을지로3가역",
+   "서대문역",
+   "시청역",
+   "서울역",
+   "충무로역",
+   "회현역",
+   "명동역",
+   "종각역"
+  ]
+ },
+ "85": {
+  "name": "종로3가역",
+  "scale": 1.0,
+  "viewBox": [
+   3156.4,
+   2158.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "을지로3가역",
+   "안국역",
+   "종각역",
+   "종로5가역"
+  ]
+ },
+ "86": {
+  "name": "종로5가역",
+  "scale": 1.0,
+  "viewBox": [
+   3213.9,
+   2145.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "을지로3가역",
+   "동대문역사문화공원역",
+   "안국역",
+   "종로3가역",
+   "동대문역",
+   "혜화역"
+  ]
+ },
+ "26": {
+  "name": "동대문역",
+  "scale": 1.0,
+  "viewBox": [
+   3296.1,
+   2162.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "동대문역사문화공원역",
+   "신당역",
+   "종로5가역",
+   "동묘앞역",
+   "혜화역",
+   "창신역"
+  ]
+ },
+ "29": {
+  "name": "동묘앞역",
+  "scale": 1.0,
+  "viewBox": [
+   3366.6,
+   2162.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "신설동역",
+   "신당역",
+   "동대문역",
+   "혜화역",
+   "상왕십리역",
+   "창신역"
+  ]
+ },
+ "233": {
+  "name": "혜화역",
+  "scale": 1.0,
+  "viewBox": [
+   3301.2,
+   2108.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "종로5가역",
+   "동대문역",
+   "동묘앞역",
+   "창신역",
+   "보문역"
+  ]
+ },
+ "232": {
+  "name": "한성대입구역",
+  "scale": 1.0,
+  "viewBox": [
+   3253.8,
+   2013.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "안국역",
+   "혜화역"
+  ]
+ },
+ "212": {
+  "name": "성신여대입구역",
+  "scale": 1.0,
+  "viewBox": [
+   3407.0,
+   1950.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "길음역",
+   "보문역",
+   "안암역"
+  ]
+ },
+ "194": {
+  "name": "길음역",
+  "scale": 1.0,
+  "viewBox": [
+   3396.0,
+   1874.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "성신여대입구역"
+  ]
+ },
+ "201": {
+  "name": "미아사거리역",
+  "scale": 1.0,
+  "viewBox": [
+   3542.4,
+   1760.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "돌곶이역",
+   "상월곡역",
+   "광운대역",
+   "석계역"
+  ]
+ },
+ "138": {
+  "name": "용두역",
+  "scale": 1.0,
+  "viewBox": [
+   3502.6,
+   2239.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "신설동역",
+   "왕십리역",
+   "상왕십리역",
+   "용답역",
+   "마장역",
+   "신답역"
+  ]
+ },
+ "121": {
+  "name": "상왕십리역",
+  "scale": 1.0,
+  "viewBox": [
+   3465.4,
+   2239.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 7,
+  "neighbor_names": [
+   "신설동역",
+   "청구역",
+   "신당역",
+   "왕십리역",
+   "동묘앞역",
+   "용두역",
+   "마장역"
+  ]
+ },
+ "306": {
+  "name": "창신역",
+  "scale": 1.0,
+  "viewBox": [
+   3372.2,
+   2125.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "신설동역",
+   "동대문역",
+   "동묘앞역",
+   "혜화역",
+   "보문역"
+  ]
+ },
+ "293": {
+  "name": "보문역",
+  "scale": 1.0,
+  "viewBox": [
+   3411.7,
+   2018.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "혜화역",
+   "성신여대입구역",
+   "창신역",
+   "고려대역",
+   "제기동역",
+   "안암역"
+  ]
+ },
+ "288": {
+  "name": "돌곶이역",
+  "scale": 1.0,
+  "viewBox": [
+   3652.6,
+   1852.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "상월곡역",
+   "월곡역",
+   "신이문역",
+   "석계역"
+  ]
+ },
+ "296": {
+  "name": "상월곡역",
+  "scale": 1.0,
+  "viewBox": [
+   3570.4,
+   1843.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "미아사거리역",
+   "돌곶이역",
+   "월곡역",
+   "신이문역",
+   "석계역"
+  ]
+ },
+ "301": {
+  "name": "월곡역",
+  "scale": 1.0,
+  "viewBox": [
+   3571.7,
+   1933.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "돌곶이역",
+   "상월곡역",
+   "안암역",
+   "외대앞역",
+   "신이문역"
+  ]
+ },
+ "282": {
+  "name": "고려대역",
+  "scale": 1.0,
+  "viewBox": [
+   3528.8,
+   2047.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "보문역",
+   "제기동역",
+   "안암역",
+   "외대앞역",
+   "청량리역"
+  ]
+ },
+ "82": {
+  "name": "제기동역",
+  "scale": 1.0,
+  "viewBox": [
+   3529.1,
+   2114.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "신설동역",
+   "보문역",
+   "고려대역",
+   "신답역",
+   "안암역",
+   "청량리역"
+  ]
+ },
+ "137": {
+  "name": "용답역",
+  "scale": 1.0,
+  "viewBox": [
+   3615.6,
+   2330.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "왕십리역",
+   "용두역",
+   "마장역"
+  ]
+ },
+ "251": {
+  "name": "마장역",
+  "scale": 1.0,
+  "viewBox": [
+   3592.7,
+   2309.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "왕십리역",
+   "용두역",
+   "용답역",
+   "신답역",
+   "답십리역"
+  ]
+ },
+ "126": {
+  "name": "신답역",
+  "scale": 1.0,
+  "viewBox": [
+   3626.1,
+   2217.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "왕십리역",
+   "용두역",
+   "마장역",
+   "답십리역"
+  ]
+ },
+ "248": {
+  "name": "답십리역",
+  "scale": 1.0,
+  "viewBox": [
+   3656.6,
+   2223.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "용답역",
+   "마장역",
+   "신답역",
+   "장한평역"
+  ]
+ },
+ "274": {
+  "name": "장한평역",
+  "scale": 1.0,
+  "viewBox": [
+   3768.6,
+   2275.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "답십리역"
+  ]
+ },
+ "265": {
+  "name": "아차산역",
+  "scale": 1.0,
+  "viewBox": [
+   4008.7,
+   2336.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "광나루역",
+   "중곡역",
+   "군자역"
+  ]
+ },
+ "242": {
+  "name": "광나루역",
+  "scale": 1.0,
+  "viewBox": [
+   4093.6,
+   2420.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "아차산역"
+  ]
+ },
+ "104": {
+  "name": "강변역",
+  "scale": 1.0,
+  "viewBox": [
+   3993.3,
+   2550.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "구의역"
+  ]
+ },
+ "108": {
+  "name": "구의역",
+  "scale": 1.0,
+  "viewBox": [
+   3917.2,
+   2481.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "강변역",
+   "건대입구역"
+  ]
+ },
+ "340": {
+  "name": "어린이대공원역",
+  "scale": 1.0,
+  "viewBox": [
+   3779.7,
+   2424.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "건대입구역"
+  ]
+ },
+ "342": {
+  "name": "자양역",
+  "scale": 1.0,
+  "viewBox": [
+   3822.9,
+   2653.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "청담역"
+  ]
+ },
+ "105": {
+  "name": "건대입구역",
+  "scale": 1.0,
+  "viewBox": [
+   3846.1,
+   2477.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "구의역",
+   "어린이대공원역"
+  ]
+ },
+ "125": {
+  "name": "성수역",
+  "scale": 1.0,
+  "viewBox": [
+   3671.2,
+   2551.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "뚝섬역"
+  ]
+ },
+ "500": {
+  "name": "서울숲역",
+  "scale": 1.0,
+  "viewBox": [
+   3517.1,
+   2564.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "옥수역",
+   "압구정역",
+   "신사역",
+   "뚝섬역"
+  ]
+ },
+ "115": {
+  "name": "뚝섬역",
+  "scale": 1.0,
+  "viewBox": [
+   3563.8,
+   2486.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "응봉역",
+   "한양대역",
+   "성수역",
+   "서울숲역"
+  ]
+ },
+ "299": {
+  "name": "안암역",
+  "scale": 1.0,
+  "viewBox": [
+   3461.2,
+   2011.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "성신여대입구역",
+   "보문역",
+   "월곡역",
+   "고려대역",
+   "청량리역"
+  ]
+ },
+ "75": {
+  "name": "외대앞역",
+  "scale": 1.0,
+  "viewBox": [
+   3644.8,
+   1977.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "월곡역",
+   "고려대역",
+   "신이문역"
+  ]
+ },
+ "62": {
+  "name": "신이문역",
+  "scale": 1.0,
+  "viewBox": [
+   3645.4,
+   1921.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "돌곶이역",
+   "상월곡역",
+   "월곡역",
+   "외대앞역"
+  ]
+ },
+ "446": {
+  "name": "중랑역",
+  "scale": 1.0,
+  "viewBox": [
+   3791.7,
+   2027.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "상봉역",
+   "면목역",
+   "회기역"
+  ]
+ },
+ "347": {
+  "name": "중화역",
+  "scale": 1.0,
+  "viewBox": [
+   3849.8,
+   1901.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "먹골역",
+   "망우역"
+  ]
+ },
+ "321": {
+  "name": "먹골역",
+  "scale": 1.0,
+  "viewBox": [
+   3841.2,
+   1820.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "중화역"
+  ]
+ },
+ "309": {
+  "name": "화랑대역",
+  "scale": 1.0,
+  "viewBox": [
+   3912.2,
+   1719.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "먹골역",
+   "봉화산역",
+   "공릉역",
+   "태릉입구역"
+  ]
+ },
+ "294": {
+  "name": "봉화산역",
+  "scale": 1.0,
+  "viewBox": [
+   3992.3,
+   1719.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "화랑대역",
+   "신내역"
+  ]
+ },
+ "312": {
+  "name": "공릉역",
+  "scale": 1.0,
+  "viewBox": [
+   3842.0,
+   1676.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "화랑대역",
+   "하계역",
+   "태릉입구역"
+  ]
+ },
+ "7": {
+  "name": "광운대역",
+  "scale": 1.0,
+  "viewBox": [
+   3649.4,
+   1707.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "월계역",
+   "석계역"
+  ]
+ },
+ "77": {
+  "name": "월계역",
+  "scale": 1.0,
+  "viewBox": [
+   3651.8,
+   1622.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "광운대역",
+   "녹천역"
+  ]
+ },
+ "352": {
+  "name": "하계역",
+  "scale": 1.0,
+  "viewBox": [
+   3842.5,
+   1569.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "공릉역",
+   "중계역"
+  ]
+ },
+ "345": {
+  "name": "중계역",
+  "scale": 1.0,
+  "viewBox": [
+   3770.3,
+   1462.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "하계역",
+   "노원역",
+   "상계역"
+  ]
+ },
+ "16": {
+  "name": "녹천역",
+  "scale": 1.0,
+  "viewBox": [
+   3602.8,
+   1519.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "월계역"
+  ]
+ },
+ "202": {
+  "name": "미아역",
+  "scale": 1.0,
+  "viewBox": [
+   3449.2,
+   1644.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "수유역",
+   "화계역",
+   "삼양역",
+   "삼양사거리역"
+  ]
+ },
+ "214": {
+  "name": "수유역",
+  "scale": 1.0,
+  "viewBox": [
+   3446.7,
+   1548.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "미아역",
+   "화계역"
+  ]
+ },
+ "54": {
+  "name": "소요산역",
+  "scale": 1.0,
+  "viewBox": [
+   3931.5,
+   89.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "동두천역",
+   "보산역",
+   "연천역",
+   "전곡역",
+   "청산역"
+  ]
+ },
+ "27": {
+  "name": "동두천역",
+  "scale": 1.0,
+  "viewBox": [
+   3895.4,
+   89.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "소요산역",
+   "보산역",
+   "전곡역",
+   "청산역",
+   "동두천중앙역",
+   "지행역"
+  ]
+ },
+ "39": {
+  "name": "보산역",
+  "scale": 1.0,
+  "viewBox": [
+   3866.4,
+   83.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "소요산역",
+   "동두천역",
+   "청산역",
+   "동두천중앙역",
+   "지행역",
+   "덕정역"
+  ]
+ },
+ "68": {
+  "name": "연천역",
+  "scale": 1.0,
+  "viewBox": [
+   4043.4,
+   83.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "소요산역",
+   "전곡역",
+   "청산역"
+  ]
+ },
+ "81": {
+  "name": "전곡역",
+  "scale": 1.0,
+  "viewBox": [
+   4008.4,
+   83.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "소요산역",
+   "동두천역",
+   "연천역",
+   "청산역"
+  ]
+ },
+ "96": {
+  "name": "청산역",
+  "scale": 1.0,
+  "viewBox": [
+   3972.4,
+   83.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "소요산역",
+   "동두천역",
+   "보산역",
+   "연천역",
+   "전곡역"
+  ]
+ },
+ "28": {
+  "name": "동두천중앙역",
+  "scale": 1.0,
+  "viewBox": [
+   3812.6,
+   101.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 7,
+  "neighbor_names": [
+   "소요산역",
+   "동두천역",
+   "보산역",
+   "지행역",
+   "덕정역",
+   "덕계역",
+   "양주역"
+  ]
+ },
+ "89": {
+  "name": "지행역",
+  "scale": 1.0,
+  "viewBox": [
+   3794.4,
+   83.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "동두천역",
+   "보산역",
+   "동두천중앙역",
+   "덕정역",
+   "덕계역",
+   "양주역"
+  ]
+ },
+ "20": {
+  "name": "덕정역",
+  "scale": 1.0,
+  "viewBox": [
+   3759.4,
+   83.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "보산역",
+   "동두천중앙역",
+   "지행역",
+   "덕계역",
+   "양주역"
+  ]
+ },
+ "19": {
+  "name": "덕계역",
+  "scale": 1.0,
+  "viewBox": [
+   3724.4,
+   83.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "동두천중앙역",
+   "지행역",
+   "덕정역",
+   "양주역"
+  ]
+ },
+ "66": {
+  "name": "양주역",
+  "scale": 1.0,
+  "viewBox": [
+   3688.4,
+   83.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "지행역",
+   "덕정역",
+   "덕계역"
+  ]
+ },
+ "15": {
+  "name": "녹양역",
+  "scale": 1.0,
+  "viewBox": [
+   3627.2,
+   367.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "가능역"
+  ]
+ },
+ "1": {
+  "name": "가능역",
+  "scale": 1.0,
+  "viewBox": [
+   3626.5,
+   445.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "녹양역",
+   "흥선역",
+   "의정부중앙역",
+   "동오역",
+   "새말역"
+  ]
+ },
+ "79": {
+  "name": "의정부역",
+  "scale": 1.0,
+  "viewBox": [
+   3633.6,
+   597.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "회룡역",
+   "흥선역",
+   "동오역",
+   "새말역"
+  ]
+ },
+ "102": {
+  "name": "회룡역",
+  "scale": 1.0,
+  "viewBox": [
+   3616.5,
+   694.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "의정부역",
+   "범골역",
+   "발곡역"
+  ]
+ },
+ "437": {
+  "name": "용문역",
+  "scale": 1.0,
+  "viewBox": [
+   5373.3,
+   2169.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "오빈역",
+   "양평역",
+   "원덕역",
+   "지평역"
+  ]
+ },
+ "432": {
+  "name": "양수역",
+  "scale": 1.0,
+  "viewBox": [
+   5103.4,
+   2169.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "신원역",
+   "국수역",
+   "아신역",
+   "운길산역",
+   "팔당역",
+   "도심역"
+  ]
+ },
+ "428": {
+  "name": "신원역",
+  "scale": 1.0,
+  "viewBox": [
+   5139.6,
+   2169.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "양수역",
+   "국수역",
+   "아신역",
+   "오빈역",
+   "운길산역",
+   "팔당역"
+  ]
+ },
+ "415": {
+  "name": "국수역",
+  "scale": 1.0,
+  "viewBox": [
+   5180.2,
+   2169.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "양수역",
+   "신원역",
+   "아신역",
+   "오빈역",
+   "양평역"
+  ]
+ },
+ "430": {
+  "name": "아신역",
+  "scale": 1.0,
+  "viewBox": [
+   5217.7,
+   2169.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "양수역",
+   "신원역",
+   "국수역",
+   "오빈역",
+   "양평역",
+   "원덕역"
+  ]
+ },
+ "436": {
+  "name": "오빈역",
+  "scale": 1.0,
+  "viewBox": [
+   5256.5,
+   2169.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "용문역",
+   "신원역",
+   "국수역",
+   "아신역",
+   "양평역",
+   "원덕역"
+  ]
+ },
+ "435": {
+  "name": "양평역",
+  "scale": 1.0,
+  "viewBox": [
+   5296.3,
+   2169.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "용문역",
+   "국수역",
+   "아신역",
+   "오빈역",
+   "원덕역",
+   "지평역"
+  ]
+ },
+ "441": {
+  "name": "원덕역",
+  "scale": 1.0,
+  "viewBox": [
+   5335.1,
+   2169.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "용문역",
+   "아신역",
+   "오빈역",
+   "양평역",
+   "지평역"
+  ]
+ },
+ "447": {
+  "name": "지평역",
+  "scale": 1.0,
+  "viewBox": [
+   5404,
+   2169.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "용문역",
+   "양평역",
+   "원덕역"
+  ]
+ },
+ "469": {
+  "name": "춘천역",
+  "scale": 1.0,
+  "viewBox": [
+   5404,
+   1484.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "강촌역",
+   "김유정역",
+   "남춘천역"
+  ]
+ },
+ "455": {
+  "name": "가평역",
+  "scale": 1.0,
+  "viewBox": [
+   5210.4,
+   1484.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "굴봉산역",
+   "백양리역",
+   "강촌역",
+   "상천역",
+   "대성리역",
+   "청평역"
+  ]
+ },
+ "458": {
+  "name": "굴봉산역",
+  "scale": 1.0,
+  "viewBox": [
+   5238.6,
+   1490.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "가평역",
+   "백양리역",
+   "강촌역",
+   "김유정역",
+   "상천역",
+   "청평역"
+  ]
+ },
+ "464": {
+  "name": "백양리역",
+  "scale": 1.0,
+  "viewBox": [
+   5272.8,
+   1490.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "가평역",
+   "굴봉산역",
+   "강촌역",
+   "김유정역",
+   "남춘천역",
+   "상천역"
+  ]
+ },
+ "457": {
+  "name": "강촌역",
+  "scale": 1.0,
+  "viewBox": [
+   5312.9,
+   1484.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "춘천역",
+   "가평역",
+   "굴봉산역",
+   "백양리역",
+   "김유정역",
+   "남춘천역"
+  ]
+ },
+ "460": {
+  "name": "김유정역",
+  "scale": 1.0,
+  "viewBox": [
+   5341.1,
+   1490.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "춘천역",
+   "굴봉산역",
+   "백양리역",
+   "강촌역",
+   "남춘천역"
+  ]
+ },
+ "461": {
+  "name": "남춘천역",
+  "scale": 1.0,
+  "viewBox": [
+   5375.3,
+   1490.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "춘천역",
+   "백양리역",
+   "강촌역",
+   "김유정역"
+  ]
+ },
+ "466": {
+  "name": "상천역",
+  "scale": 1.0,
+  "viewBox": [
+   5176.2,
+   1484.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "가평역",
+   "굴봉산역",
+   "백양리역",
+   "마석역",
+   "대성리역",
+   "청평역"
+  ]
+ },
+ "471": {
+  "name": "평내호평역",
+  "scale": 1.0,
+  "viewBox": [
+   4993.4,
+   1496.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "마석역",
+   "천마산역",
+   "대성리역"
+  ]
+ },
+ "463": {
+  "name": "마석역",
+  "scale": 1.0,
+  "viewBox": [
+   5073.6,
+   1484.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "상천역",
+   "평내호평역",
+   "천마산역",
+   "대성리역",
+   "청평역"
+  ]
+ },
+ "467": {
+  "name": "천마산역",
+  "scale": 1.0,
+  "viewBox": [
+   5034.0,
+   1490.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "평내호평역",
+   "마석역",
+   "대성리역",
+   "청평역"
+  ]
+ },
+ "462": {
+  "name": "대성리역",
+  "scale": 1.0,
+  "viewBox": [
+   5101.8,
+   1490.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "가평역",
+   "상천역",
+   "평내호평역",
+   "마석역",
+   "천마산역",
+   "청평역"
+  ]
+ },
+ "468": {
+  "name": "청평역",
+  "scale": 1.0,
+  "viewBox": [
+   5142.0,
+   1484.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "가평역",
+   "굴봉산역",
+   "상천역",
+   "마석역",
+   "천마산역",
+   "대성리역"
+  ]
+ },
+ "438": {
+  "name": "운길산역",
+  "scale": 1.0,
+  "viewBox": [
+   5057.0,
+   2175.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "양수역",
+   "신원역",
+   "국수역",
+   "팔당역",
+   "도심역"
+  ]
+ },
+ "450": {
+  "name": "팔당역",
+  "scale": 1.0,
+  "viewBox": [
+   5024.1,
+   2169.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "양수역",
+   "신원역",
+   "운길산역",
+   "도심역"
+  ]
+ },
+ "421": {
+  "name": "도심역",
+  "scale": 1.0,
+  "viewBox": [
+   4984.9,
+   2170.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "양수역",
+   "운길산역",
+   "팔당역"
+  ]
+ },
+ "420": {
+  "name": "도농역",
+  "scale": 1.0,
+  "viewBox": [
+   4499.4,
+   1915.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "동구릉역"
+  ]
+ },
+ "355": {
+  "name": "구리역",
+  "scale": 1.0,
+  "viewBox": [
+   4312.2,
+   1904.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "동구릉역"
+  ]
+ },
+ "433": {
+  "name": "양원역",
+  "scale": 1.0,
+  "viewBox": [
+   4060.1,
+   1915.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "망우역"
+  ]
+ },
+ "422": {
+  "name": "망우역",
+  "scale": 1.0,
+  "viewBox": [
+   3966.0,
+   1964.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "중화역",
+   "양원역",
+   "상봉역",
+   "면목역"
+  ]
+ },
+ "333": {
+  "name": "상봉역",
+  "scale": 1.0,
+  "viewBox": [
+   3845.8,
+   2024.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "중랑역",
+   "망우역",
+   "면목역",
+   "사가정역"
+  ]
+ },
+ "322": {
+  "name": "면목역",
+  "scale": 1.0,
+  "viewBox": [
+   3914.1,
+   2053.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "중랑역",
+   "망우역",
+   "상봉역",
+   "사가정역"
+  ]
+ },
+ "328": {
+  "name": "사가정역",
+  "scale": 1.0,
+  "viewBox": [
+   3920.8,
+   2113.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "상봉역",
+   "면목역",
+   "용마산역"
+  ]
+ },
+ "298": {
+  "name": "신내역",
+  "scale": 1.0,
+  "viewBox": [
+   4082.2,
+   1739.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "봉화산역"
+  ]
+ },
+ "341": {
+  "name": "용마산역",
+  "scale": 1.0,
+  "viewBox": [
+   3920.6,
+   2178.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "사가정역",
+   "중곡역"
+  ]
+ },
+ "346": {
+  "name": "중곡역",
+  "scale": 1.0,
+  "viewBox": [
+   3913.7,
+   2265.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "아차산역",
+   "용마산역",
+   "군자역"
+  ]
+ },
+ "95": {
+  "name": "청량리역",
+  "scale": 1.0,
+  "viewBox": [
+   3568.6,
+   2109.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "신설동역",
+   "고려대역",
+   "제기동역",
+   "신답역",
+   "안암역",
+   "회기역"
+  ]
+ },
+ "101": {
+  "name": "회기역",
+  "scale": 1.0,
+  "viewBox": [
+   3696.2,
+   2087.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "중랑역"
+  ]
+ },
+ "363": {
+  "name": "문정역",
+  "scale": 1.0,
+  "viewBox": [
+   4237.9,
+   3053.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "장지역",
+   "경찰병원역"
+  ]
+ },
+ "374": {
+  "name": "장지역",
+  "scale": 1.0,
+  "viewBox": [
+   4238.2,
+   3129.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "문정역",
+   "복정역"
+  ]
+ },
+ "366": {
+  "name": "산성역",
+  "scale": 1.0,
+  "viewBox": [
+   4398.6,
+   3310.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "남위례역"
+  ]
+ },
+ "356": {
+  "name": "남위례역",
+  "scale": 1.0,
+  "viewBox": [
+   4324.8,
+   3262.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "산성역"
+  ]
+ },
+ "359": {
+  "name": "단대오거리역",
+  "scale": 1.0,
+  "viewBox": [
+   4474.3,
+   3480.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "신흥역"
+  ]
+ },
+ "370": {
+  "name": "신흥역",
+  "scale": 1.0,
+  "viewBox": [
+   4365.2,
+   3496.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "가천대역",
+   "태평역"
+  ]
+ },
+ "369": {
+  "name": "수진역",
+  "scale": 1.0,
+  "viewBox": [
+   4295.2,
+   3608.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "태평역"
+  ]
+ },
+ "484": {
+  "name": "가천대역",
+  "scale": 1.0,
+  "viewBox": [
+   4246.2,
+   3426.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "신흥역",
+   "태평역"
+  ]
+ },
+ "524": {
+  "name": "태평역",
+  "scale": 1.0,
+  "viewBox": [
+   4239.2,
+   3506.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "신흥역",
+   "수진역",
+   "가천대역",
+   "모란역"
+  ]
+ },
+ "480": {
+  "name": "이매역",
+  "scale": 1.0,
+  "viewBox": [
+   4226.3,
+   3933.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "성남역"
+  ]
+ },
+ "534": {
+  "name": "양재시민의숲역",
+  "scale": 1.0,
+  "viewBox": [
+   3533.0,
+   3183.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "구룡역"
+  ]
+ },
+ "504": {
+  "name": "수내역",
+  "scale": 1.0,
+  "viewBox": [
+   4124.1,
+   4153.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "서현역",
+   "정자역"
+  ]
+ },
+ "501": {
+  "name": "서현역",
+  "scale": 1.0,
+  "viewBox": [
+   4200.1,
+   4077.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "수내역"
+  ]
+ },
+ "521": {
+  "name": "정자역",
+  "scale": 1.0,
+  "viewBox": [
+   4089.7,
+   4244.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "수내역"
+  ]
+ },
+ "497": {
+  "name": "보정역",
+  "scale": 1.0,
+  "viewBox": [
+   4092.8,
+   4745.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "죽전역"
+  ]
+ },
+ "522": {
+  "name": "죽전역",
+  "scale": 1.0,
+  "viewBox": [
+   4092.8,
+   4647.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "보정역"
+  ]
+ },
+ "249": {
+  "name": "둔촌동역",
+  "scale": 1.0,
+  "viewBox": [
+   4352.1,
+   2638.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "둔촌오륜역",
+   "올림픽공원역",
+   "길동역"
+  ]
+ },
+ "272": {
+  "name": "올림픽공원역",
+  "scale": 1.0,
+  "viewBox": [
+   4356.0,
+   2683.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "둔촌오륜역",
+   "둔촌동역"
+  ]
+ },
+ "258": {
+  "name": "방이역",
+  "scale": 1.0,
+  "viewBox": [
+   4346.9,
+   2813.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "오금역",
+   "개롱역",
+   "거여역"
+  ]
+ },
+ "178": {
+  "name": "오금역",
+  "scale": 1.0,
+  "viewBox": [
+   4333.3,
+   2856.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "방이역",
+   "개롱역",
+   "거여역",
+   "마천역"
+  ]
+ },
+ "235": {
+  "name": "강동역",
+  "scale": 1.0,
+  "viewBox": [
+   4274.1,
+   2520.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "천호역",
+   "길동역",
+   "암사역"
+  ]
+ },
+ "275": {
+  "name": "천호역",
+  "scale": 1.0,
+  "viewBox": [
+   4224.9,
+   2530.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "강동역",
+   "길동역",
+   "암사역"
+  ]
+ },
+ "244": {
+  "name": "군자역",
+  "scale": 1.0,
+  "viewBox": [
+   3901.8,
+   2315.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "아차산역",
+   "중곡역"
+  ]
+ },
+ "237": {
+  "name": "개롱역",
+  "scale": 1.0,
+  "viewBox": [
+   4372.1,
+   2888.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "방이역",
+   "오금역",
+   "거여역",
+   "마천역",
+   "경찰병원역"
+  ]
+ },
+ "239": {
+  "name": "거여역",
+  "scale": 1.0,
+  "viewBox": [
+   4403.8,
+   2919.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "방이역",
+   "오금역",
+   "개롱역",
+   "마천역"
+  ]
+ },
+ "252": {
+  "name": "마천역",
+  "scale": 1.0,
+  "viewBox": [
+   4440.9,
+   2957.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "오금역",
+   "개롱역",
+   "거여역"
+  ]
+ },
+ "145": {
+  "name": "잠실역",
+  "scale": 1.0,
+  "viewBox": [
+   4017.7,
+   2778.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "잠실나루역",
+   "송파나루역",
+   "몽촌토성역"
+  ]
+ },
+ "163": {
+  "name": "도곡역",
+  "scale": 1.0,
+  "viewBox": [
+   3603.5,
+   3058.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 7,
+  "neighbor_names": [
+   "역삼역",
+   "매봉역",
+   "개포동역",
+   "구룡역",
+   "대치역",
+   "한티역",
+   "선릉역"
+  ]
+ },
+ "361": {
+  "name": "모란역",
+  "scale": 1.0,
+  "viewBox": [
+   4163.8,
+   3594.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "태평역"
+  ]
+ },
+ "365": {
+  "name": "복정역",
+  "scale": 1.0,
+  "viewBox": [
+   4166.7,
+   3227.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "장지역"
+  ]
+ },
+ "195": {
+  "name": "남태령역",
+  "scale": 1.0,
+  "viewBox": [
+   3131.1,
+   3254.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "사당역",
+   "방배역"
+  ]
+ },
+ "191": {
+  "name": "경마공원역",
+  "scale": 1.0,
+  "viewBox": [
+   3352.9,
+   3454.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "선바위역"
+  ]
+ },
+ "225": {
+  "name": "정부과천청사역",
+  "scale": 1.0,
+  "viewBox": [
+   3146.9,
+   3656.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "과천역"
+  ]
+ },
+ "224": {
+  "name": "인덕원역",
+  "scale": 1.0,
+  "viewBox": [
+   3046.4,
+   3902.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "평촌역"
+  ]
+ },
+ "230": {
+  "name": "평촌역",
+  "scale": 1.0,
+  "viewBox": [
+   2953.9,
+   3995.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "인덕원역"
+  ]
+ },
+ "204": {
+  "name": "범계역",
+  "scale": 1.0,
+  "viewBox": [
+   2766.6,
+   3980.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "명학역"
+  ]
+ },
+ "213": {
+  "name": "수리산역",
+  "scale": 1.0,
+  "viewBox": [
+   2593.2,
+   4366.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "산본역"
+  ]
+ },
+ "207": {
+  "name": "산본역",
+  "scale": 1.0,
+  "viewBox": [
+   2660.3,
+   4299.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "수리산역"
+  ]
+ },
+ "210": {
+  "name": "상록수역",
+  "scale": 1.0,
+  "viewBox": [
+   2187.6,
+   4808.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "한대앞역"
+  ]
+ },
+ "231": {
+  "name": "한대앞역",
+  "scale": 1.0,
+  "viewBox": [
+   2112.8,
+   4745.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "상록수역"
+  ]
+ },
+ "229": {
+  "name": "초지역",
+  "scale": 1.0,
+  "viewBox": [
+   1621.5,
+   4707.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "안산역",
+   "시우역"
+  ]
+ },
+ "219": {
+  "name": "안산역",
+  "scale": 1.0,
+  "viewBox": [
+   1527.7,
+   4619.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "초지역"
+  ]
+ },
+ "226": {
+  "name": "정왕역",
+  "scale": 1.0,
+  "viewBox": [
+   1234.7,
+   4326.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "오이도역"
+  ]
+ },
+ "221": {
+  "name": "오이도역",
+  "scale": 1.0,
+  "viewBox": [
+   1141.4,
+   4244.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "정왕역"
+  ]
+ },
+ "502": {
+  "name": "소래포구역",
+  "scale": 1.0,
+  "viewBox": [
+   1159.1,
+   3823.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "월곶역",
+   "인천논현역"
+  ]
+ },
+ "519": {
+  "name": "인천논현역",
+  "scale": 1.0,
+  "viewBox": [
+   1068.3,
+   3797.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "소래포구역"
+  ]
+ },
+ "526": {
+  "name": "호구포역",
+  "scale": 1.0,
+  "viewBox": [
+   943.2,
+   3803.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "신연수역"
+  ]
+ },
+ "490": {
+  "name": "남동인더스파크역",
+  "scale": 1.0,
+  "viewBox": [
+   848.5,
+   3762.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "신연수역",
+   "원인재역",
+   "호구포역"
+  ]
+ },
+ "513": {
+  "name": "연수역",
+  "scale": 1.0,
+  "viewBox": [
+   690.2,
+   3674.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "원인재역"
+  ]
+ },
+ "520": {
+  "name": "인하대역",
+  "scale": 1.0,
+  "viewBox": [
+   491.0,
+   3351.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "도화역",
+   "제물포역"
+  ]
+ },
+ "508": {
+  "name": "신포역",
+  "scale": 1.0,
+  "viewBox": [
+   207.9,
+   3201.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "숭의역"
+  ]
+ },
+ "506": {
+  "name": "숭의역",
+  "scale": 1.0,
+  "viewBox": [
+   279.7,
+   3273.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "신포역"
+  ]
+ },
+ "246": {
+  "name": "길동역",
+  "scale": 1.0,
+  "viewBox": [
+   4348.9,
+   2562.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "둔촌동역",
+   "강동역",
+   "천호역"
+  ]
+ },
+ "245": {
+  "name": "굽은다리역",
+  "scale": 1.0,
+  "viewBox": [
+   4396.2,
+   2464.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "강동역",
+   "길동역",
+   "명일역"
+  ]
+ },
+ "254": {
+  "name": "명일역",
+  "scale": 1.0,
+  "viewBox": [
+   4325.7,
+   2383.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "굽은다리역",
+   "고덕역",
+   "암사역",
+   "암사역사공원역"
+  ]
+ },
+ "240": {
+  "name": "고덕역",
+  "scale": 1.0,
+  "viewBox": [
+   4444.6,
+   2336.6,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "명일역"
+  ]
+ },
+ "260": {
+  "name": "상일동역",
+  "scale": 1.0,
+  "viewBox": [
+   4565.8,
+   2330.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "고덕역",
+   "강일역"
+  ]
+ },
+ "236": {
+  "name": "강일역",
+  "scale": 1.0,
+  "viewBox": [
+   4617.8,
+   2337.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "상일동역",
+   "미사역"
+  ]
+ },
+ "256": {
+  "name": "미사역",
+  "scale": 1.0,
+  "viewBox": [
+   4704.4,
+   2295.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "강일역"
+  ]
+ },
+ "371": {
+  "name": "암사역",
+  "scale": 1.0,
+  "viewBox": [
+   4237.0,
+   2448.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "강동역",
+   "천호역",
+   "명일역"
+  ]
+ },
+ "372": {
+  "name": "암사역사공원역",
+  "scale": 1.0,
+  "viewBox": [
+   4249.0,
+   2318.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "명일역"
+  ]
+ },
+ "360": {
+  "name": "동구릉역",
+  "scale": 1.0,
+  "viewBox": [
+   4389.1,
+   1816.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "도농역",
+   "구리역"
+  ]
+ },
+ "362": {
+  "name": "몽촌토성역",
+  "scale": 1.0,
+  "viewBox": [
+   4118.7,
+   2754.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "한성백제역",
+   "잠실역",
+   "강동구청역"
+  ]
+ },
+ "354": {
+  "name": "강동구청역",
+  "scale": 1.0,
+  "viewBox": [
+   4213.6,
+   2661.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "몽촌토성역"
+  ]
+ },
+ "13": {
+  "name": "남영역",
+  "scale": 1.0,
+  "viewBox": [
+   2966.3,
+   2525.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "신용산역",
+   "삼각지역",
+   "애오개역"
+  ]
+ },
+ "196": {
+  "name": "노원역",
+  "scale": 1.0,
+  "viewBox": [
+   3722.7,
+   1378.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "중계역",
+   "창동역",
+   "마들역",
+   "상계역"
+  ]
+ },
+ "307": {
+  "name": "태릉입구역",
+  "scale": 1.0,
+  "viewBox": [
+   3843.9,
+   1725.2,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "먹골역",
+   "화랑대역",
+   "공릉역"
+  ]
+ },
+ "47": {
+  "name": "석계역",
+  "scale": 1.0,
+  "viewBox": [
+   3656.6,
+   1766.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "돌곶이역",
+   "상월곡역",
+   "광운대역"
+  ]
+ },
+ "92": {
+  "name": "창동역",
+  "scale": 1.0,
+  "viewBox": [
+   3613.6,
+   1378.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "노원역",
+   "마들역"
+  ]
+ },
+ "592": {
+  "name": "범골역",
+  "scale": 1.0,
+  "viewBox": [
+   3507.5,
+   708.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "회룡역",
+   "경전철의정부역",
+   "의정부시청역"
+  ]
+ },
+ "588": {
+  "name": "경전철의정부역",
+  "scale": 1.0,
+  "viewBox": [
+   3483.8,
+   664.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "범골역",
+   "의정부시청역"
+  ]
+ },
+ "596": {
+  "name": "의정부시청역",
+  "scale": 1.0,
+  "viewBox": [
+   3418.7,
+   628.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "범골역",
+   "경전철의정부역"
+  ]
+ },
+ "600": {
+  "name": "흥선역",
+  "scale": 1.0,
+  "viewBox": [
+   3518.1,
+   501.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "가능역",
+   "의정부역"
+  ]
+ },
+ "597": {
+  "name": "의정부중앙역",
+  "scale": 1.0,
+  "viewBox": [
+   3649.7,
+   480.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "가능역",
+   "동오역",
+   "새말역",
+   "경기도청북부청사역"
+  ]
+ },
+ "590": {
+  "name": "동오역",
+  "scale": 1.0,
+  "viewBox": [
+   3664.0,
+   499.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "가능역",
+   "의정부역",
+   "의정부중앙역",
+   "새말역",
+   "경기도청북부청사역"
+  ]
+ },
+ "593": {
+  "name": "새말역",
+  "scale": 1.0,
+  "viewBox": [
+   3695.4,
+   494.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "가능역",
+   "의정부중앙역",
+   "동오역",
+   "경기도청북부청사역",
+   "효자역"
+  ]
+ },
+ "587": {
+  "name": "경기도청북부청사역",
+  "scale": 1.0,
+  "viewBox": [
+   3750.3,
+   425.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 6,
+  "neighbor_names": [
+   "녹양역",
+   "가능역",
+   "의정부중앙역",
+   "동오역",
+   "새말역",
+   "효자역"
+  ]
+ },
+ "599": {
+  "name": "효자역",
+  "scale": 1.0,
+  "viewBox": [
+   3820.9,
+   427.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "새말역",
+   "경기도청북부청사역",
+   "곤제역"
+  ]
+ },
+ "589": {
+  "name": "곤제역",
+  "scale": 1.0,
+  "viewBox": [
+   3891.2,
+   465.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "효자역",
+   "어룡역"
+  ]
+ },
+ "595": {
+  "name": "어룡역",
+  "scale": 1.0,
+  "viewBox": [
+   3914.1,
+   563.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "곤제역",
+   "송산역",
+   "탑석역"
+  ]
+ },
+ "594": {
+  "name": "송산역",
+  "scale": 1.0,
+  "viewBox": [
+   3914.5,
+   600.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "어룡역",
+   "탑석역"
+  ]
+ },
+ "598": {
+  "name": "탑석역",
+  "scale": 1.0,
+  "viewBox": [
+   3937.1,
+   619.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "어룡역",
+   "송산역"
+  ]
+ },
+ "21": {
+  "name": "도봉산역",
+  "scale": 1.0,
+  "viewBox": [
+   3543.9,
+   1059.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "도봉역"
+  ]
+ },
+ "591": {
+  "name": "발곡역",
+  "scale": 1.0,
+  "viewBox": [
+   3674.9,
+   715.7,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "회룡역"
+  ]
+ },
+ "320": {
+  "name": "마들역",
+  "scale": 1.0,
+  "viewBox": [
+   3733.5,
+   1289.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "노원역",
+   "창동역",
+   "상계역"
+  ]
+ },
+ "22": {
+  "name": "도봉역",
+  "scale": 1.0,
+  "viewBox": [
+   3543.3,
+   1156.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "도봉산역"
+  ]
+ },
+ "206": {
+  "name": "불암산역",
+  "scale": 1.0,
+  "viewBox": [
+   3885.0,
+   1253.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "상계역"
+  ]
+ },
+ "209": {
+  "name": "상계역",
+  "scale": 1.0,
+  "viewBox": [
+   3826.0,
+   1357.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "중계역",
+   "노원역",
+   "마들역"
+  ]
+ },
+ "153": {
+  "name": "경찰병원역",
+  "scale": 1.0,
+  "viewBox": [
+   4274.2,
+   2961.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "가락시장역",
+   "문정역",
+   "오금역",
+   "개롱역"
+  ]
+ },
+ "17": {
+  "name": "당정역",
+  "scale": 1.0,
+  "viewBox": [
+   2835.5,
+   4428.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "군포역"
+  ]
+ },
+ "482": {
+  "name": "초월역",
+  "scale": 1.0,
+  "viewBox": [
+   5378.2,
+   4146.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "곤지암역",
+   "이천역"
+  ]
+ },
+ "473": {
+  "name": "곤지암역",
+  "scale": 1.0,
+  "viewBox": [
+   5372.2,
+   4188.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "초월역",
+   "신둔도예촌역",
+   "이천역",
+   "부발역"
+  ]
+ },
+ "478": {
+  "name": "신둔도예촌역",
+  "scale": 1.0,
+  "viewBox": [
+   5360.3,
+   4236.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "초월역",
+   "곤지암역",
+   "이천역",
+   "부발역"
+  ]
+ },
+ "481": {
+  "name": "이천역",
+  "scale": 1.0,
+  "viewBox": [
+   5378.2,
+   4254.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 5,
+  "neighbor_names": [
+   "초월역",
+   "곤지암역",
+   "신둔도예촌역",
+   "부발역",
+   "여주역"
+  ]
+ },
+ "474": {
+  "name": "부발역",
+  "scale": 1.0,
+  "viewBox": [
+   5378.2,
+   4290.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "신둔도예촌역",
+   "이천역",
+   "세종대왕릉역",
+   "여주역"
+  ]
+ },
+ "477": {
+  "name": "세종대왕릉역",
+  "scale": 1.0,
+  "viewBox": [
+   5360.3,
+   4344.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "이천역",
+   "부발역",
+   "여주역"
+  ]
+ },
+ "479": {
+  "name": "여주역",
+  "scale": 1.0,
+  "viewBox": [
+   5378.2,
+   4362.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "이천역",
+   "부발역",
+   "세종대왕릉역"
+  ]
+ },
+ "544": {
+  "name": "정릉역",
+  "scale": 1.0,
+  "viewBox": [
+   3255.3,
+   1896.4,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "북한산보국문역"
+  ]
+ },
+ "536": {
+  "name": "4.19민주묘지역",
+  "scale": 1.0,
+  "viewBox": [
+   3264.2,
+   1467.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "솔밭공원역",
+   "가오리역"
+  ]
+ },
+ "539": {
+  "name": "북한산우이역",
+  "scale": 1.0,
+  "viewBox": [
+   3273.3,
+   1328.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "솔밭공원역"
+  ]
+ },
+ "542": {
+  "name": "솔밭공원역",
+  "scale": 1.0,
+  "viewBox": [
+   3279.4,
+   1381.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "북한산우이역"
+  ]
+ },
+ "537": {
+  "name": "가오리역",
+  "scale": 1.0,
+  "viewBox": [
+   3324.1,
+   1539.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "미아역",
+   "수유역",
+   "4.19민주묘지역",
+   "화계역"
+  ]
+ },
+ "545": {
+  "name": "화계역",
+  "scale": 1.0,
+  "viewBox": [
+   3327.0,
+   1593.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "미아역",
+   "수유역",
+   "가오리역",
+   "삼양역"
+  ]
+ },
+ "541": {
+  "name": "삼양역",
+  "scale": 1.0,
+  "viewBox": [
+   3327.0,
+   1660.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 4,
+  "neighbor_names": [
+   "미아역",
+   "화계역",
+   "삼양사거리역",
+   "솔샘역"
+  ]
+ },
+ "540": {
+  "name": "삼양사거리역",
+  "scale": 1.0,
+  "viewBox": [
+   3385.0,
+   1726.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 3,
+  "neighbor_names": [
+   "미아역",
+   "삼양역",
+   "솔샘역"
+  ]
+ },
+ "543": {
+  "name": "솔샘역",
+  "scale": 1.0,
+  "viewBox": [
+   3305.2,
+   1714.1,
+   320,
+   280
+  ],
+  "neighbors_visible": 2,
+  "neighbor_names": [
+   "삼양역",
+   "삼양사거리역"
+  ]
+ },
+ "538": {
+  "name": "북한산보국문역",
+  "scale": 1.0,
+  "viewBox": [
+   3231.1,
+   1829.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "정릉역"
+  ]
+ },
+ "556": {
+  "name": "시우역",
+  "scale": 1.0,
+  "viewBox": [
+   1628.8,
+   4779.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "초지역"
+  ]
+ },
+ "557": {
+  "name": "시흥능곡역",
+  "scale": 1.0,
+  "viewBox": [
+   1732.8,
+   4137.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "시흥시청역"
+  ]
+ },
+ "559": {
+  "name": "시흥시청역",
+  "scale": 1.0,
+  "viewBox": [
+   1732.8,
+   4050.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "시흥능곡역"
+  ]
+ },
+ "572": {
+  "name": "풍무역",
+  "scale": 1.0,
+  "viewBox": [
+   1112.8,
+   1837.5,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "사우역"
+  ]
+ },
+ "568": {
+  "name": "사우역",
+  "scale": 1.0,
+  "viewBox": [
+   1005.3,
+   1730.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "풍무역"
+  ]
+ },
+ "564": {
+  "name": "걸포북변역",
+  "scale": 1.0,
+  "viewBox": [
+   885.5,
+   1634.0,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "사우역"
+  ]
+ },
+ "567": {
+  "name": "마산역",
+  "scale": 1.0,
+  "viewBox": [
+   417.3,
+   1520.3,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "구래역"
+  ]
+ },
+ "566": {
+  "name": "구래역",
+  "scale": 1.0,
+  "viewBox": [
+   297.4,
+   1483.9,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "마산역"
+  ]
+ },
+ "655": {
+  "name": "킨텍스역",
+  "scale": 1.0,
+  "viewBox": [
+   1209.9,
+   1338.8,
+   320,
+   280
+  ],
+  "neighbors_visible": 1,
+  "neighbor_names": [
+   "주엽역"
+  ]
+ }
+}
